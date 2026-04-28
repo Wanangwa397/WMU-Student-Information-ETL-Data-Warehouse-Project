@@ -1,6 +1,6 @@
 # WMU Student Information ETL & Data Warehouse Project
 
-## Project Overview
+## 1. Project Overview
 
 WMU (Western Midlands University) is a fictional higher education institution used for this project. This end-to-end SSIS ETL and SQL Server Data Warehouse project was designed to integrate student data from multiple source files into a structured reporting environment for institutional analytics and decision-making.
 
@@ -10,7 +10,7 @@ The final solution supports Power BI-ready institutional reporting by transformi
 
 ---
 
-## Business Problem
+## 2. Business Problem
 
 Higher education institutions manage student data across multiple operational systems such as admissions, enrollment, academics, financial aid, and student engagement platforms. These systems often store transactional data separately, making reporting difficult, inconsistent, and time-consuming.
 
@@ -26,7 +26,7 @@ This project solves that problem by creating a full ETL pipeline that extracts r
 
 ---
 
-## Project Objectives
+## 3. Project Objectives
 
 The main objectives of this project were:
 
@@ -40,7 +40,7 @@ The main objectives of this project were:
 
 ---
 
-## Tools Used
+## 4. Tools Used
 
 ### ETL & Database
 
@@ -61,7 +61,7 @@ The main objectives of this project were:
 
 ---
 
-## ETL Architecture
+## 5. ETL Architecture
 
 The project follows a full refresh ETL architecture:
 
@@ -81,23 +81,29 @@ Audit Tables (Validation Summary + ETL Run)
 Power BI Reporting
 ```
 
+### ETL Process Flow
+
+
+1. Truncate SQL staging tables before loading data from CSV source
+2. Load csv fikes to SQL staging tables
+3. Clear exceptions and validation summary  
+4. Validate StudentMaster and load invalid records into exceptions.StudentMaster  
+5. Clear warehouse tables before loading clean data  
+6. Load clean StudentMaster records to warehouse.DimStudent  
+7. Validate StudentEnrollment and load invalid records into exceptions.StudentEnrollment  
+8. Load clean StudentEnrollment records to warehouse.FactEnrollment  
+9. Validate AcademicPerformance and load invalid records into exceptions.AcademicPerformance  
+10. Load clean AcademicPerformance records to warehouse.FactAcademicPerformance  
+11. Validate FinancialAid and load invalid records into exceptions.FinancialAid  
+12. Load clean FinancialAid records to warehouse.FactFinancialAid  
+13. Validate StudentAttendance and load invalid records into exceptions.StudentAttendance  
+14. Load clean StudentAttendance records to warehouse.FactStudentAttendance  
+15. Generate final ETL validation summary  
+16. Log ETL execution into audit.ETLRun  
+
 ---
 
-## ETL Process Flow
-
-1. Truncate staging tables before loading new source files  
-2. Clear previous exception records and validation summary  
-3. Validate StudentMaster and load invalid rows into exceptions  
-4. Clear warehouse tables before loading clean data  
-5. Load clean StudentMaster records into warehouse.DimStudent  
-6. Validate and load Enrollment, AcademicPerformance, FinancialAid, and Attendance records  
-7. Load clean records into warehouse fact tables  
-8. Generate final ETL validation summary  
-9. Log ETL execution into audit.ETLRun
-
----
-
-## Validation Rules
+## 6. Validation Rules
 
 Data quality validation was implemented using SQL business rules supported by reference tables and exception handling logic.
 
@@ -143,7 +149,7 @@ Data quality validation was implemented using SQL business rules supported by re
 
 ---
 
-## Exception Handling
+## 7. Exception Handling
 
 Invalid records were never loaded into the warehouse.
 
@@ -165,7 +171,7 @@ This approach ensured full data quality control, audit transparency, and correct
 
 ---
 
-## Warehouse Design
+## 8. Warehouse Design
 
 The final warehouse was built using a star schema design to support institutional reporting, Power BI dashboards, and analytics.
 
@@ -194,9 +200,7 @@ StudentKey
 
 was used as the warehouse primary key.
 
----
-
-## Fact Tables
+### Fact Tables
 
 ### warehouse.FactEnrollment
 
@@ -208,8 +212,6 @@ Stores enrollment activity:
 - CreditHours
 - ResidencyStatus
 - Campus
-
----
 
 ### warehouse.FactAcademicPerformance
 
@@ -224,8 +226,6 @@ Stores academic outcomes:
 - CumulativeGPA
 - AcademicStanding
 
----
-
 ### warehouse.FactFinancialAid
 
 Stores financial aid information:
@@ -235,8 +235,6 @@ Stores financial aid information:
 - AidAmount
 - FAFSAFiled
 - AidStatus
-
----
 
 ### warehouse.FactStudentAttendance
 
@@ -248,8 +246,6 @@ Stores engagement and attendance:
 - LMSLogins
 - AdvisorMeetings
 - EngagementRisk
-
----
 
 All fact tables were linked to:
 
@@ -267,7 +263,7 @@ which created a reporting-ready star schema structure for analytics and dashboar
 
 ---
 
-## Audit Reporting
+## 9. Audit Reporting
 
 To support ETL monitoring and data quality reporting, two audit tables were implemented:
 
@@ -290,8 +286,6 @@ Example issues include:
 
 This supports management reporting and data governance review.
 
----
-
 ### audit.ETLRun
 
 This table stores ETL execution history and final ETL performance metrics.
@@ -309,7 +303,7 @@ This supports ETL monitoring, execution tracking, and audit history.
 
 ---
 
-## Final ETL Results
+## 10. Final ETL Results
 
 The final ETL execution produced the following results:
 
@@ -320,9 +314,7 @@ InvalidRows = 723
 Status      = Success
 ```
 
----
-
-## Validation Consistency Proof
+### Validation Consistency Proof
 
 The project ensured consistency between validation reporting and ETL execution logging:
 
@@ -342,7 +334,7 @@ This level of consistency is critical in enterprise ETL systems and strengthens 
 
 ---
 
-## Key Project Outcomes
+## 11. Key Project Outcomes
 
 This project successfully delivered a complete end-to-end ETL and data warehouse solution for higher education student reporting.
 
@@ -359,7 +351,7 @@ This project successfully delivered a complete end-to-end ETL and data warehouse
 
 ---
 
-## Business Value
+## 12. Business Value
 
 This solution improves institutional reporting by creating a trusted single source of truth for student data.
 
@@ -378,7 +370,7 @@ Instead of reporting from disconnected operational systems, WMU can now use a cl
 
 ---
 
-## Author
+## 13. Author
 
 **Wanangwa Msiska**
 
