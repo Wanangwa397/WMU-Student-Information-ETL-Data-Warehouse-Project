@@ -208,6 +208,10 @@ This approach ensured full data quality control, audit transparency, and correct
 
 ## 8. Warehouse Design
 
+### Warehouse Star Schema Diagram
+
+![Warehouse Relationship Diagram](Screenshots/Warehouse_Relationship_Diagram.png)
+
 The final warehouse was built using a star schema design to support institutional reporting, Power BI dashboards, and analytics.
 
 Only clean validated records were loaded into the warehouse.
@@ -219,13 +223,18 @@ Only clean validated records were loaded into the warehouse.
 This central dimension stores student profile information including:
 
 - StudentID
-- FullName
+- FirstName
+- LastName
 - Gender
 - DateOfBirth
 - Nationality
+- State
+- program
+- Department
 - StudentLevel
-- StudentStatus
 - AdmissionDate
+- StudentStatus
+  
 
 A surrogate key:
 
