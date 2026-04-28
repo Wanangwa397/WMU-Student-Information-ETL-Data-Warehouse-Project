@@ -1,0 +1,1743 @@
+EnrollmentID,StudentID,Term,AcademicYear,EnrollmentStatus,CreditHours,ResidencyStatus,Campus,EnrollmentDate
+ENR000001,WMU00001,Spring 2025,2025,Enrolled,3,International,Online,2025-05-05
+ENR000002,WMU00001,Fall 2023,2023,Withdrawn,9,International,Main Campus,2023-09-23
+ENR000003,WMU00001,Spring 2024,2024,Withdrawn,12,Out-of-State,Online,2024-12-25
+ENR000004,WMU99999,Fall 2025,2025,Completed,3,In-State,Main Campus,2025-07-23
+ENR000005,WMU00002,Fall 2023,2023,Enrolled,3,Out-of-State,Regional Campus,2023-06-03
+ENR000006,WMU00002,Fall 2024,2024,Enrolled,12,International,Main Campus,2024-03-18
+ENR000007,WMU00002,Spring 2024,2024,Withdrawn,3,International,Main Campus,2024-05-23
+ENR000008,WMU00002,Spring 2025,2025,Enrolled,12,International,Regional Campus,2025-06-16
+ENR000009,WMU00002,Fall 2025,2025,Withdrawn,3,International,Main Campus,2025-03-02
+ENR000010,WMU00003,Fall 2023,2023,Enrolled,12,International,Regional Campus,2023-05-16
+ENR000011,WMU00003,Spring 2024,2024,Withdrawn,15,In-State,Main Campus,2024-06-02
+ENR000012,WMU00003,Spring 2025,2025,Enrolled,9,Out-of-State,Main Campus,2025-04-26
+ENR000013,WMU00004,Fall 2025,2025,Enrolled,3,Out-of-State,Regional Campus,2025-01-16
+ENR000014,WMU00004,Spring 2024,2024,Enrolled,15,In-State,Regional Campus,2024-11-05
+ENR000015,WMU00004,Fall 2024,2024,Enrolled,0,International,Main Campus,2024-05-27
+ENR000016,WMU00004,Fall 2023,2023,Withdrawn,3,International,Main Campus,2023-10-03
+ENR000017,WMU00004,Spring 2025,2025,Enrolled,3,Out-of-State,Regional Campus,2025-10-08
+ENR000018,WMU00005,Spring 2024,2024,Withdrawn,9,Out-of-State,Main Campus,2024-11-19
+ENR000019,WMU00005,Spring 2025,2025,Enrolled,15,Out-of-State,Main Campus,2025-01-19
+ENR000020,WMU00006,Fall 2024,2024,Enrolled,9,Out-of-State,Main Campus,2024-12-12
+ENR000021,WMU00006,Fall 2023,2023,Enrolled,15,Out-of-State,Main Campus,2023-10-02
+ENR000022,WMU00006,Spring 2025,2025,Enrolled,6,International,Regional Campus,2025-07-25
+ENR000023,WMU00007,Fall 2023,2023,Enrolled,3,In-State,Main Campus,2023-12-21
+ENR000024,WMU00007,Spring 2025,2025,Enrolled,15,Out-of-State,Regional Campus,2025-08-23
+ENR000025,WMU00007,Fall 2025,2025,Enrolled,6,In-State,Regional Campus,2025-05-17
+ENR000026,WMU00008,Spring 2025,2025,Completed,12,In-State,Regional Campus,2025-05-12
+ENR000027,WMU00008,Spring 2024,2024,Enrolled,12,International,Main Campus,2024-04-04
+ENR000028,WMU00008,Fall 2023,2023,Enrolled,15,International,Online,2023-09-17
+ENR000029,WMU00008,Fall 2024,2024,Withdrawn,6,International,Regional Campus,2024-04-09
+ENR000030,WMU00008,Fall 2025,2025,Enrolled,24,In-State,Main Campus,2025-11-28
+ENR000031,WMU00009,Spring 2025,2025,Enrolled,9,In-State,Online,2025-05-11
+ENR000032,WMU00009,Spring 2024,2024,Withdrawn,15,In-State,Main Campus,2024-12-02
+ENR000033,WMU00009,Fall 2023,2023,Enrolled,15,In-State,Main Campus,2023-08-17
+ENR000034,WMU00009,Fall 2024,2024,Enrolled,3,In-State,Regional Campus,2024-08-19
+ENR000035,WMU00009,Fall 2025,2025,Enrolled,15,Out-of-State,Main Campus,2025-12-22
+ENR000036,WMU00010,Spring 2024,2024,Enrolled,3,International,Online,2024-04-13
+ENR000037,WMU00010,Fall 2023,2023,Enrolled,6,Out-of-State,Regional Campus,2023-08-02
+ENR000038,WMU00010,Fall 2025,2025,Enrolled,12,In-State,Regional Campus,2025-08-06
+ENR000039,WMU00010,Spring 2025,2025,Enrolled,12,In-State,Online,2025-12-07
+ENR000040,WMU00011,Fall 2024,2024,Completed,3,In-State,Online,2024-03-04
+ENR000041,WMU00011,Spring 2024,2024,enrolled,12,Out-of-State,Main Campus,2024-06-08
+ENR000042,WMU00011,Spring 2025,2025,Completed,9,In-State,Regional Campus,2025-10-06
+ENR000043,WMU00011,Fall 2023,2023,Completed,15,In-State,Main Campus,2023-07-28
+ENR000044,WMU00012,Spring 2024,2024,Enrolled,12,In-State,Online,2024-07-19
+ENR000045,WMU00012,Spring 2025,2025,Completed,6,In-State,Regional Campus,2025-01-14
+ENR000046,WMU00012,Fall 2025,2025,Enrolled,3,Out-of-State,Regional Campus,2025-09-02
+ENR000047,WMU00012,Fall 2024,2024,Completed,12,Out-of-State,Online,2024-12-27
+ENR000048,WMU00012,Fall 2023,2023,Withdrawn,3,Out-of-State,Main Campus,2023-02-18
+ENR000049,WMU00013,Spring 2025,2025,Enrolled,6,Out-of-State,Main Campus,2025-11-03
+ENR000050,WMU00013,Spring 2024,2024,Withdrawn,3,International,Online,2024-03-23
+ENR000051,WMU00014,Fall 2025,2025,Enrolled,12,Out-of-State,Regional Campus,2025-08-23
+ENR000052,WMU00014,Fall 2023,2023,Enrolled,3,Out-of-State,Regional Campus,2023-06-17
+ENR000053,WMU00014,Spring 2024,2024,Enrolled,3,Out-of-State,Online,2024-12-20
+ENR000054,WMU00014,Fall 2024,2024,Completed,15,In-State,Regional Campus,2024-02-20
+ENR000055,WMU00014,Spring 2025,2025,Enrolled,9,International,Regional Campus,2025-06-02
+ENR000056,WMU00015,Spring 2025,2025,Completed,12,In-State,Online,2025-06-06
+ENR000057,WMU00015,Fall 2024,2024,Enrolled,15,International,Regional Campus,2024-04-05
+ENR000058,WMU00016,Spring 2024,2024,Enrolled,15,International,Main Campus,2024-06-12
+ENR000059,WMU00016,Autumn 2024,2023,Completed,9,International,Online,2023-05-02
+ENR000060,WMU00016,Fall 2024,2024,Enrolled,3,Out-of-State,Online,2024-08-17
+ENR000061,WMU00016,Fall 2025,2025,Enrolled,15,Out-of-State,Regional Campus,2025-09-22
+ENR000062,WMU00017,Spring 2025,2025,Withdrawn,6,In-State,Main Campus,2025-07-06
+ENR000063,WMU00017,Fall 2024,2024,Enrolled,9,In-State,Main Campus,2024-05-04
+ENR000064,WMU00017,Fall 2025,2025,Withdrawn,6,In-State,Main Campus,2025-09-21
+ENR000065,WMU00017,Fall 2023,2023,Enrolled,3,Out-of-State,Regional Campus,2023-09-05
+ENR000066,WMU00018,Fall 2024,2024,Enrolled,6,In-State,Main Campus,2024-09-21
+ENR000067,WMU00018,Spring 2025,2025,Withdrawn,9,International,Online,2025-11-21
+ENR000068,WMU00018,Spring 2024,2024,Withdrawn,9,International,Regional Campus,2024-12-17
+ENR000069,WMU00018,Fall 2023,2023,Withdrawn,15,Out-of-State,Online,2023-10-05
+ENR000070,WMU00018,Fall 2025,2025,Enrolled,9,Out-of-State,Main Campus,2025-08-12
+ENR000071,WMU00019,Fall 2023,2023,Enrolled,12,International Student,Main Campus,2023-12-18
+ENR000072,WMU00019,Spring 2024,2024,Enrolled,9,In-State,Regional Campus,2024-12-22
+ENR000073,WMU00019,Spring 2025,2025,Enrolled,6,In-State,Main Campus,2025-01-11
+ENR000074,WMU00019,Fall 2024,2024,Enrolled,15,Out-of-State,Online,2024-06-06
+ENR000075,WMU00020,Fall 2025,2025,Enrolled,9,In-State,Online,2025-08-18
+ENR000076,WMU00020,Fall 2023,2023,Completed,6,Out-of-State,Main Campus,2023-01-13
+ENR000077,WMU00020,Fall 2024,2024,Enrolled,12,Out-of-State,Online,2024-03-01
+ENR000078,WMU00021,Fall 2024,2024,Withdrawn,15,Out-of-State,Regional Campus,2024-02-24
+ENR000079,WMU00021,Spring 2025,2025,Enrolled,12,In-State,Regional Campus,2025-09-04
+ENR000080,WMU00021,Spring 2024,2024,Enrolled,9,Out-of-State,Regional Campus,2024-04-15
+ENR000081,WMU00021,Fall 2023,2023,Enrolled,9,Out-of-State,Main Campus,2023-10-21
+ENR000082,WMU00022,Fall 2025,2025,Enrolled,6,In-State,Regional Campus,2025-08-22
+ENR000083,WMU00022,Spring 2024,2024,Completed,3,Out-of-State,Main Campus,2024-08-11
+ENR000084,WMU00022,Spring 2025,2025,Completed,15,International,Main Campus,2025-11-12
+ENR000085,WMU00023,Spring 2024,2024,Enrolled,3,Out-of-State,Online,2024-05-15
+ENR000086,WMU00023,Spring 2025,2025,Enrolled,15,In-State,Regional Campus,2025-08-24
+ENR000087,WMU00023,Fall 2025,2025,Withdrawn,12,Out-of-State,Main Campus,2025-12-14
+ENR000088,WMU00023,Fall 2024,2024,Enrolled,12,International,Regional Campus,2024-02-05
+ENR000089,WMU00023,Fall 2023,2023,Enrolled,6,Out-of-State,Regional Campus,2020-01-05
+ENR000090,WMU00024,Fall 2023,2023,Completed,6,Out-of-State,Regional Campus,2023-10-25
+ENR000091,WMU00024,Fall 2025,2025,Enrolled,6,In-State,Online,2025-05-18
+ENR000092,WMU00024,Spring 2024,2024,Enrolled,12,Out-of-State,Regional Campus,2024-05-16
+ENR000093,WMU00024,Fall 2024,2024,Withdrawn,15,In-State,Main Campus,2024-01-05
+ENR000094,WMU00024,Spring 2025,2025,Enrolled,9,International,Regional Campus,2025-08-04
+ENR000095,WMU00025,Spring 2025,2025,Enrolled,3,Out-of-State,Online,2025-02-20
+ENR000096,WMU00025,Spring 2024,2024,Completed,9,Out-of-State,Regional Campus,2024-07-28
+ENR000097,WMU00025,Fall 2025,2025,Withdrawn,9,International,Main Campus,2025-06-17
+ENR000098,WMU00025,Fall 2023,2023,Enrolled,15,Out-of-State,Main Campus,2023-10-02
+ENR000099,WMU00026,Fall 2024,2024,Enrolled,6,In-State,Main Campus,2024-05-12
+ENR000100,WMU00026,Spring 2025,2025,Enrolled,12,In-State,Online,2025-05-17
+ENR000101,WMU00026,Fall 2025,2025,Completed,3,In-State,Regional Campus,2025-03-25
+ENR000102,WMU00027,Fall 2025,2025,Enrolled,15,Out-of-State,Regional Campus,2025-05-09
+ENR000103,WMU00027,Spring 2024,2024,Enrolled,9,International,Regional Campus,2024-06-27
+ENR000104,WMU00028,Fall 2023,2023,Enrolled,9,Out-of-State,Online,2023-06-06
+ENR000105,WMU00028,Spring 2024,2024,Enrolled,3,In-State,Regional Campus,2024-04-27
+ENR000106,WMU00028,Fall 2024,2024,Completed,6,International,Regional Campus,2024-09-28
+ENR000107,WMU00029,Spring 2025,2025,Enrolled,3,In-State,Main Campus,2025-08-12
+ENR000108,WMU00029,Fall 2025,2025,Enrolled,9,In-State,Online,2025-10-17
+ENR000109,WMU00030,Spring 2024,2024,Enrolled,6,International,Main Campus,2024-12-08
+ENR000110,WMU00030,Fall 2024,2024,Enrolled,9,In-State,Main Campus,2024-02-14
+ENR000111,WMU00030,Fall 2023,2023,Enrolled,3,In-State,Online,2023-07-02
+ENR000112,WMU00030,Spring 2025,2025,Enrolled,6,In-State,Regional Campus,2025-09-19
+ENR000113,WMU00031,Spring 2025,2025,Enrolled,9,In-State,Online,2025-11-01
+ENR000114,WMU00031,Fall 2023,2023,Enrolled,3,International,Main Campus,2023-10-07
+ENR000115,WMU00032,Fall 2024,2024,Enrolled,6,International,Online,2024-06-06
+ENR000116,WMU00032,Fall 2023,2023,Completed,15,In-State,Regional Campus,2023-10-03
+ENR000117,WMU00032,Spring 2025,2025,Completed,3,In-State,Regional Campus,2025-04-23
+ENR000118,WMU00033,Fall 2024,2024,Enrolled,3,In-State,Regional Campus,2024-12-16
+ENR000119,WMU00033,Spring 2024,2024,Completed,9,In-State,Online,2024-11-04
+ENR000120,WMU00033,Fall 2025,2025,Enrolled,6,Out-of-State,Online,2025-04-17
+ENR000121,WMU00034,Spring 2025,2025,Withdrawn,3,In-State,Regional Campus,2025-03-16
+ENR000122,WMU00034,Fall 2023,2023,Enrolled,9,International,Regional Campus,2023-01-03
+ENR000123,WMU00034,Spring 2024,2024,Withdrawn,9,In-State,Online,2024-05-15
+ENR000124,WMU00035,Spring 2025,2025,Withdrawn,9,In-State,Main Campus,2025-08-22
+ENR000125,WMU00035,Spring 2024,2024,Enrolled,9,In-State,Regional Campus,2024-08-22
+ENR000126,WMU00035,Fall 2024,2024,Withdrawn,3,Out-of-State,Regional Campus,2024-11-22
+ENR000127,WMU00035,Fall 2025,2025,Enrolled,3,In-State,Online,2025-07-23
+ENR000128,WMU00036,Spring 2024,2024,Enrolled,9,Out-of-State,Main Campus,2024-10-28
+ENR000129,WMU00036,Fall 2023,2023,Enrolled,12,In-State,Online,2023-12-16
+ENR000130,WMU00037,Fall 2025,2025,Withdrawn,9,International,Regional Campus,2025-07-16
+ENR000131,WMU00037,Fall 2024,2024,Enrolled,15,In-State,Online,2024-02-04
+ENR000132,WMU00037,Spring 2025,2025,Withdrawn,9,Out-of-State,Main Campus,2025-11-05
+ENR000133,WMU00037,Spring 2024,2024,Enrolled,3,International,Main Campus,2024-02-16
+ENR000134,WMU00038,Spring 2024,2024,Enrolled,15,In-State,Online,2024-10-20
+ENR000135,WMU00038,Spring 2025,2025,Enrolled,3,International,Regional Campus,2025-08-26
+ENR000136,WMU00039,Spring 2024,2024,Enrolled,15,International,Online,2024-09-18
+ENR000137,WMU00039,Fall 2024,2024,Enrolled,3,Out-of-State,Main Campus,2024-07-15
+ENR000138,WMU00039,Spring 2025,2025,Withdrawn,9,Out-of-State,Online,2025-01-02
+ENR000139,WMU00039,Fall 2025,2025,Completed,6,International,Online,2025-12-06
+ENR000140,WMU00039,Fall 2023,2023,Withdrawn,12,In-State,Online,2023-12-13
+ENR000141,WMU00040,Fall 2023,2023,Enrolled,15,International,Main Campus,2023-07-09
+ENR000142,WMU00040,Spring 2025,2025,Completed,12,Out-of-State,Regional Campus,2025-11-12
+ENR000143,WMU00040,Fall 2024,2024,Enrolled,9,In-State,Main Campus,2024-10-02
+ENR000144,WMU00040,Spring 2024,2024,Enrolled,6,Out-of-State,Regional Campus,2024-10-01
+ENR000145,WMU00040,Fall 2025,2025,Withdrawn,9,In-State,Online,2025-06-12
+ENR000146,WMU00041,Fall 2024,2024,Enrolled,6,International,Main Campus,2024-12-03
+ENR000147,WMU00041,Fall 2023,2023,Enrolled,9,Out-of-State,Main Campus,2023-01-18
+ENR000148,WMU00041,Fall 2025,2025,Enrolled,9,Out-of-State,Regional Campus,2025-07-19
+ENR000149,WMU00041,Spring 2025,2025,Withdrawn,15,Out-of-State,Main Campus,2025-12-16
+ENR000150,WMU00041,Spring 2024,2024,Enrolled,15,Out-of-State,Online,2024-10-13
+ENR000151,WMU00042,Fall 2025,2025,Enrolled,6,Out-of-State,Regional Campus,2025-11-11
+ENR000152,WMU00042,Fall 2023,2023,Completed,6,Out-of-State,Online,2023-07-07
+ENR000153,WMU00042,Spring 2024,2024,Enrolled,12,International,Main Campus,2024-05-09
+ENR000154,WMU00042,Spring 2025,2025,Enrolled,3,International,Online,2025-04-20
+ENR000155,WMU00043,Fall 2025,2025,Enrolled,15,Out-of-State,Main Campus,2025-10-26
+ENR000156,WMU00043,Fall 2023,2023,Withdrawn,15,Out-of-State,Main Campus,2023-06-26
+ENR000157,WMU00044,Fall 2024,2024,Completed,12,Out-of-State,Main Campus,2024-07-13
+ENR000158,WMU00044,Fall 2025,2025,Completed,9,International,Online,2025-11-25
+ENR000159,WMU00045,Fall 2023,2023,Enrolled,12,International,Regional Campus,2023-08-09
+ENR000160,WMU00045,Spring 2024,2024,Completed,15,Out-of-State,Regional Campus,2024-12-21
+ENR000161,WMU00045,Fall 2024,2024,Completed,3,In-State,Online,2024-08-05
+ENR000162,WMU00046,Spring 2024,2024,Enrolled,12,In-State,Regional Campus,2024-04-28
+ENR000163,WMU00046,Fall 2024,2024,Enrolled,12,Out-of-State,Regional Campus,2024-03-09
+ENR000164,WMU00046,Fall 2025,2025,Enrolled,15,Out-of-State,Main Campus,2025-02-05
+ENR000165,WMU00047,Fall 2023,2023,Withdrawn,12,International,Online,2023-07-21
+ENR000166,WMU00047,Spring 2024,2024,Enrolled,3,In-State,Online,2024-03-01
+ENR000167,WMU00047,Spring 2025,2025,Enrolled,9,International,Regional Campus,2025-03-21
+ENR000168,WMU00048,Spring 2025,2025,Enrolled,3,Out-of-State,Regional Campus,2025-05-28
+ENR000169,WMU00048,Fall 2023,2023,Withdrawn,3,Out-of-State,Regional Campus,2023-11-03
+ENR000170,WMU00049,Spring 2024,2024,Enrolled,12,In-State,Regional Campus,2024-02-25
+ENR000171,WMU00049,Fall 2025,2025,Enrolled,9,International,Regional Campus,2025-07-26
+ENR000172,WMU00049,Fall 2023,2023,Withdrawn,6,In-State,Main Campus,2023-02-06
+ENR000173,WMU00049,Fall 2024,2024,Enrolled,6,Out-of-State,Online,2024-05-28
+ENR000174,WMU00049,Spring 2025,2025,Enrolled,15,Out-of-State,Regional Campus,2025-06-23
+ENR000175,WMU00050,Fall 2024,2024,Enrolled,12,Out-of-State,Main Campus,2024-06-16
+ENR000176,WMU00050,Spring 2025,2025,Enrolled,9,In-State,Regional Campus,2025-10-02
+ENR000177,WMU00051,Spring 2024,2024,Withdrawn,15,Out-of-State,Regional Campus,2024-12-12
+ENR000178,WMU00051,Fall 2024,2024,Completed,3,In-State,Online,2024-07-01
+ENR000179,WMU00052,Fall 2024,2024,Enrolled,6,Out-of-State,Regional Campus,2024-06-26
+ENR000180,WMU00052,Fall 2025,2025,Enrolled,12,Out-of-State,Main Campus,2025-08-16
+ENR000181,WMU00052,Fall 2023,2023,Enrolled,12,International,Online,2023-02-27
+ENR000182,WMU00052,Spring 2025,2025,Enrolled,6,International,Main Campus,2025-06-14
+ENR000183,WMU00052,Spring 2024,2024,Completed,15,International,Online,2024-08-23
+ENR000184,WMU00053,Fall 2023,2023,Enrolled,12,In-State,Online,2023-04-21
+ENR000185,WMU00053,Spring 2024,2024,Enrolled,9,International,Main Campus,2024-02-06
+ENR000186,WMU00054,Fall 2025,2025,Enrolled,12,Out-of-State,Online,2025-12-05
+ENR000187,WMU00054,Spring 2024,2024,Enrolled,9,International,Regional Campus,2024-06-26
+ENR000188,WMU00054,Fall 2024,2024,Enrolled,9,In-State,Online,2024-06-06
+ENR000189,WMU00055,Spring 2025,2025,Withdrawn,3,In-State,Online,2025-12-28
+ENR000190,WMU00055,Spring 2024,2024,Enrolled,6,Out-of-State,Regional Campus,2024-07-20
+ENR000191,WMU00055,Fall 2023,2023,Enrolled,9,In-State,Online,2023-03-19
+ENR000192,WMU00055,Fall 2024,2024,Enrolled,3,International,Regional Campus,2024-07-25
+ENR000193,WMU00055,Fall 2025,2025,Withdrawn,12,In-State,Main Campus,2025-12-07
+ENR000194,WMU00056,Fall 2024,2024,Withdrawn,12,In-State,Online,2024-04-20
+ENR000195,WMU00056,Fall 2025,2025,Enrolled,6,International,Regional Campus,2025-04-14
+ENR000196,WMU00056,Spring 2025,2025,Withdrawn,6,In-State,Main Campus,2025-05-09
+ENR000197,WMU00057,Fall 2025,2025,Completed,9,International,Regional Campus,2025-08-03
+ENR000198,WMU00057,Spring 2025,2025,Withdrawn,3,In-State,Online,2025-12-13
+ENR000199,WMU00057,Fall 2023,2023,Withdrawn,6,International,Online,2023-12-20
+ENR000200,WMU00058,Fall 2023,2023,Enrolled,3,In-State,Online,2023-06-20
+ENR000201,WMU00058,Fall 2025,2025,Enrolled,15,In-State,Online,2025-09-20
+ENR000202,WMU00058,Fall 2024,2024,Enrolled,12,Out-of-State,Regional Campus,2024-06-05
+ENR000203,WMU00058,Spring 2025,2025,Enrolled,15,International,Main Campus,2025-05-06
+ENR000204,WMU00059,Fall 2024,2024,Withdrawn,15,In-State,Online,2024-02-11
+ENR000205,WMU00059,Spring 2025,2025,Enrolled,3,Out-of-State,Online,2025-12-12
+ENR000206,WMU00059,Fall 2023,2023,Enrolled,12,Out-of-State,Regional Campus,2023-05-17
+ENR000207,WMU00059,Fall 2025,2025,Withdrawn,9,In-State,Online,2025-12-16
+ENR000208,WMU00059,Spring 2024,2024,Completed,6,International,Regional Campus,2024-08-02
+ENR000209,WMU00060,Spring 2024,2024,Enrolled,6,Out-of-State,Online,2024-03-23
+ENR000210,WMU00060,Fall 2023,2023,Withdrawn,12,In-State,Online,2023-01-15
+ENR000211,WMU00060,Spring 2025,2025,Completed,9,Out-of-State,Online,2025-08-04
+ENR000212,WMU00061,Fall 2023,2023,Enrolled,6,In-State,Main Campus,2023-12-17
+ENR000213,WMU00061,Fall 2024,2024,Completed,9,International,Regional Campus,2024-04-19
+ENR000214,WMU00061,Fall 2025,2025,Completed,3,International,Main Campus,2025-07-03
+ENR000215,WMU00062,Spring 2025,2025,Enrolled,3,International,Regional Campus,2025-02-13
+ENR000216,WMU00062,Fall 2023,2023,Completed,9,In-State,Online,2023-03-01
+ENR000217,WMU00062,Spring 2024,2024,Withdrawn,3,International,Regional Campus,2024-08-15
+ENR000218,WMU00063,Fall 2025,2025,Withdrawn,15,Out-of-State,Regional Campus,2025-12-26
+ENR000219,WMU00063,Fall 2023,2023,Enrolled,15,In-State,Main Campus,2023-11-10
+ENR000220,WMU00063,Spring 2024,2024,Enrolled,9,International,Main Campus,2024-09-20
+ENR000221,WMU00063,Spring 2025,2025,Enrolled,12,Out-of-State,Online,2025-03-08
+ENR000222,WMU00064,Fall 2023,2023,Enrolled,12,International,Regional Campus,2023-03-04
+ENR000223,WMU00064,Fall 2025,2025,Withdrawn,9,Out-of-State,Regional Campus,2025-05-22
+ENR000224,WMU00064,Spring 2025,2025,Enrolled,15,Out-of-State,Regional Campus,2025-02-27
+ENR000225,WMU00064,Fall 2024,2024,Completed,9,In-State,Online,2024-08-13
+ENR000226,WMU00064,Spring 2024,2024,Enrolled,12,International,Regional Campus,2024-07-03
+ENR000227,WMU00065,Fall 2024,2024,Completed,3,Out-of-State,Online,2024-11-08
+ENR000228,WMU00065,Spring 2024,2024,Withdrawn,6,International,Regional Campus,2024-11-17
+ENR000229,WMU00065,Spring 2025,2025,Enrolled,3,Out-of-State,Online,2025-02-26
+ENR000230,WMU00065,Fall 2025,2025,Enrolled,12,In-State,Main Campus,2025-11-10
+ENR000231,WMU00065,Fall 2023,2023,Completed,6,Out-of-State,Online,2023-10-02
+ENR000232,WMU00066,Fall 2023,2023,Withdrawn,15,Out-of-State,Main Campus,2023-08-22
+ENR000233,WMU00066,Fall 2025,2025,Enrolled,15,Out-of-State,Online,2025-10-03
+ENR000234,WMU00067,Fall 2023,2023,Enrolled,6,Out-of-State,Main Campus,2023-02-14
+ENR000235,WMU00067,Spring 2025,2025,Enrolled,9,International,Regional Campus,2025-08-25
+ENR000236,WMU00068,Fall 2025,2025,Enrolled,6,International,Regional Campus,2025-05-28
+ENR000237,WMU00068,Fall 2024,2024,Withdrawn,3,International,Main Campus,2024-01-13
+ENR000238,WMU00068,Spring 2024,2024,Enrolled,3,In-State,Regional Campus,2024-08-15
+ENR000239,WMU00068,Fall 2023,2023,Completed,12,International,Online,2023-05-20
+ENR000240,WMU00068,Spring 2025,2025,Enrolled,15,International,Regional Campus,2025-12-22
+ENR000241,WMU00069,Fall 2024,2024,Enrolled,6,In-State,Regional Campus,2024-04-28
+ENR000242,WMU00069,Fall 2023,2023,Enrolled,3,Out-of-State,Regional Campus,2023-03-21
+ENR000243,WMU00069,Spring 2025,2025,Withdrawn,6,International,Regional Campus,2025-04-03
+ENR000244,WMU00069,Fall 2025,2025,Withdrawn,9,In-State,Online,2025-07-01
+ENR000245,WMU00069,Spring 2024,2024,Enrolled,3,In-State,Regional Campus,2024-12-15
+ENR000246,WMU00070,Spring 2025,2025,Completed,9,Out-of-State,Main Campus,2025-06-01
+ENR000247,WMU00070,Fall 2023,2023,Withdrawn,3,Out-of-State,Online,2023-12-19
+ENR000248,WMU00070,Spring 2024,2024,Completed,15,Out-of-State,Main Campus,2024-08-13
+ENR000249,WMU00070,Fall 2025,2025,Completed,12,International,Regional Campus,2025-10-22
+ENR000250,WMU00070,Fall 2024,2024,Enrolled,12,International,Main Campus,2024-09-01
+ENR000251,WMU00071,Fall 2025,2025,Withdrawn,12,In-State,Online,2025-10-21
+ENR000252,WMU00071,Fall 2024,2024,Withdrawn,9,International,Online,2024-01-06
+ENR000253,WMU00071,Spring 2025,2025,Enrolled,9,Out-of-State,Online,2025-08-08
+ENR000254,WMU00071,Fall 2023,2023,Enrolled,15,International,Regional Campus,2023-06-20
+ENR000255,WMU00071,Spring 2024,2024,Enrolled,12,Out-of-State,Regional Campus,2024-12-13
+ENR000256,WMU00072,Fall 2024,2024,Withdrawn,3,In-State,Main Campus,2024-04-06
+ENR000257,WMU00072,Spring 2025,2025,Withdrawn,15,In-State,Online,2025-08-10
+ENR000258,WMU00072,Fall 2023,2023,Enrolled,6,International,Main Campus,2023-01-12
+ENR000259,WMU00072,Fall 2025,2025,Enrolled,9,International,Main Campus,2025-03-27
+ENR000260,WMU00072,Spring 2024,2024,Enrolled,15,In-State,Online,2024-07-04
+ENR000261,WMU00073,Fall 2023,2023,Enrolled,9,Out-of-State,Main Campus,2023-09-09
+ENR000262,WMU00073,Spring 2024,2024,Completed,6,International,Regional Campus,2024-02-23
+ENR000263,WMU00073,Spring 2025,2025,Withdrawn,3,Out-of-State,Main Campus,2025-02-26
+ENR000264,WMU00074,Fall 2025,2025,Enrolled,15,In-State,Regional Campus,2025-02-28
+ENR000265,WMU00074,Fall 2023,2023,Enrolled,6,In-State,Regional Campus,2023-05-23
+ENR000266,WMU00075,Fall 2025,2025,Enrolled,9,In-State,Main Campus,2025-04-15
+ENR000267,WMU00075,Spring 2025,2025,Enrolled,12,In-State,Online,2025-06-10
+ENR000268,WMU00075,Fall 2024,2024,Enrolled,15,In-State,Online,2024-06-23
+ENR000269,WMU00075,Fall 2023,2023,Enrolled,12,International,Regional Campus,2023-04-05
+ENR000270,WMU00075,Spring 2024,2024,Withdrawn,15,In-State,Main Campus,2024-07-14
+ENR000271,WMU00076,Spring 2025,2025,Completed,3,In-State,Main Campus,2025-06-11
+ENR000272,WMU00076,Fall 2024,2024,Enrolled,12,Out-of-State,Main Campus,2024-07-25
+ENR000273,WMU00076,Fall 2023,2023,Enrolled,3,International,Main Campus,2023-11-23
+ENR000274,WMU00076,Spring 2024,2024,Enrolled,15,Out-of-State,Online,2024-11-23
+ENR000275,WMU00076,Fall 2025,2025,Enrolled,15,International,Regional Campus,2025-06-12
+ENR000276,WMU00077,Fall 2024,2024,Withdrawn,12,International,Main Campus,2024-09-20
+ENR000277,WMU00077,Spring 2024,2024,Withdrawn,15,International,Online,2024-11-13
+ENR000278,WMU00078,Fall 2024,2024,Enrolled,15,Out-of-State,Regional Campus,2024-12-24
+ENR000279,WMU00078,Fall 2023,2023,Completed,6,International,Online,2023-04-03
+ENR000280,WMU00078,Spring 2025,2025,Completed,15,Out-of-State,Regional Campus,2025-06-25
+ENR000281,WMU00079,Fall 2023,2023,Enrolled,15,In-State,Online,2023-12-14
+ENR000282,WMU00079,Fall 2025,2025,Enrolled,15,International,Main Campus,2025-06-09
+ENR000283,WMU00079,Fall 2024,2024,Enrolled,15,In-State,Main Campus,2024-11-04
+ENR000284,WMU00080,Fall 2024,2024,Completed,15,International,Regional Campus,2024-11-18
+ENR000285,WMU00080,Fall 2023,2023,Enrolled,15,Out-of-State,Online,2023-05-22
+ENR000286,WMU00080,Spring 2024,2024,Enrolled,15,International,Online,2024-09-24
+ENR000287,WMU00080,Fall 2025,2025,Enrolled,6,Out-of-State,Regional Campus,2025-10-07
+ENR000288,WMU00080,Spring 2025,2025,Withdrawn,9,In-State,Main Campus,2025-12-14
+ENR000289,WMU00081,Fall 2023,2023,Enrolled,12,Out-of-State,Main Campus,2023-06-22
+ENR000290,WMU00081,Fall 2025,2025,Withdrawn,15,International,Regional Campus,2025-09-25
+ENR000291,WMU00081,Spring 2025,2025,Enrolled,12,International,Online,2025-11-14
+ENR000292,WMU00081,Spring 2024,2024,Withdrawn,12,International,Online,2024-03-05
+ENR000293,WMU00081,Fall 2024,2024,Enrolled,15,Out-of-State,Regional Campus,2024-08-05
+ENR000294,WMU00082,Spring 2024,2024,Enrolled,12,International,Main Campus,2024-09-12
+ENR000295,WMU00082,Spring 2025,2025,Completed,3,Out-of-State,Main Campus,2025-02-12
+ENR000296,WMU00083,Fall 2023,2023,Enrolled,9,Out-of-State,Online,2023-08-01
+ENR000297,WMU00083,Spring 2024,2024,Enrolled,6,International,Online,2024-01-10
+ENR000298,WMU00083,Fall 2025,2025,Enrolled,9,In-State,Regional Campus,2025-08-01
+ENR000299,WMU00083,Spring 2025,2025,Completed,3,Out-of-State,Main Campus,2025-01-14
+ENR000300,WMU00084,Fall 2025,2025,Withdrawn,12,International,Regional Campus,2025-03-25
+ENR000301,WMU00084,Fall 2024,2024,Completed,6,International,Online,2024-08-22
+ENR000302,WMU00084,Spring 2025,2025,Enrolled,12,International,Online,2025-02-26
+ENR000303,WMU00084,Spring 2024,2024,Completed,15,Out-of-State,Online,2024-04-13
+ENR000304,WMU00084,Fall 2023,2023,Completed,9,In-State,Regional Campus,2023-08-24
+ENR000305,WMU00085,Fall 2023,2023,Enrolled,15,International,Regional Campus,2023-02-21
+ENR000306,WMU00085,Spring 2024,2024,Enrolled,15,In-State,Regional Campus,2024-09-19
+ENR000307,WMU00085,Fall 2024,2024,Completed,3,International,Main Campus,2024-08-17
+ENR000308,WMU00085,Fall 2025,2025,Enrolled,3,International,Regional Campus,2025-03-01
+ENR000309,WMU00086,Spring 2024,2024,Completed,3,International,Online,2024-07-19
+ENR000310,WMU00086,Fall 2025,2025,Withdrawn,3,In-State,Online,2025-07-06
+ENR000311,WMU00086,Fall 2024,2024,Enrolled,12,International,Online,2024-07-09
+ENR000312,WMU00086,Spring 2025,2025,Enrolled,3,In-State,Regional Campus,2025-03-10
+ENR000313,WMU00087,Spring 2024,2024,Enrolled,6,Out-of-State,Regional Campus,2024-03-02
+ENR000314,WMU00087,Fall 2024,2024,Enrolled,15,In-State,Main Campus,2024-12-02
+ENR000315,WMU00087,Fall 2023,2023,Withdrawn,9,In-State,Online,2023-03-14
+ENR000316,WMU00088,Fall 2024,2024,Enrolled,6,International,Regional Campus,2024-04-16
+ENR000317,WMU00088,Spring 2025,2025,Completed,15,Out-of-State,Main Campus,2025-05-02
+ENR000318,WMU00088,Fall 2023,2023,Withdrawn,9,International,Online,2023-02-16
+ENR000319,WMU00088,Fall 2025,2025,Withdrawn,3,International,Main Campus,2025-01-09
+ENR000320,WMU00089,Spring 2024,2024,Completed,9,Out-of-State,Online,2024-02-28
+ENR000321,WMU00089,Fall 2025,2025,Enrolled,15,In-State,Online,2025-09-06
+ENR000322,WMU00090,Fall 2025,2025,Enrolled,12,In-State,Online,2025-10-10
+ENR000323,WMU00090,Spring 2025,2025,Enrolled,6,In-State,Online,2025-05-20
+ENR000324,WMU00090,Fall 2024,2024,Withdrawn,9,Out-of-State,Regional Campus,2024-04-19
+ENR000325,WMU00091,Fall 2023,2023,Enrolled,9,Out-of-State,Regional Campus,2023-02-27
+ENR000326,WMU00091,Spring 2024,2024,Completed,6,Out-of-State,Online,2024-04-20
+ENR000327,WMU00091,Fall 2024,2024,Enrolled,15,International,Online,2024-11-09
+ENR000328,WMU00091,Fall 2025,2025,Enrolled,12,In-State,Regional Campus,2025-06-11
+ENR000329,WMU00092,Spring 2025,2025,Enrolled,6,International,Online,2025-01-01
+ENR000330,WMU00092,Fall 2024,2024,Withdrawn,6,International,Regional Campus,2024-12-16
+ENR000331,WMU00092,Fall 2023,2023,Completed,12,In-State,Regional Campus,2023-11-03
+ENR000332,WMU00093,Spring 2025,2025,Withdrawn,9,International,Online,2025-07-06
+ENR000333,WMU00093,Fall 2023,2023,Enrolled,3,Out-of-State,Online,2023-04-15
+ENR000334,WMU00094,Spring 2024,2024,Enrolled,9,In-State,Main Campus,2024-10-21
+ENR000335,WMU00094,Fall 2023,2023,Enrolled,9,In-State,Online,2023-06-02
+ENR000336,WMU00095,Spring 2025,2025,Enrolled,12,Out-of-State,Regional Campus,2025-09-16
+ENR000337,WMU00095,Spring 2024,2024,Completed,6,In-State,Regional Campus,2024-12-19
+ENR000338,WMU00095,Fall 2023,2023,Completed,15,In-State,Main Campus,2023-10-05
+ENR000339,WMU00095,Fall 2024,2024,Enrolled,3,Out-of-State,Regional Campus,2024-04-17
+ENR000340,WMU00096,Spring 2024,2024,Withdrawn,15,In-State,Online,2024-11-22
+ENR000341,WMU00096,Fall 2023,2023,Enrolled,3,Out-of-State,Online,2023-05-04
+ENR000342,WMU00096,Fall 2024,2024,Withdrawn,15,Out-of-State,Online,2024-09-25
+ENR000343,WMU00096,Fall 2025,2025,Enrolled,3,In-State,Online,2025-07-18
+ENR000344,WMU00097,Fall 2024,2024,Completed,3,In-State,Regional Campus,2024-04-23
+ENR000345,WMU00097,Fall 2023,2023,Enrolled,12,In-State,Main Campus,2023-03-11
+ENR000346,WMU00097,Spring 2024,2024,Enrolled,9,International,Regional Campus,2024-02-01
+ENR000347,WMU00097,Spring 2025,2025,Withdrawn,12,In-State,Regional Campus,2025-11-11
+ENR000348,WMU00097,Fall 2025,2025,Enrolled,9,In-State,Online,2025-04-11
+ENR000349,WMU00098,Fall 2024,2024,Completed,3,International,Online,2024-02-21
+ENR000350,WMU00098,Spring 2024,2024,Completed,12,In-State,Main Campus,2024-01-02
+ENR000351,WMU00099,Fall 2024,2024,Enrolled,3,International,Regional Campus,2024-07-03
+ENR000352,WMU00099,Fall 2023,2023,Enrolled,3,International,Main Campus,2023-05-28
+ENR000353,WMU00099,Spring 2025,2025,Withdrawn,12,In-State,Regional Campus,2025-07-08
+ENR000354,WMU00099,Fall 2025,2025,Completed,15,In-State,Online,2025-07-15
+ENR000355,WMU00099,Spring 2024,2024,Completed,12,International,Main Campus,2024-06-21
+ENR000356,WMU00100,Spring 2025,2025,Enrolled,15,In-State,Main Campus,2025-01-20
+ENR000357,WMU00100,Fall 2024,2024,Completed,3,In-State,Regional Campus,2024-03-21
+ENR000358,WMU00101,Fall 2024,2024,Enrolled,6,In-State,Main Campus,2024-01-05
+ENR000359,WMU00101,Spring 2025,2025,Completed,9,Out-of-State,Regional Campus,2025-11-25
+ENR000360,WMU00101,Spring 2024,2024,Enrolled,9,International,Regional Campus,2024-03-05
+ENR000361,WMU00101,Fall 2025,2025,Enrolled,12,International,Online,2025-05-12
+ENR000362,WMU00102,Fall 2025,2025,Enrolled,3,International,Regional Campus,2025-01-14
+ENR000363,WMU00102,Spring 2024,2024,Enrolled,9,In-State,Regional Campus,2024-04-26
+ENR000364,WMU00103,Fall 2024,2024,Withdrawn,12,International,Regional Campus,2024-06-28
+ENR000365,WMU00103,Spring 2024,2024,Completed,15,Out-of-State,Regional Campus,2024-05-14
+ENR000366,WMU00104,Spring 2024,2024,Enrolled,12,In-State,Regional Campus,2024-04-23
+ENR000367,WMU00104,Fall 2023,2023,Withdrawn,6,International,Main Campus,2023-04-16
+ENR000368,WMU00104,Fall 2025,2025,Withdrawn,9,In-State,Online,2025-03-27
+ENR000369,WMU00104,Spring 2025,2025,Enrolled,3,In-State,Main Campus,2025-06-01
+ENR000370,WMU00105,Spring 2024,2024,Enrolled,12,International,Regional Campus,2024-06-02
+ENR000371,WMU00105,Fall 2024,2024,Enrolled,3,In-State,Online,2024-03-08
+ENR000372,WMU00106,Spring 2024,2024,Enrolled,6,In-State,Main Campus,2024-05-04
+ENR000373,WMU00106,Fall 2024,2024,Enrolled,3,Out-of-State,Regional Campus,2024-02-11
+ENR000374,WMU00106,Spring 2025,2025,Enrolled,6,Out-of-State,Main Campus,2025-06-26
+ENR000375,WMU00106,Fall 2023,2023,Enrolled,9,International,Regional Campus,2023-07-23
+ENR000376,WMU00107,Fall 2023,2023,Enrolled,6,In-State,Regional Campus,2023-07-23
+ENR000377,WMU00107,Spring 2024,2024,Enrolled,9,International,Online,2024-11-08
+ENR000378,WMU00108,Fall 2025,2025,Enrolled,15,In-State,Online,2025-04-02
+ENR000379,WMU00108,Spring 2024,2024,Enrolled,9,International,Regional Campus,2024-08-07
+ENR000380,WMU00109,Spring 2025,2025,Completed,6,Out-of-State,Regional Campus,2025-09-12
+ENR000381,WMU00109,Fall 2023,2023,Completed,12,Out-of-State,Main Campus,2023-06-23
+ENR000382,WMU00110,Fall 2025,2025,Enrolled,12,International,Online,2025-11-26
+ENR000383,WMU00110,Spring 2025,2025,Enrolled,15,In-State,Main Campus,2025-04-15
+ENR000384,WMU00110,Fall 2024,2024,Withdrawn,6,In-State,Online,2024-07-13
+ENR000385,WMU00110,Spring 2024,2024,Enrolled,15,Out-of-State,Online,2024-09-03
+ENR000386,WMU00111,Fall 2023,2023,Enrolled,15,In-State,Regional Campus,2023-01-15
+ENR000387,WMU00111,Fall 2024,2024,Completed,15,Out-of-State,Online,2024-08-15
+ENR000388,WMU00111,Spring 2024,2024,Withdrawn,12,Out-of-State,Online,2024-06-09
+ENR000389,WMU00112,Fall 2023,2023,Enrolled,3,In-State,Online,2023-09-17
+ENR000390,WMU00112,Spring 2024,2024,Enrolled,15,Out-of-State,Main Campus,2024-02-04
+ENR000391,WMU00112,Spring 2025,2025,Enrolled,3,In-State,Regional Campus,2025-04-11
+ENR000392,WMU00112,Fall 2025,2025,Enrolled,6,Out-of-State,Online,2025-12-27
+ENR000393,WMU00112,Fall 2024,2024,Enrolled,9,International,Regional Campus,2024-03-28
+ENR000394,WMU00113,Fall 2023,2023,Withdrawn,12,International,Regional Campus,2023-01-16
+ENR000395,WMU00113,Fall 2024,2024,Enrolled,15,Out-of-State,Main Campus,2024-04-24
+ENR000396,WMU00113,Spring 2024,2024,Withdrawn,6,In-State,Regional Campus,2024-10-26
+ENR000397,WMU00113,Spring 2025,2025,Withdrawn,15,International,Online,2025-06-26
+ENR000398,WMU00114,Fall 2024,2024,Withdrawn,12,In-State,Online,2024-08-28
+ENR000399,WMU00114,Spring 2024,2024,Enrolled,15,Out-of-State,Main Campus,2024-10-28
+ENR000400,WMU00115,Fall 2024,2024,Enrolled,9,In-State,Online,2024-07-22
+ENR000401,WMU00115,Fall 2023,2023,Completed,12,Out-of-State,Online,2023-10-01
+ENR000402,WMU00115,Spring 2024,2024,Enrolled,15,In-State,Main Campus,2024-06-19
+ENR000403,WMU00116,Spring 2025,2025,Withdrawn,6,In-State,Online,2025-10-15
+ENR000404,WMU00116,Spring 2024,2024,Enrolled,9,In-State,Main Campus,2024-11-18
+ENR000405,WMU00116,Fall 2025,2025,Enrolled,6,International,Regional Campus,2025-08-01
+ENR000406,WMU00116,Fall 2023,2023,Enrolled,6,In-State,Online,2023-05-07
+ENR000407,WMU00116,Fall 2024,2024,Enrolled,6,International,Regional Campus,2024-02-15
+ENR000408,WMU00117,Fall 2024,2024,Enrolled,6,Out-of-State,Online,2024-03-04
+ENR000409,WMU00117,Fall 2023,2023,Completed,6,Out-of-State,Online,2023-12-03
+ENR000410,WMU00118,Spring 2024,2024,Enrolled,12,International,Regional Campus,2024-05-19
+ENR000411,WMU00118,Fall 2025,2025,Completed,6,International,Regional Campus,2025-08-09
+ENR000412,WMU00118,Fall 2023,2023,Enrolled,6,In-State,Online,2023-02-27
+ENR000413,WMU00118,Spring 2025,2025,Completed,12,In-State,Regional Campus,2025-06-19
+ENR000414,WMU00118,Fall 2024,2024,Withdrawn,12,Out-of-State,Regional Campus,2024-01-24
+ENR000415,WMU00119,Fall 2024,2024,Enrolled,9,Out-of-State,Regional Campus,2024-03-14
+ENR000416,WMU00119,Spring 2025,2025,Enrolled,6,International,Regional Campus,2025-07-15
+ENR000417,WMU00120,Spring 2024,2024,Enrolled,6,International,Regional Campus,2024-05-22
+ENR000418,WMU00120,Fall 2023,2023,Enrolled,3,Out-of-State,Online,2023-09-04
+ENR000419,WMU00120,Fall 2025,2025,Enrolled,9,In-State,Regional Campus,2025-06-14
+ENR000420,WMU00120,Spring 2025,2025,Enrolled,12,Out-of-State,Main Campus,2025-09-02
+ENR000421,WMU00120,Fall 2024,2024,Enrolled,12,In-State,Regional Campus,2024-12-22
+ENR000422,WMU00121,Spring 2025,2025,Enrolled,12,In-State,Online,2025-02-23
+ENR000423,WMU00121,Fall 2024,2024,Enrolled,6,International,Regional Campus,2024-08-16
+ENR000424,WMU00121,Fall 2025,2025,Enrolled,12,In-State,Regional Campus,2025-11-08
+ENR000425,WMU00121,Spring 2024,2024,Enrolled,12,Out-of-State,Online,2024-03-06
+ENR000426,WMU00121,Fall 2023,2023,Completed,3,In-State,Main Campus,2023-05-04
+ENR000427,WMU00122,Spring 2024,2024,Withdrawn,6,Out-of-State,Main Campus,2024-04-23
+ENR000428,WMU00122,Fall 2023,2023,Completed,3,In-State,Online,2023-12-02
+ENR000429,WMU00122,Fall 2024,2024,Enrolled,15,Out-of-State,Regional Campus,2024-05-15
+ENR000430,WMU00122,Spring 2025,2025,Completed,3,In-State,Main Campus,2025-07-25
+ENR000431,WMU00122,Fall 2025,2025,Enrolled,6,Out-of-State,Main Campus,2025-04-03
+ENR000432,WMU00123,Spring 2025,2025,Enrolled,3,In-State,Regional Campus,2025-11-03
+ENR000433,WMU00123,Fall 2023,2023,Enrolled,6,International,Main Campus,2023-12-06
+ENR000434,WMU00124,Spring 2025,2025,Enrolled,9,International,Regional Campus,2025-04-20
+ENR000435,WMU00124,Fall 2023,2023,Completed,6,Out-of-State,Online,2023-02-08
+ENR000436,WMU00125,Fall 2023,2023,Enrolled,6,Out-of-State,Regional Campus,2023-06-01
+ENR000437,WMU00125,Fall 2024,2024,Enrolled,12,Out-of-State,Main Campus,2024-02-22
+ENR000438,WMU00125,Spring 2024,2024,Completed,9,Out-of-State,Main Campus,2024-02-07
+ENR000439,WMU00126,Fall 2024,2024,Completed,3,Out-of-State,Regional Campus,2024-12-13
+ENR000440,WMU00126,Spring 2025,2025,Enrolled,6,In-State,Regional Campus,2025-12-11
+ENR000441,WMU00126,Fall 2023,2023,Enrolled,12,Out-of-State,Main Campus,2023-10-19
+ENR000442,WMU00126,Fall 2025,2025,Withdrawn,12,International,Regional Campus,2025-12-08
+ENR000443,WMU00126,Spring 2024,2024,Completed,15,International,Main Campus,2024-04-01
+ENR000444,WMU00127,Fall 2024,2024,Enrolled,12,International,Main Campus,2024-01-05
+ENR000445,WMU00127,Spring 2024,2024,Withdrawn,9,Out-of-State,Main Campus,2024-03-13
+ENR000446,WMU00128,Fall 2023,2023,Withdrawn,15,International,Online,2023-03-09
+ENR000447,WMU00128,Spring 2024,2024,Enrolled,9,International,Online,2024-11-27
+ENR000448,WMU00128,Fall 2024,2024,Enrolled,9,In-State,Regional Campus,2024-06-11
+ENR000449,WMU00129,Spring 2024,2024,Enrolled,6,International,Online,2024-09-11
+ENR000450,WMU00129,Fall 2023,2023,Withdrawn,6,International,Main Campus,2023-02-28
+ENR000451,WMU00129,Fall 2024,2024,Enrolled,12,In-State,Main Campus,2024-11-05
+ENR000452,WMU00130,Spring 2024,2024,Completed,15,In-State,Main Campus,2024-09-03
+ENR000453,WMU00130,Fall 2023,2023,Withdrawn,12,Out-of-State,Main Campus,2023-12-07
+ENR000454,WMU00130,Spring 2025,2025,Withdrawn,6,In-State,Regional Campus,2025-04-10
+ENR000455,WMU00131,Fall 2025,2025,Withdrawn,9,In-State,Online,2025-07-13
+ENR000456,WMU00131,Spring 2025,2025,Withdrawn,6,Out-of-State,Online,2025-09-20
+ENR000457,WMU00131,Fall 2024,2024,Enrolled,12,Out-of-State,Main Campus,2024-07-14
+ENR000458,WMU00131,Fall 2023,2023,Enrolled,3,International,Regional Campus,2023-03-18
+ENR000459,WMU00132,Fall 2024,2024,Withdrawn,9,Out-of-State,Online,2024-09-20
+ENR000460,WMU00132,Spring 2025,2025,Enrolled,12,Out-of-State,Main Campus,2025-12-16
+ENR000461,WMU00132,Spring 2024,2024,Enrolled,6,In-State,Main Campus,2024-01-28
+ENR000462,WMU00133,Spring 2025,2025,Withdrawn,9,Out-of-State,Online,2025-11-19
+ENR000463,WMU00133,Fall 2025,2025,Withdrawn,3,In-State,Main Campus,2025-07-19
+ENR000464,WMU00133,Spring 2024,2024,Enrolled,6,Out-of-State,Online,2024-12-12
+ENR000465,WMU00133,Fall 2024,2024,Withdrawn,15,International,Regional Campus,2024-06-23
+ENR000466,WMU00134,Spring 2025,2025,Enrolled,6,Out-of-State,Main Campus,2025-06-21
+ENR000467,WMU00134,Fall 2025,2025,Enrolled,3,Out-of-State,Regional Campus,2025-08-22
+ENR000468,WMU00135,Fall 2024,2024,Enrolled,15,In-State,Main Campus,2024-02-21
+ENR000469,WMU00135,Spring 2024,2024,Withdrawn,12,International,Regional Campus,2024-02-17
+ENR000470,WMU00135,Fall 2025,2025,Withdrawn,6,In-State,Online,2025-05-23
+ENR000471,WMU00136,Fall 2025,2025,Enrolled,12,In-State,Regional Campus,2025-10-25
+ENR000472,WMU00136,Spring 2025,2025,Enrolled,9,Out-of-State,Regional Campus,2025-04-24
+ENR000473,WMU00136,Fall 2024,2024,Enrolled,12,In-State,Main Campus,2024-08-01
+ENR000474,WMU00136,Spring 2024,2024,Enrolled,3,International,Online,2024-09-14
+ENR000475,WMU00137,Spring 2025,2025,Enrolled,6,In-State,Online,2025-03-17
+ENR000476,WMU00137,Spring 2024,2024,Withdrawn,3,International,Main Campus,2024-03-07
+ENR000477,WMU00137,Fall 2023,2023,Enrolled,3,In-State,Online,2023-07-15
+ENR000478,WMU00137,Fall 2025,2025,Enrolled,15,International,Main Campus,2025-02-10
+ENR000479,WMU00138,Spring 2025,2025,Enrolled,9,Out-of-State,Main Campus,2025-10-08
+ENR000480,WMU00138,Fall 2023,2023,Withdrawn,12,International,Main Campus,2023-01-02
+ENR000481,WMU00139,Fall 2023,2023,Enrolled,15,Out-of-State,Regional Campus,2023-09-25
+ENR000482,WMU00139,Fall 2025,2025,Withdrawn,9,Out-of-State,Online,2025-10-14
+ENR000483,WMU00139,Spring 2025,2025,Enrolled,9,International,Online,2025-06-27
+ENR000484,WMU00139,Fall 2024,2024,Enrolled,6,International,Online,2024-07-20
+ENR000485,WMU00140,Fall 2024,2024,Enrolled,3,Out-of-State,Regional Campus,2024-07-24
+ENR000486,WMU00140,Fall 2025,2025,Enrolled,6,International,Main Campus,2025-09-09
+ENR000487,WMU00141,Fall 2024,2024,Completed,12,Out-of-State,Regional Campus,2024-04-01
+ENR000488,WMU00141,Spring 2025,2025,Enrolled,9,International,Online,2025-01-26
+ENR000489,WMU00141,Fall 2025,2025,Withdrawn,9,In-State,Regional Campus,2025-08-13
+ENR000490,WMU00142,Fall 2024,2024,Enrolled,12,International,Online,2024-05-20
+ENR000491,WMU00142,Spring 2025,2025,Enrolled,6,International,Regional Campus,2025-12-17
+ENR000492,WMU00143,Spring 2024,2024,Enrolled,3,International,Regional Campus,2024-08-06
+ENR000493,WMU00143,Spring 2025,2025,Enrolled,12,Out-of-State,Regional Campus,2025-09-08
+ENR000494,WMU00144,Spring 2024,2024,Enrolled,3,Out-of-State,Regional Campus,2024-01-06
+ENR000495,WMU00144,Fall 2025,2025,Withdrawn,9,Out-of-State,Main Campus,2025-12-09
+ENR000496,WMU00144,Fall 2024,2024,Enrolled,12,International,Main Campus,2024-09-21
+ENR000497,WMU00145,Fall 2023,2023,Withdrawn,12,International,Regional Campus,2023-09-28
+ENR000498,WMU00145,Fall 2024,2024,Enrolled,12,In-State,Online,2024-02-10
+ENR000499,WMU00145,Fall 2025,2025,Enrolled,3,In-State,Online,2025-12-19
+ENR000500,WMU00145,Spring 2025,2025,Enrolled,6,International,Online,2025-03-28
+ENR000501,WMU00145,Spring 2024,2024,Withdrawn,9,International,Regional Campus,2024-01-10
+ENR000502,WMU00146,Fall 2025,2025,Withdrawn,12,Out-of-State,Online,2025-11-26
+ENR000503,WMU00146,Spring 2024,2024,Completed,6,International,Regional Campus,2024-10-08
+ENR000504,WMU00147,Spring 2025,2025,Withdrawn,15,Out-of-State,Main Campus,2025-05-27
+ENR000505,WMU00147,Fall 2023,2023,Withdrawn,6,International,Online,2023-03-20
+ENR000506,WMU00148,Spring 2024,2024,Completed,9,International,Main Campus,2024-05-28
+ENR000507,WMU00148,Fall 2023,2023,Withdrawn,15,International,Main Campus,2023-08-10
+ENR000508,WMU00148,Fall 2024,2024,Enrolled,12,Out-of-State,Main Campus,2024-12-07
+ENR000509,WMU00148,Fall 2025,2025,Enrolled,6,In-State,Online,2025-12-13
+ENR000510,WMU00149,Spring 2024,2024,Withdrawn,9,International,Online,2024-06-25
+ENR000511,WMU00149,Fall 2023,2023,Withdrawn,12,In-State,Regional Campus,2023-12-10
+ENR000512,WMU00149,Fall 2024,2024,Enrolled,9,International,Regional Campus,2024-07-04
+ENR000513,WMU00149,Fall 2025,2025,Enrolled,6,International,Main Campus,2025-12-10
+ENR000514,WMU00150,Spring 2024,2024,Enrolled,6,In-State,Regional Campus,2024-04-24
+ENR000515,WMU00150,Fall 2025,2025,Enrolled,3,International,Regional Campus,2025-02-22
+ENR000516,WMU00150,Spring 2025,2025,Withdrawn,6,Out-of-State,Regional Campus,2025-03-02
+ENR000517,WMU00150,Fall 2024,2024,Enrolled,3,Out-of-State,Main Campus,2024-01-04
+ENR000518,WMU00150,Fall 2023,2023,Enrolled,15,International,Online,2023-03-21
+ENR000519,WMU00151,Spring 2024,2024,Enrolled,12,International,Regional Campus,2024-03-21
+ENR000520,WMU00151,Fall 2023,2023,Enrolled,12,Out-of-State,Regional Campus,2023-07-09
+ENR000521,WMU00151,Spring 2025,2025,Enrolled,12,In-State,Main Campus,2025-02-03
+ENR000522,WMU00151,Fall 2024,2024,Withdrawn,3,International,Regional Campus,2024-09-08
+ENR000523,WMU00151,Fall 2025,2025,Completed,3,International,Regional Campus,2025-08-09
+ENR000524,WMU00152,Fall 2025,2025,Withdrawn,12,International,Regional Campus,2025-07-10
+ENR000525,WMU00152,Spring 2024,2024,Enrolled,15,In-State,Online,2024-02-23
+ENR000526,WMU00153,Spring 2025,2025,Completed,15,International,Online,2025-02-17
+ENR000527,WMU00153,Fall 2023,2023,Completed,15,International,Regional Campus,2023-02-25
+ENR000528,WMU00153,Spring 2024,2024,Enrolled,6,In-State,Regional Campus,2024-12-06
+ENR000529,WMU00154,Fall 2025,2025,Enrolled,9,In-State,Main Campus,2025-10-07
+ENR000530,WMU00154,Spring 2025,2025,Enrolled,6,International,Online,2025-01-03
+ENR000531,WMU00155,Fall 2025,2025,Completed,9,In-State,Online,2025-11-01
+ENR000532,WMU00155,Fall 2024,2024,Enrolled,6,In-State,Regional Campus,2024-05-22
+ENR000533,WMU00156,Spring 2024,2024,Completed,15,International,Main Campus,2024-12-04
+ENR000534,WMU00156,Spring 2025,2025,Enrolled,3,In-State,Main Campus,2025-03-10
+ENR000535,WMU00156,Fall 2024,2024,Enrolled,6,International,Regional Campus,2024-04-19
+ENR000536,WMU00156,Fall 2025,2025,Enrolled,9,In-State,Regional Campus,2025-10-14
+ENR000537,WMU00156,Fall 2023,2023,Completed,3,Out-of-State,Online,2023-07-21
+ENR000538,WMU00157,Spring 2025,2025,Withdrawn,9,International,Main Campus,2025-09-07
+ENR000539,WMU00157,Fall 2025,2025,Enrolled,3,International,Regional Campus,2025-11-07
+ENR000540,WMU00157,Fall 2023,2023,Completed,9,International,Regional Campus,2023-09-20
+ENR000541,WMU00158,Spring 2025,2025,Withdrawn,12,In-State,Regional Campus,2025-04-03
+ENR000542,WMU00158,Spring 2024,2024,Enrolled,9,International,Main Campus,2024-11-18
+ENR000543,WMU00158,Fall 2025,2025,Enrolled,12,Out-of-State,Regional Campus,2025-02-12
+ENR000544,WMU00159,Fall 2024,2024,Enrolled,3,Out-of-State,Main Campus,2024-07-04
+ENR000545,WMU00159,Spring 2024,2024,Enrolled,3,International,Regional Campus,2024-05-19
+ENR000546,WMU00159,Fall 2023,2023,Enrolled,12,International,Online,2023-12-19
+ENR000547,WMU00159,Spring 2025,2025,Completed,9,Out-of-State,Regional Campus,2025-02-02
+ENR000548,WMU00160,Fall 2024,2024,Completed,9,International,Regional Campus,2024-07-16
+ENR000549,WMU00160,Spring 2025,2025,Enrolled,15,Out-of-State,Main Campus,2025-11-17
+ENR000550,WMU00160,Fall 2023,2023,Enrolled,6,In-State,Online,2023-10-24
+ENR000551,WMU00161,Fall 2023,2023,Withdrawn,15,International,Online,2023-03-15
+ENR000552,WMU00161,Fall 2024,2024,Withdrawn,9,International,Online,2024-05-14
+ENR000553,WMU00161,Spring 2025,2025,Enrolled,15,Out-of-State,Regional Campus,2025-02-10
+ENR000554,WMU00161,Fall 2025,2025,Enrolled,12,In-State,Regional Campus,2025-02-03
+ENR000555,WMU00162,Fall 2023,2023,Enrolled,3,International,Online,2023-09-16
+ENR000556,WMU00162,Spring 2024,2024,Withdrawn,3,International,Regional Campus,2024-12-05
+ENR000557,WMU00162,Fall 2024,2024,Withdrawn,12,International,Regional Campus,2024-11-18
+ENR000558,WMU00163,Spring 2025,2025,Enrolled,15,International,Main Campus,2025-12-14
+ENR000559,WMU00163,Fall 2023,2023,Enrolled,15,In-State,Regional Campus,2023-11-27
+ENR000560,WMU00164,Fall 2025,2025,Completed,6,In-State,Main Campus,2025-02-12
+ENR000561,WMU00164,Spring 2025,2025,Completed,6,Out-of-State,Main Campus,2025-07-16
+ENR000562,WMU00165,Spring 2024,2024,Enrolled,15,Out-of-State,Online,2024-08-10
+ENR000563,WMU00165,Fall 2024,2024,Enrolled,9,In-State,Regional Campus,2024-11-19
+ENR000564,WMU00165,Fall 2023,2023,Enrolled,12,Out-of-State,Regional Campus,2023-09-27
+ENR000565,WMU00165,Fall 2025,2025,Withdrawn,3,International,Online,2025-01-12
+ENR000566,WMU00165,Spring 2025,2025,Completed,3,Out-of-State,Online,2025-05-12
+ENR000567,WMU00166,Fall 2023,2023,Withdrawn,6,Out-of-State,Main Campus,2023-02-14
+ENR000568,WMU00166,Fall 2024,2024,Enrolled,12,In-State,Regional Campus,2024-09-05
+ENR000569,WMU00167,Fall 2023,2023,Withdrawn,6,Out-of-State,Online,2023-05-12
+ENR000570,WMU00167,Spring 2025,2025,Enrolled,12,International,Online,2025-02-15
+ENR000571,WMU00167,Fall 2025,2025,Enrolled,12,In-State,Online,2025-12-14
+ENR000572,WMU00167,Fall 2024,2024,Enrolled,3,International,Main Campus,2024-02-07
+ENR000573,WMU00167,Spring 2024,2024,Enrolled,9,In-State,Online,2024-07-24
+ENR000574,WMU00168,Fall 2023,2023,Enrolled,12,In-State,Online,2023-08-18
+ENR000575,WMU00168,Spring 2024,2024,Enrolled,12,Out-of-State,Online,2024-09-24
+ENR000576,WMU00168,Fall 2024,2024,Enrolled,12,In-State,Main Campus,2024-01-05
+ENR000577,WMU00168,Fall 2025,2025,Enrolled,6,International,Main Campus,2025-11-08
+ENR000578,WMU00169,Fall 2024,2024,Enrolled,15,Out-of-State,Online,2024-05-10
+ENR000579,WMU00169,Spring 2025,2025,Enrolled,12,Out-of-State,Main Campus,2025-10-05
+ENR000580,WMU00170,Spring 2024,2024,Enrolled,9,International,Online,2024-04-16
+ENR000581,WMU00170,Fall 2024,2024,Completed,3,International,Main Campus,2024-04-28
+ENR000582,WMU00170,Fall 2023,2023,Enrolled,15,In-State,Main Campus,2023-03-13
+ENR000583,WMU00171,Fall 2024,2024,Withdrawn,6,In-State,Regional Campus,2024-04-03
+ENR000584,WMU00171,Spring 2024,2024,Withdrawn,3,Out-of-State,Regional Campus,2024-05-23
+ENR000585,WMU00172,Spring 2024,2024,Enrolled,12,International,Online,2024-11-02
+ENR000586,WMU00172,Fall 2024,2024,Enrolled,9,Out-of-State,Online,2024-05-12
+ENR000587,WMU00172,Fall 2025,2025,Enrolled,12,Out-of-State,Main Campus,2025-03-02
+ENR000588,WMU00173,Fall 2023,2023,Enrolled,6,Out-of-State,Online,2023-10-04
+ENR000589,WMU00173,Fall 2024,2024,Enrolled,12,Out-of-State,Online,2024-06-11
+ENR000590,WMU00174,Fall 2023,2023,Enrolled,15,Out-of-State,Online,2023-12-26
+ENR000591,WMU00174,Fall 2025,2025,Completed,9,International,Regional Campus,2025-06-08
+ENR000592,WMU00174,Fall 2024,2024,Enrolled,9,International,Online,2024-02-04
+ENR000593,WMU00174,Spring 2025,2025,Completed,6,In-State,Main Campus,2025-10-21
+ENR000594,WMU00175,Spring 2024,2024,Completed,3,International,Online,2024-05-24
+ENR000595,WMU00175,Spring 2025,2025,Enrolled,12,International,Regional Campus,2025-03-02
+ENR000596,WMU00175,Fall 2023,2023,Enrolled,6,Out-of-State,Regional Campus,2023-12-09
+ENR000597,WMU00176,Fall 2024,2024,Enrolled,12,Out-of-State,Online,2024-09-17
+ENR000598,WMU00176,Spring 2025,2025,Enrolled,3,International,Online,2025-12-05
+ENR000599,WMU00176,Fall 2025,2025,Enrolled,9,International,Main Campus,2025-12-07
+ENR000600,WMU00176,Fall 2023,2023,Withdrawn,12,International,Regional Campus,2023-09-03
+ENR000601,WMU00177,Spring 2025,2025,Withdrawn,12,International,Online,2025-04-06
+ENR000602,WMU00177,Fall 2025,2025,Enrolled,3,International,Main Campus,2025-10-23
+ENR000603,WMU00177,Fall 2024,2024,Completed,3,Out-of-State,Regional Campus,2024-12-24
+ENR000604,WMU00178,Fall 2024,2024,Enrolled,15,In-State,Main Campus,2024-01-18
+ENR000605,WMU00178,Spring 2024,2024,Enrolled,6,In-State,Regional Campus,2024-03-09
+ENR000606,WMU00178,Spring 2025,2025,Enrolled,6,In-State,Regional Campus,2025-04-27
+ENR000607,WMU00178,Fall 2025,2025,Completed,6,In-State,Main Campus,2025-11-12
+ENR000608,WMU00179,Fall 2024,2024,Withdrawn,6,International,Online,2024-06-02
+ENR000609,WMU00179,Fall 2023,2023,Enrolled,3,In-State,Regional Campus,2023-05-06
+ENR000610,WMU00179,Fall 2025,2025,Enrolled,9,International,Regional Campus,2025-10-04
+ENR000611,WMU00179,Spring 2024,2024,Enrolled,12,International,Regional Campus,2024-10-18
+ENR000612,WMU00180,Spring 2025,2025,Enrolled,9,International,Regional Campus,2025-07-05
+ENR000613,WMU00180,Spring 2024,2024,Enrolled,12,International,Regional Campus,2024-07-12
+ENR000614,WMU00180,Fall 2025,2025,Withdrawn,6,In-State,Online,2025-03-15
+ENR000615,WMU00181,Spring 2024,2024,Enrolled,12,International,Online,2024-01-10
+ENR000616,WMU00181,Fall 2025,2025,Enrolled,6,Out-of-State,Regional Campus,2025-10-07
+ENR000617,WMU00181,Fall 2024,2024,Enrolled,3,In-State,Online,2024-04-15
+ENR000618,WMU00182,Fall 2023,2023,Withdrawn,12,In-State,Main Campus,2023-01-25
+ENR000619,WMU00182,Spring 2024,2024,Enrolled,3,In-State,Main Campus,2024-05-05
+ENR000620,WMU00182,Fall 2024,2024,Enrolled,15,In-State,Main Campus,2024-09-24
+ENR000621,WMU00182,Fall 2025,2025,Enrolled,9,In-State,Main Campus,2025-08-25
+ENR000622,WMU00182,Spring 2025,2025,Withdrawn,15,In-State,Online,2025-06-16
+ENR000623,WMU00183,Spring 2024,2024,Completed,9,In-State,Main Campus,2024-01-04
+ENR000624,WMU00183,Fall 2023,2023,Enrolled,15,In-State,Regional Campus,2023-07-05
+ENR000625,WMU00183,Fall 2024,2024,Enrolled,3,In-State,Main Campus,2024-07-13
+ENR000626,WMU00184,Fall 2024,2024,Enrolled,12,Out-of-State,Main Campus,2024-02-08
+ENR000627,WMU00184,Fall 2025,2025,Enrolled,3,Out-of-State,Main Campus,2025-10-11
+ENR000628,WMU00184,Fall 2023,2023,Enrolled,3,In-State,Main Campus,2023-10-05
+ENR000629,WMU00185,Spring 2025,2025,Withdrawn,6,In-State,Regional Campus,2025-11-10
+ENR000630,WMU00185,Fall 2024,2024,Enrolled,15,Out-of-State,Main Campus,2024-05-16
+ENR000631,WMU00185,Fall 2025,2025,Enrolled,9,International,Main Campus,2025-01-28
+ENR000632,WMU00186,Spring 2024,2024,Withdrawn,12,International,Online,2024-02-04
+ENR000633,WMU00186,Fall 2024,2024,Withdrawn,15,International,Online,2024-03-03
+ENR000634,WMU00186,Fall 2023,2023,Enrolled,9,In-State,Online,2023-06-11
+ENR000635,WMU00187,Spring 2025,2025,Enrolled,6,Out-of-State,Online,2025-09-16
+ENR000636,WMU00187,Fall 2025,2025,Completed,15,Out-of-State,Regional Campus,2025-09-27
+ENR000637,WMU00187,Fall 2024,2024,Withdrawn,6,In-State,Regional Campus,2024-12-14
+ENR000638,WMU00187,Spring 2024,2024,Completed,15,International,Regional Campus,2024-04-23
+ENR000639,WMU00187,Fall 2023,2023,Enrolled,3,Out-of-State,Main Campus,2023-04-28
+ENR000640,WMU00188,Fall 2024,2024,Enrolled,6,In-State,Online,2024-06-28
+ENR000641,WMU00188,Spring 2025,2025,Enrolled,6,Out-of-State,Main Campus,2025-09-14
+ENR000642,WMU00189,Spring 2024,2024,Enrolled,6,International,Regional Campus,2024-03-13
+ENR000643,WMU00189,Fall 2025,2025,Withdrawn,3,Out-of-State,Main Campus,2025-12-04
+ENR000644,WMU00189,Fall 2023,2023,Enrolled,15,Out-of-State,Regional Campus,2023-03-01
+ENR000645,WMU00190,Fall 2024,2024,Enrolled,6,In-State,Regional Campus,2024-07-05
+ENR000646,WMU00190,Spring 2024,2024,Withdrawn,6,International,Main Campus,2024-12-17
+ENR000647,WMU00190,Fall 2023,2023,Withdrawn,9,Out-of-State,Regional Campus,2023-06-15
+ENR000648,WMU00191,Fall 2024,2024,Enrolled,6,International,Main Campus,2024-10-25
+ENR000649,WMU00191,Fall 2023,2023,Completed,6,In-State,Main Campus,2023-07-27
+ENR000650,WMU00192,Spring 2025,2025,Enrolled,12,Out-of-State,Main Campus,2025-09-13
+ENR000651,WMU00192,Fall 2024,2024,Enrolled,6,Out-of-State,Regional Campus,2024-01-08
+ENR000652,WMU00192,Fall 2025,2025,Enrolled,12,International,Regional Campus,2025-10-27
+ENR000653,WMU00192,Spring 2024,2024,Withdrawn,3,Out-of-State,Online,2024-11-21
+ENR000654,WMU00192,Fall 2023,2023,Withdrawn,12,In-State,Main Campus,2023-06-21
+ENR000655,WMU00193,Spring 2024,2024,Completed,9,Out-of-State,Main Campus,2024-04-10
+ENR000656,WMU00193,Fall 2024,2024,Completed,6,In-State,Main Campus,2024-04-20
+ENR000657,WMU00193,Fall 2023,2023,Enrolled,3,In-State,Regional Campus,2023-04-21
+ENR000658,WMU00193,Spring 2025,2025,Enrolled,3,Out-of-State,Main Campus,2025-10-19
+ENR000659,WMU00193,Fall 2025,2025,Completed,3,Out-of-State,Main Campus,2025-01-11
+ENR000660,WMU00194,Fall 2024,2024,Enrolled,9,Out-of-State,Regional Campus,2024-04-11
+ENR000661,WMU00194,Fall 2023,2023,Enrolled,12,In-State,Regional Campus,2023-11-04
+ENR000662,WMU00195,Spring 2025,2025,Completed,3,Out-of-State,Online,2025-10-28
+ENR000663,WMU00195,Fall 2023,2023,Enrolled,3,In-State,Main Campus,2023-11-15
+ENR000664,WMU00195,Fall 2024,2024,Enrolled,3,International,Main Campus,2024-04-26
+ENR000665,WMU00195,Fall 2025,2025,Enrolled,6,International,Regional Campus,2025-12-20
+ENR000666,WMU00196,Spring 2025,2025,Completed,9,Out-of-State,Main Campus,2025-12-25
+ENR000667,WMU00196,Spring 2024,2024,Enrolled,12,In-State,Regional Campus,2024-10-03
+ENR000668,WMU00196,Fall 2025,2025,Completed,6,International,Online,2025-02-26
+ENR000669,WMU00196,Fall 2024,2024,Enrolled,3,Out-of-State,Regional Campus,2024-02-16
+ENR000670,WMU00197,Spring 2025,2025,Enrolled,6,In-State,Main Campus,2025-05-19
+ENR000671,WMU00197,Fall 2024,2024,Enrolled,9,In-State,Main Campus,2024-03-23
+ENR000672,WMU00198,Fall 2024,2024,Completed,3,Out-of-State,Main Campus,2024-06-28
+ENR000673,WMU00198,Spring 2025,2025,Withdrawn,9,Out-of-State,Regional Campus,2025-11-05
+ENR000674,WMU00198,Spring 2024,2024,Enrolled,12,International,Regional Campus,2024-06-12
+ENR000675,WMU00198,Fall 2025,2025,Withdrawn,3,International,Online,2025-05-22
+ENR000676,WMU00198,Fall 2023,2023,Completed,3,International,Main Campus,2023-12-26
+ENR000677,WMU00199,Fall 2025,2025,Enrolled,3,Out-of-State,Main Campus,2025-10-13
+ENR000678,WMU00199,Fall 2023,2023,Enrolled,3,Out-of-State,Online,2023-11-03
+ENR000679,WMU00199,Spring 2025,2025,Withdrawn,9,Out-of-State,Regional Campus,2025-09-27
+ENR000680,WMU00200,Fall 2023,2023,Enrolled,12,Out-of-State,Online,2023-02-11
+ENR000681,WMU00200,Fall 2025,2025,Completed,9,Out-of-State,Main Campus,2025-12-24
+ENR000682,WMU00200,Spring 2025,2025,Enrolled,12,Out-of-State,Online,2025-01-18
+ENR000683,WMU00200,Fall 2024,2024,Withdrawn,6,In-State,Regional Campus,2024-04-11
+ENR000684,WMU00200,Spring 2024,2024,Enrolled,15,International,Online,2024-01-26
+ENR000685,WMU00201,Spring 2025,2025,Enrolled,6,International,Online,2025-05-09
+ENR000686,WMU00201,Fall 2025,2025,Enrolled,6,In-State,Main Campus,2025-05-13
+ENR000687,WMU00201,Fall 2023,2023,Enrolled,3,International,Online,2023-07-17
+ENR000688,WMU00201,Fall 2024,2024,Enrolled,6,In-State,Main Campus,2024-02-14
+ENR000689,WMU00202,Fall 2024,2024,Withdrawn,12,Out-of-State,Regional Campus,2024-12-26
+ENR000690,WMU00202,Spring 2024,2024,Withdrawn,6,Out-of-State,Regional Campus,2024-10-13
+ENR000691,WMU00202,Fall 2023,2023,Completed,3,International,Main Campus,2023-02-24
+ENR000692,WMU00202,Spring 2025,2025,Completed,15,In-State,Online,2025-11-27
+ENR000693,WMU00203,Fall 2023,2023,Enrolled,12,In-State,Regional Campus,2023-07-09
+ENR000694,WMU00203,Spring 2024,2024,Enrolled,15,Out-of-State,Main Campus,2024-11-15
+ENR000695,WMU00203,Spring 2025,2025,Enrolled,15,In-State,Main Campus,2025-12-07
+ENR000696,WMU00203,Fall 2025,2025,Completed,12,In-State,Regional Campus,2025-07-07
+ENR000697,WMU00204,Spring 2024,2024,Enrolled,9,In-State,Online,2024-05-17
+ENR000698,WMU00204,Fall 2025,2025,Withdrawn,3,International,Online,2025-07-14
+ENR000699,WMU00204,Fall 2024,2024,Enrolled,9,International,Online,2024-09-25
+ENR000700,WMU00204,Fall 2023,2023,Enrolled,9,In-State,Online,2023-07-12
+ENR000701,WMU00205,Fall 2025,2025,Withdrawn,12,Out-of-State,Regional Campus,2025-12-22
+ENR000702,WMU00205,Spring 2024,2024,Enrolled,12,International,Regional Campus,2024-02-03
+ENR000703,WMU00205,Fall 2024,2024,Enrolled,3,International,Main Campus,2024-10-14
+ENR000704,WMU00206,Spring 2025,2025,Completed,12,International,Main Campus,2025-11-10
+ENR000705,WMU00206,Fall 2023,2023,Enrolled,12,In-State,Online,2023-09-13
+ENR000706,WMU00207,Spring 2024,2024,Enrolled,3,Out-of-State,Online,2024-11-23
+ENR000707,WMU00207,Spring 2025,2025,Enrolled,12,Out-of-State,Main Campus,2025-09-10
+ENR000708,WMU00208,Fall 2024,2024,Withdrawn,3,In-State,Main Campus,2024-01-05
+ENR000709,WMU00208,Fall 2025,2025,Completed,9,International,Regional Campus,2025-06-11
+ENR000710,WMU00208,Spring 2024,2024,Completed,6,Out-of-State,Main Campus,2024-09-13
+ENR000711,WMU00208,Fall 2023,2023,Completed,6,International,Online,2023-01-26
+ENR000712,WMU00209,Spring 2024,2024,Completed,9,In-State,Online,2024-04-04
+ENR000713,WMU00209,Spring 2025,2025,Completed,6,In-State,Regional Campus,2025-10-26
+ENR000714,WMU00209,Fall 2024,2024,Enrolled,12,International,Main Campus,2024-06-07
+ENR000715,WMU00209,Fall 2023,2023,Enrolled,3,In-State,Online,2023-01-21
+ENR000716,WMU00209,Fall 2025,2025,Enrolled,15,In-State,Regional Campus,2025-12-18
+ENR000717,WMU00210,Fall 2025,2025,Enrolled,3,Out-of-State,Regional Campus,2025-11-25
+ENR000718,WMU00210,Spring 2025,2025,Enrolled,9,In-State,Regional Campus,2025-04-10
+ENR000719,WMU00211,Fall 2025,2025,Enrolled,12,International,Main Campus,2025-05-03
+ENR000720,WMU00211,Spring 2024,2024,Enrolled,6,International,Regional Campus,2024-02-04
+ENR000721,WMU00211,Fall 2024,2024,Completed,12,In-State,Main Campus,2024-03-10
+ENR000722,WMU00212,Spring 2024,2024,Enrolled,9,Out-of-State,Main Campus,2024-08-26
+ENR000723,WMU00212,Fall 2023,2023,Withdrawn,3,In-State,Online,2023-11-03
+ENR000724,WMU00212,Spring 2025,2025,Withdrawn,6,Out-of-State,Online,2025-11-15
+ENR000725,WMU00212,Fall 2025,2025,Enrolled,6,Out-of-State,Main Campus,2025-03-22
+ENR000726,WMU00213,Fall 2023,2023,Withdrawn,9,International,Regional Campus,2023-09-01
+ENR000727,WMU00213,Fall 2024,2024,Completed,6,International,Online,2024-02-07
+ENR000728,WMU00214,Fall 2025,2025,Completed,15,In-State,Main Campus,2025-06-04
+ENR000729,WMU00214,Fall 2023,2023,Enrolled,6,Out-of-State,Main Campus,2023-04-03
+ENR000730,WMU00215,Fall 2024,2024,Enrolled,6,Out-of-State,Regional Campus,2024-09-21
+ENR000731,WMU00215,Fall 2025,2025,Withdrawn,9,International,Online,2025-07-17
+ENR000732,WMU00215,Spring 2024,2024,Enrolled,12,Out-of-State,Main Campus,2024-04-22
+ENR000733,WMU00216,Spring 2025,2025,Enrolled,6,International,Online,2025-07-15
+ENR000734,WMU00216,Fall 2023,2023,Completed,12,International,Online,2023-06-20
+ENR000735,WMU00216,Fall 2024,2024,Completed,3,Out-of-State,Online,2024-04-19
+ENR000736,WMU00216,Spring 2024,2024,Enrolled,9,International,Main Campus,2024-08-06
+ENR000737,WMU00217,Fall 2025,2025,Withdrawn,15,Out-of-State,Regional Campus,2025-11-17
+ENR000738,WMU00217,Fall 2024,2024,Withdrawn,9,In-State,Main Campus,2024-03-26
+ENR000739,WMU00218,Spring 2025,2025,Enrolled,3,International,Online,2025-06-05
+ENR000740,WMU00218,Spring 2024,2024,Enrolled,9,In-State,Online,2024-12-01
+ENR000741,WMU00218,Fall 2025,2025,Enrolled,9,Out-of-State,Regional Campus,2025-06-08
+ENR000742,WMU00218,Fall 2023,2023,Enrolled,15,Out-of-State,Online,2023-10-07
+ENR000743,WMU00219,Fall 2023,2023,Enrolled,15,International,Regional Campus,2023-07-22
+ENR000744,WMU00219,Fall 2024,2024,Enrolled,12,Out-of-State,Main Campus,2024-04-02
+ENR000745,WMU00219,Spring 2025,2025,Withdrawn,12,In-State,Online,2025-07-04
+ENR000746,WMU00220,Spring 2025,2025,Enrolled,15,International,Online,2025-04-19
+ENR000747,WMU00220,Spring 2024,2024,Enrolled,3,In-State,Regional Campus,2024-10-01
+ENR000748,WMU00221,Fall 2024,2024,Enrolled,9,In-State,Online,2024-02-27
+ENR000749,WMU00221,Spring 2024,2024,Enrolled,12,Out-of-State,Online,2024-06-13
+ENR000750,WMU00221,Spring 2025,2025,Completed,3,Out-of-State,Online,2025-10-02
+ENR000751,WMU00221,Fall 2023,2023,Enrolled,12,International,Online,2023-08-28
+ENR000752,WMU00221,Fall 2025,2025,Enrolled,3,International,Main Campus,2025-01-08
+ENR000753,WMU00222,Fall 2023,2023,Enrolled,3,International,Regional Campus,2023-07-08
+ENR000754,WMU00222,Spring 2024,2024,Enrolled,6,In-State,Regional Campus,2024-06-27
+ENR000755,WMU00223,Fall 2023,2023,Enrolled,3,In-State,Online,2023-02-09
+ENR000756,WMU00223,Fall 2024,2024,Completed,9,Out-of-State,Online,2024-12-06
+ENR000757,WMU00224,Fall 2025,2025,Enrolled,6,In-State,Regional Campus,2025-07-21
+ENR000758,WMU00224,Spring 2025,2025,Enrolled,12,International,Regional Campus,2025-04-19
+ENR000759,WMU00224,Fall 2023,2023,Withdrawn,12,Out-of-State,Online,2023-12-16
+ENR000760,WMU00225,Fall 2023,2023,Enrolled,3,International,Main Campus,2023-11-21
+ENR000761,WMU00225,Fall 2024,2024,Enrolled,6,In-State,Online,2024-01-07
+ENR000762,WMU00225,Spring 2024,2024,Enrolled,3,Out-of-State,Online,2024-04-16
+ENR000763,WMU00226,Fall 2024,2024,Completed,15,International,Online,2024-05-23
+ENR000764,WMU00226,Spring 2024,2024,Enrolled,12,International,Main Campus,2024-03-08
+ENR000765,WMU00227,Spring 2025,2025,Enrolled,12,In-State,Online,2025-07-06
+ENR000766,WMU00227,Fall 2025,2025,Completed,9,International,Main Campus,2025-03-15
+ENR000767,WMU00227,Fall 2024,2024,Enrolled,3,In-State,Main Campus,2024-08-06
+ENR000768,WMU00227,Fall 2023,2023,Enrolled,9,Out-of-State,Regional Campus,2023-09-15
+ENR000769,WMU00228,Fall 2024,2024,Withdrawn,9,In-State,Main Campus,2024-07-17
+ENR000770,WMU00228,Fall 2023,2023,Completed,12,Out-of-State,Main Campus,2023-08-09
+ENR000771,WMU00228,Fall 2025,2025,Enrolled,9,In-State,Regional Campus,2025-07-24
+ENR000772,WMU00228,Spring 2025,2025,Enrolled,12,Out-of-State,Main Campus,2025-07-06
+ENR000773,WMU00229,Fall 2025,2025,Enrolled,3,International,Main Campus,2025-02-08
+ENR000774,WMU00229,Spring 2025,2025,Enrolled,3,In-State,Regional Campus,2025-05-08
+ENR000775,WMU00229,Fall 2024,2024,Completed,3,In-State,Online,2024-04-20
+ENR000776,WMU00229,Spring 2024,2024,Withdrawn,12,Out-of-State,Main Campus,2024-04-24
+ENR000777,WMU00230,Spring 2025,2025,Enrolled,9,International,Regional Campus,2025-05-24
+ENR000778,WMU00230,Spring 2024,2024,Enrolled,3,In-State,Regional Campus,2024-12-20
+ENR000779,WMU00230,Fall 2023,2023,Enrolled,12,International,Main Campus,2023-03-11
+ENR000780,WMU00230,Fall 2024,2024,Enrolled,3,In-State,Online,2024-08-05
+ENR000781,WMU00231,Spring 2025,2025,Enrolled,9,In-State,Online,2025-02-06
+ENR000782,WMU00231,Fall 2025,2025,Completed,3,Out-of-State,Online,2025-10-01
+ENR000783,WMU00232,Spring 2024,2024,Enrolled,15,In-State,Regional Campus,2024-09-06
+ENR000784,WMU00232,Spring 2025,2025,Enrolled,6,In-State,Online,2025-12-11
+ENR000785,WMU00232,Fall 2023,2023,Withdrawn,12,International,Online,2023-09-09
+ENR000786,WMU00232,Fall 2024,2024,Enrolled,12,Out-of-State,Online,2024-01-27
+ENR000787,WMU00232,Fall 2025,2025,Enrolled,9,International,Online,2025-09-25
+ENR000788,WMU00233,Fall 2023,2023,Enrolled,12,International,Main Campus,2023-06-16
+ENR000789,WMU00233,Fall 2024,2024,Enrolled,3,International,Regional Campus,2024-12-14
+ENR000790,WMU00233,Spring 2025,2025,Enrolled,9,International,Main Campus,2025-04-13
+ENR000791,WMU00233,Fall 2025,2025,Enrolled,3,International,Regional Campus,2025-09-15
+ENR000792,WMU00233,Spring 2024,2024,Enrolled,15,Out-of-State,Regional Campus,2024-06-11
+ENR000793,WMU00234,Fall 2025,2025,Completed,3,International,Regional Campus,2025-06-27
+ENR000794,WMU00234,Spring 2025,2025,Enrolled,15,Out-of-State,Online,2025-10-26
+ENR000795,WMU00234,Spring 2024,2024,Enrolled,9,In-State,Main Campus,2024-08-22
+ENR000796,WMU00234,Fall 2024,2024,Withdrawn,6,International,Main Campus,2024-09-10
+ENR000797,WMU00234,Fall 2023,2023,Completed,15,International,Main Campus,2023-05-16
+ENR000798,WMU00235,Fall 2023,2023,Enrolled,3,Out-of-State,Regional Campus,2023-02-02
+ENR000799,WMU00235,Fall 2024,2024,Enrolled,12,In-State,Online,2024-06-22
+ENR000800,WMU00235,Fall 2025,2025,Enrolled,3,Out-of-State,Main Campus,2025-06-10
+ENR000801,WMU00235,Spring 2024,2024,Completed,15,In-State,Main Campus,2024-12-09
+ENR000802,WMU00236,Spring 2024,2024,Enrolled,3,In-State,Main Campus,2024-08-12
+ENR000803,WMU00236,Spring 2025,2025,Withdrawn,6,Out-of-State,Online,2025-02-09
+ENR000804,WMU00236,Fall 2024,2024,Completed,9,Out-of-State,Main Campus,2024-10-14
+ENR000805,WMU00237,Fall 2025,2025,Enrolled,9,Out-of-State,Regional Campus,2025-04-10
+ENR000806,WMU00237,Spring 2024,2024,Enrolled,9,Out-of-State,Regional Campus,2024-11-15
+ENR000807,WMU00237,Fall 2024,2024,Enrolled,15,Out-of-State,Online,2024-02-05
+ENR000808,WMU00237,Fall 2023,2023,Withdrawn,15,International,Online,2023-09-22
+ENR000809,WMU00238,Spring 2025,2025,Withdrawn,12,Out-of-State,Main Campus,2025-09-01
+ENR000810,WMU00238,Fall 2024,2024,Enrolled,12,In-State,Regional Campus,2024-05-26
+ENR000811,WMU00238,Spring 2024,2024,Completed,6,International,Online,2024-03-20
+ENR000812,WMU00238,Fall 2025,2025,Completed,15,Out-of-State,Main Campus,2025-07-05
+ENR000813,WMU00239,Fall 2023,2023,Enrolled,3,Out-of-State,Regional Campus,2023-02-11
+ENR000814,WMU00239,Spring 2025,2025,Enrolled,15,Out-of-State,Regional Campus,2025-08-23
+ENR000815,WMU00239,Fall 2024,2024,Enrolled,9,In-State,Regional Campus,2024-10-22
+ENR000816,WMU00239,Spring 2024,2024,Enrolled,15,International,Main Campus,2024-09-05
+ENR000817,WMU00239,Fall 2025,2025,Withdrawn,15,In-State,Main Campus,2025-11-21
+ENR000818,WMU00240,Fall 2024,2024,Withdrawn,3,International,Regional Campus,2024-04-04
+ENR000819,WMU00240,Fall 2025,2025,Enrolled,3,In-State,Regional Campus,2025-02-17
+ENR000820,WMU00240,Spring 2025,2025,Enrolled,3,In-State,Main Campus,2025-08-01
+ENR000821,WMU00241,Spring 2025,2025,Enrolled,12,In-State,Regional Campus,2025-05-27
+ENR000822,WMU00241,Fall 2023,2023,Withdrawn,15,International,Regional Campus,2023-02-14
+ENR000823,WMU00241,Fall 2025,2025,Enrolled,6,In-State,Main Campus,2025-12-22
+ENR000824,WMU00241,Spring 2024,2024,Enrolled,6,International,Regional Campus,2024-12-18
+ENR000825,WMU00241,Fall 2024,2024,Withdrawn,6,Out-of-State,Online,2024-05-22
+ENR000826,WMU00242,Fall 2025,2025,Enrolled,9,Out-of-State,Online,2025-12-26
+ENR000827,WMU00242,Spring 2025,2025,Withdrawn,3,Out-of-State,Online,2025-03-01
+ENR000828,WMU00243,Spring 2025,2025,Completed,3,Out-of-State,Main Campus,2025-11-21
+ENR000829,WMU00243,Fall 2023,2023,Withdrawn,15,In-State,Online,2023-03-15
+ENR000830,WMU00243,Fall 2024,2024,Enrolled,12,In-State,Main Campus,2024-06-17
+ENR000831,WMU00243,Spring 2024,2024,Enrolled,15,Out-of-State,Regional Campus,2024-09-13
+ENR000832,WMU00244,Spring 2024,2024,Completed,9,Out-of-State,Online,2024-12-28
+ENR000833,WMU00244,Fall 2025,2025,Enrolled,6,International,Online,2025-07-03
+ENR000834,WMU00245,Spring 2025,2025,Enrolled,6,International,Regional Campus,2025-06-19
+ENR000835,WMU00245,Fall 2025,2025,Withdrawn,15,In-State,Main Campus,2025-01-28
+ENR000836,WMU00245,Fall 2024,2024,Enrolled,6,In-State,Regional Campus,2024-02-16
+ENR000837,WMU00245,Fall 2023,2023,Enrolled,12,In-State,Regional Campus,2023-04-04
+ENR000838,WMU00245,Spring 2024,2024,Withdrawn,6,Out-of-State,Main Campus,2024-01-20
+ENR000839,WMU00246,Fall 2023,2023,Enrolled,12,International,Regional Campus,2023-01-06
+ENR000840,WMU00246,Fall 2025,2025,Enrolled,9,International,Online,2025-07-05
+ENR000841,WMU00246,Fall 2024,2024,Completed,15,In-State,Main Campus,2024-05-16
+ENR000842,WMU00246,Spring 2025,2025,Enrolled,12,In-State,Main Campus,2025-12-06
+ENR000843,WMU00247,Fall 2025,2025,Enrolled,6,In-State,Main Campus,2025-06-25
+ENR000844,WMU00247,Spring 2024,2024,Completed,12,International,Main Campus,2024-06-06
+ENR000845,WMU00247,Fall 2023,2023,Withdrawn,15,In-State,Main Campus,2023-10-27
+ENR000846,WMU00247,Fall 2024,2024,Completed,12,Out-of-State,Online,2024-10-18
+ENR000847,WMU00247,Spring 2025,2025,Enrolled,6,Out-of-State,Online,2025-11-13
+ENR000848,WMU00248,Fall 2025,2025,Completed,6,Out-of-State,Main Campus,2025-02-16
+ENR000849,WMU00248,Fall 2023,2023,Enrolled,6,International,Regional Campus,2023-06-01
+ENR000850,WMU00249,Fall 2024,2024,Enrolled,9,In-State,Online,2024-02-18
+ENR000851,WMU00249,Fall 2025,2025,Enrolled,15,International,Regional Campus,2025-09-10
+ENR000852,WMU00249,Spring 2024,2024,Completed,12,In-State,Regional Campus,2024-12-04
+ENR000853,WMU00250,Fall 2024,2024,Enrolled,9,Out-of-State,Main Campus,2024-03-07
+ENR000854,WMU00250,Fall 2023,2023,Enrolled,15,International,Main Campus,2023-04-16
+ENR000855,WMU00250,Spring 2025,2025,Completed,3,International,Regional Campus,2025-01-12
+ENR000856,WMU00250,Spring 2024,2024,Withdrawn,3,International,Regional Campus,2024-10-03
+ENR000857,WMU00250,Fall 2025,2025,Withdrawn,15,In-State,Online,2025-12-02
+ENR000858,WMU00251,Fall 2023,2023,Enrolled,15,International,Online,2023-07-16
+ENR000859,WMU00251,Spring 2025,2025,Enrolled,9,In-State,Main Campus,2025-01-25
+ENR000860,WMU00252,Fall 2025,2025,Completed,3,Out-of-State,Main Campus,2025-07-25
+ENR000861,WMU00252,Spring 2025,2025,Enrolled,12,Out-of-State,Regional Campus,2025-07-18
+ENR000862,WMU00252,Fall 2024,2024,Enrolled,6,Out-of-State,Main Campus,2024-10-12
+ENR000863,WMU00253,Spring 2024,2024,Enrolled,6,In-State,Regional Campus,2024-01-08
+ENR000864,WMU00253,Fall 2024,2024,Completed,12,International,Main Campus,2024-01-28
+ENR000865,WMU00253,Fall 2025,2025,Enrolled,6,In-State,Main Campus,2025-03-15
+ENR000866,WMU00253,Fall 2023,2023,Enrolled,6,In-State,Online,2023-06-20
+ENR000867,WMU00254,Fall 2024,2024,Withdrawn,12,International,Main Campus,2024-11-03
+ENR000868,WMU00254,Spring 2024,2024,Enrolled,3,International,Main Campus,2024-08-23
+ENR000869,WMU00254,Fall 2025,2025,Enrolled,9,Out-of-State,Regional Campus,2025-05-12
+ENR000870,WMU00255,Spring 2024,2024,Enrolled,3,Out-of-State,Regional Campus,2024-10-16
+ENR000871,WMU00255,Fall 2024,2024,Enrolled,9,In-State,Main Campus,2024-09-08
+ENR000872,WMU00255,Fall 2025,2025,Completed,9,In-State,Main Campus,2025-06-24
+ENR000873,WMU00255,Fall 2023,2023,Enrolled,6,In-State,Regional Campus,2023-08-21
+ENR000874,WMU00256,Fall 2023,2023,Completed,9,Out-of-State,Online,2023-02-02
+ENR000875,WMU00256,Fall 2025,2025,Completed,9,Out-of-State,Online,2025-01-28
+ENR000876,WMU00256,Spring 2024,2024,Withdrawn,12,Out-of-State,Main Campus,2024-04-07
+ENR000877,WMU00256,Spring 2025,2025,Enrolled,12,International,Online,2025-09-02
+ENR000878,WMU00256,Fall 2024,2024,Enrolled,9,International,Online,2024-01-20
+ENR000879,WMU00257,Fall 2024,2024,Withdrawn,15,Out-of-State,Regional Campus,2024-12-25
+ENR000880,WMU00257,Spring 2024,2024,Enrolled,3,International,Online,2024-12-22
+ENR000881,WMU00257,Fall 2023,2023,Completed,9,Out-of-State,Online,2023-10-24
+ENR000882,WMU00257,Spring 2025,2025,Completed,15,Out-of-State,Main Campus,2025-07-15
+ENR000883,WMU00258,Spring 2024,2024,Enrolled,9,In-State,Regional Campus,2024-05-11
+ENR000884,WMU00258,Fall 2023,2023,Withdrawn,15,In-State,Regional Campus,2023-05-12
+ENR000885,WMU00258,Fall 2025,2025,Enrolled,9,International,Regional Campus,2025-01-04
+ENR000886,WMU00259,Fall 2025,2025,Withdrawn,12,In-State,Online,2025-01-15
+ENR000887,WMU00259,Fall 2024,2024,Enrolled,3,Out-of-State,Regional Campus,2024-09-07
+ENR000888,WMU00259,Spring 2024,2024,Enrolled,12,International,Main Campus,2024-05-20
+ENR000889,WMU00259,Fall 2023,2023,Enrolled,15,In-State,Online,2023-03-09
+ENR000890,WMU00260,Fall 2024,2024,Enrolled,6,International,Regional Campus,2024-01-08
+ENR000891,WMU00260,Spring 2025,2025,Enrolled,3,In-State,Regional Campus,2025-09-28
+ENR000892,WMU00260,Fall 2023,2023,Completed,12,Out-of-State,Main Campus,2023-09-23
+ENR000893,WMU00260,Fall 2025,2025,Enrolled,6,International,Online,2025-05-01
+ENR000894,WMU00261,Fall 2025,2025,Enrolled,9,In-State,Regional Campus,2025-08-04
+ENR000895,WMU00261,Fall 2023,2023,Enrolled,15,In-State,Main Campus,2023-06-19
+ENR000896,WMU00261,Fall 2024,2024,Withdrawn,9,In-State,Regional Campus,2024-07-10
+ENR000897,WMU00261,Spring 2025,2025,Enrolled,6,Out-of-State,Regional Campus,2025-06-11
+ENR000898,WMU00262,Fall 2024,2024,Enrolled,9,Out-of-State,Main Campus,2024-10-01
+ENR000899,WMU00262,Spring 2025,2025,Completed,3,In-State,Online,2025-09-23
+ENR000900,WMU00262,Spring 2024,2024,Completed,15,International,Online,2024-04-13
+ENR000901,WMU00262,Fall 2023,2023,Enrolled,15,International,Regional Campus,2023-03-13
+ENR000902,WMU00262,Fall 2025,2025,Enrolled,3,In-State,Regional Campus,2025-09-19
+ENR000903,WMU00263,Fall 2025,2025,Completed,15,Out-of-State,Online,2025-05-07
+ENR000904,WMU00263,Fall 2023,2023,Enrolled,15,In-State,Online,2023-04-26
+ENR000905,WMU00263,Fall 2024,2024,Enrolled,9,Out-of-State,Online,2024-12-04
+ENR000906,WMU00263,Spring 2025,2025,Withdrawn,6,International,Online,2025-06-03
+ENR000907,WMU00263,Spring 2024,2024,Completed,9,International,Main Campus,2024-06-21
+ENR000908,WMU00264,Fall 2025,2025,Enrolled,15,International,Main Campus,2025-07-22
+ENR000909,WMU00264,Spring 2024,2024,Enrolled,15,International,Online,2024-05-11
+ENR000910,WMU00264,Spring 2025,2025,Enrolled,9,In-State,Online,2025-07-17
+ENR000911,WMU00264,Fall 2024,2024,Completed,6,Out-of-State,Regional Campus,2024-04-06
+ENR000912,WMU00264,Fall 2023,2023,Enrolled,12,In-State,Main Campus,2023-07-09
+ENR000913,WMU00265,Fall 2023,2023,Enrolled,6,In-State,Regional Campus,2023-09-13
+ENR000914,WMU00265,Spring 2024,2024,Enrolled,12,In-State,Online,2024-12-18
+ENR000915,WMU00265,Fall 2025,2025,Enrolled,6,In-State,Online,2025-06-19
+ENR000916,WMU00265,Spring 2025,2025,Completed,15,In-State,Regional Campus,2025-01-03
+ENR000917,WMU00265,Fall 2024,2024,Withdrawn,9,Out-of-State,Regional Campus,2024-08-24
+ENR000918,WMU00266,Fall 2024,2024,Completed,15,In-State,Main Campus,2024-01-19
+ENR000919,WMU00266,Spring 2025,2025,Enrolled,15,International,Regional Campus,2025-08-13
+ENR000920,WMU00266,Fall 2025,2025,Withdrawn,9,In-State,Regional Campus,2025-12-19
+ENR000921,WMU00266,Fall 2023,2023,Enrolled,9,In-State,Online,2023-08-11
+ENR000922,WMU00266,Spring 2024,2024,Completed,3,International,Regional Campus,2024-10-17
+ENR000923,WMU00267,Fall 2024,2024,Enrolled,6,International,Regional Campus,2024-04-14
+ENR000924,WMU00267,Fall 2025,2025,Enrolled,15,International,Regional Campus,2025-06-04
+ENR000925,WMU00267,Spring 2024,2024,Enrolled,9,In-State,Main Campus,2024-05-09
+ENR000926,WMU00267,Spring 2025,2025,Withdrawn,12,In-State,Main Campus,2025-05-09
+ENR000927,WMU00267,Fall 2023,2023,Enrolled,15,In-State,Regional Campus,2023-05-05
+ENR000928,WMU00268,Spring 2024,2024,Completed,3,In-State,Regional Campus,2024-09-26
+ENR000929,WMU00268,Fall 2025,2025,Enrolled,6,Out-of-State,Main Campus,2025-06-07
+ENR000930,WMU00269,Fall 2025,2025,Enrolled,15,Out-of-State,Online,2025-02-23
+ENR000931,WMU00269,Spring 2025,2025,Withdrawn,3,Out-of-State,Online,2025-05-03
+ENR000932,WMU00269,Fall 2024,2024,Enrolled,6,International,Regional Campus,2024-02-12
+ENR000933,WMU00269,Spring 2024,2024,Enrolled,3,International,Main Campus,2024-06-06
+ENR000934,WMU00270,Fall 2024,2024,Enrolled,9,Out-of-State,Main Campus,2024-12-26
+ENR000935,WMU00270,Spring 2025,2025,Enrolled,15,In-State,Regional Campus,2025-11-27
+ENR000936,WMU00270,Fall 2025,2025,Enrolled,3,In-State,Main Campus,2025-10-13
+ENR000937,WMU00270,Fall 2023,2023,Enrolled,6,Out-of-State,Online,2023-03-16
+ENR000938,WMU00271,Spring 2025,2025,Enrolled,6,International,Regional Campus,2025-12-07
+ENR000939,WMU00271,Fall 2024,2024,Withdrawn,3,In-State,Online,2024-09-20
+ENR000940,WMU00271,Fall 2023,2023,Enrolled,6,In-State,Online,2023-12-09
+ENR000941,WMU00272,Fall 2025,2025,Enrolled,15,Out-of-State,Main Campus,2025-05-22
+ENR000942,WMU00272,Spring 2024,2024,Withdrawn,12,International,Online,2024-10-12
+ENR000943,WMU00272,Fall 2024,2024,Withdrawn,15,Out-of-State,Main Campus,2024-04-04
+ENR000944,WMU00272,Spring 2025,2025,Withdrawn,9,Out-of-State,Online,2025-04-22
+ENR000945,WMU00272,Fall 2023,2023,Enrolled,12,In-State,Online,2023-06-22
+ENR000946,WMU00273,Fall 2024,2024,Withdrawn,6,Out-of-State,Regional Campus,2024-07-22
+ENR000947,WMU00273,Spring 2025,2025,Enrolled,6,Out-of-State,Online,2025-09-07
+ENR000948,WMU00274,Fall 2023,2023,Withdrawn,12,Out-of-State,Online,2023-05-02
+ENR000949,WMU00274,Fall 2024,2024,Withdrawn,9,International,Main Campus,2024-06-21
+ENR000950,WMU00274,Spring 2024,2024,Enrolled,3,Out-of-State,Online,2024-04-19
+ENR000951,WMU00274,Spring 2025,2025,Completed,6,In-State,Regional Campus,2025-02-20
+ENR000952,WMU00274,Fall 2025,2025,Enrolled,15,In-State,Regional Campus,2025-09-01
+ENR000953,WMU00275,Spring 2025,2025,Enrolled,9,International,Main Campus,2025-11-02
+ENR000954,WMU00275,Fall 2023,2023,Enrolled,15,Out-of-State,Regional Campus,2023-04-06
+ENR000955,WMU00276,Spring 2024,2024,Enrolled,12,International,Regional Campus,2024-04-01
+ENR000956,WMU00276,Fall 2024,2024,Enrolled,3,International,Main Campus,2024-09-13
+ENR000957,WMU00276,Fall 2023,2023,Enrolled,12,In-State,Online,2023-05-01
+ENR000958,WMU00276,Fall 2025,2025,Enrolled,6,In-State,Online,2025-12-04
+ENR000959,WMU00276,Spring 2025,2025,Withdrawn,12,In-State,Regional Campus,2025-05-28
+ENR000960,WMU00277,Fall 2023,2023,Withdrawn,15,In-State,Main Campus,2023-12-27
+ENR000961,WMU00277,Fall 2025,2025,Completed,15,In-State,Main Campus,2025-12-19
+ENR000962,WMU00278,Spring 2024,2024,Enrolled,9,Out-of-State,Main Campus,2024-02-09
+ENR000963,WMU00278,Fall 2024,2024,Withdrawn,15,Out-of-State,Online,2024-07-03
+ENR000964,WMU00278,Fall 2025,2025,Withdrawn,6,International,Online,2025-08-10
+ENR000965,WMU00278,Spring 2025,2025,Completed,15,In-State,Online,2025-01-16
+ENR000966,WMU00278,Fall 2023,2023,Enrolled,12,International,Regional Campus,2023-02-15
+ENR000967,WMU00279,Fall 2025,2025,Withdrawn,6,Out-of-State,Online,2025-10-04
+ENR000968,WMU00279,Fall 2023,2023,Enrolled,9,In-State,Regional Campus,2023-02-04
+ENR000969,WMU00279,Spring 2024,2024,Enrolled,15,In-State,Online,2024-10-08
+ENR000970,WMU00280,Spring 2024,2024,Withdrawn,15,International,Regional Campus,2024-10-25
+ENR000971,WMU00280,Spring 2025,2025,Enrolled,6,Out-of-State,Online,2025-07-10
+ENR000972,WMU00281,Spring 2024,2024,Enrolled,3,International,Main Campus,2024-09-26
+ENR000973,WMU00281,Fall 2023,2023,Completed,12,Out-of-State,Online,2023-11-08
+ENR000974,WMU00281,Fall 2025,2025,Withdrawn,9,International,Online,2025-09-18
+ENR000975,WMU00281,Fall 2024,2024,Enrolled,3,Out-of-State,Regional Campus,2024-02-13
+ENR000976,WMU00282,Fall 2023,2023,Enrolled,3,In-State,Online,2023-02-02
+ENR000977,WMU00282,Spring 2024,2024,Withdrawn,12,In-State,Regional Campus,2024-09-16
+ENR000978,WMU00282,Fall 2024,2024,Completed,6,Out-of-State,Online,2024-01-10
+ENR000979,WMU00283,Spring 2025,2025,Completed,9,Out-of-State,Regional Campus,2025-06-19
+ENR000980,WMU00283,Fall 2024,2024,Enrolled,6,Out-of-State,Regional Campus,2024-11-07
+ENR000981,WMU00284,Fall 2025,2025,Enrolled,6,International,Regional Campus,2025-03-06
+ENR000982,WMU00284,Fall 2024,2024,Withdrawn,15,In-State,Online,2024-07-06
+ENR000983,WMU00284,Spring 2024,2024,Withdrawn,6,In-State,Main Campus,2024-05-23
+ENR000984,WMU00284,Spring 2025,2025,Enrolled,6,International,Main Campus,2025-09-15
+ENR000985,WMU00285,Fall 2023,2023,Enrolled,15,In-State,Online,2023-11-18
+ENR000986,WMU00285,Fall 2025,2025,Enrolled,6,International,Main Campus,2025-04-09
+ENR000987,WMU00285,Fall 2024,2024,Withdrawn,9,International,Regional Campus,2024-05-12
+ENR000988,WMU00285,Spring 2024,2024,Withdrawn,15,Out-of-State,Regional Campus,2024-09-21
+ENR000989,WMU00286,Fall 2023,2023,Enrolled,6,In-State,Online,2023-10-04
+ENR000990,WMU00286,Spring 2024,2024,Completed,6,International,Regional Campus,2024-07-11
+ENR000991,WMU00286,Fall 2025,2025,Completed,15,International,Online,2025-12-28
+ENR000992,WMU00287,Spring 2024,2024,Completed,3,In-State,Main Campus,2024-03-16
+ENR000993,WMU00287,Fall 2025,2025,Enrolled,3,In-State,Main Campus,2025-03-17
+ENR000994,WMU00287,Fall 2023,2023,Withdrawn,12,International,Online,2023-06-10
+ENR000995,WMU00287,Fall 2024,2024,Enrolled,15,In-State,Regional Campus,2024-07-13
+ENR000996,WMU00287,Spring 2025,2025,Withdrawn,12,Out-of-State,Online,2025-09-11
+ENR000997,WMU00288,Fall 2025,2025,Enrolled,6,International,Main Campus,2025-07-18
+ENR000998,WMU00288,Spring 2024,2024,Withdrawn,12,International,Online,2024-11-04
+ENR000999,WMU00289,Fall 2024,2024,Withdrawn,9,In-State,Regional Campus,2024-09-07
+ENR001000,WMU00289,Spring 2024,2024,Enrolled,12,In-State,Regional Campus,2024-01-07
+ENR001001,WMU00289,Fall 2023,2023,Enrolled,12,International,Main Campus,2023-01-19
+ENR001002,WMU00289,Spring 2025,2025,Enrolled,9,In-State,Online,2025-05-17
+ENR001003,WMU00289,Fall 2025,2025,Completed,3,Out-of-State,Main Campus,2025-11-09
+ENR001004,WMU00290,Spring 2025,2025,Completed,3,In-State,Regional Campus,2025-08-20
+ENR001005,WMU00290,Fall 2023,2023,Withdrawn,12,In-State,Online,2023-12-28
+ENR001006,WMU00290,Fall 2024,2024,Enrolled,15,In-State,Online,2024-01-20
+ENR001007,WMU00290,Spring 2024,2024,Enrolled,6,In-State,Main Campus,2024-07-27
+ENR001008,WMU00290,Fall 2025,2025,Enrolled,3,Out-of-State,Regional Campus,2025-12-02
+ENR001009,WMU00291,Fall 2023,2023,Enrolled,9,International,Main Campus,2023-10-24
+ENR001010,WMU00291,Fall 2024,2024,Completed,9,In-State,Regional Campus,2024-07-14
+ENR001011,WMU00291,Fall 2025,2025,Enrolled,3,In-State,Regional Campus,2025-03-24
+ENR001012,WMU00291,Spring 2025,2025,Enrolled,9,In-State,Online,2025-01-09
+ENR001013,WMU00292,Fall 2025,2025,Enrolled,3,Out-of-State,Regional Campus,2025-06-04
+ENR001014,WMU00292,Spring 2025,2025,Withdrawn,9,International,Regional Campus,2025-02-19
+ENR001015,WMU00292,Fall 2023,2023,Enrolled,12,In-State,Main Campus,2023-03-24
+ENR001016,WMU00293,Spring 2024,2024,Enrolled,15,In-State,Main Campus,2024-04-21
+ENR001017,WMU00293,Fall 2024,2024,Withdrawn,9,In-State,Regional Campus,2024-04-10
+ENR001018,WMU00294,Spring 2024,2024,Enrolled,12,In-State,Online,2024-03-19
+ENR001019,WMU00294,Fall 2024,2024,Withdrawn,9,In-State,Main Campus,2024-05-07
+ENR001020,WMU00294,Fall 2023,2023,Enrolled,6,Out-of-State,Regional Campus,2023-08-09
+ENR001021,WMU00295,Spring 2025,2025,Enrolled,15,Out-of-State,Regional Campus,2025-09-15
+ENR001022,WMU00295,Fall 2024,2024,Enrolled,6,International,Online,2024-03-18
+ENR001023,WMU00296,Spring 2025,2025,Enrolled,9,Out-of-State,Regional Campus,2025-09-18
+ENR001024,WMU00296,Fall 2024,2024,Enrolled,9,International,Main Campus,2024-05-07
+ENR001025,WMU00296,Fall 2025,2025,Enrolled,12,In-State,Main Campus,2025-09-22
+ENR001026,WMU00297,Spring 2025,2025,Enrolled,15,Out-of-State,Regional Campus,2025-07-22
+ENR001027,WMU00297,Spring 2024,2024,Enrolled,15,Out-of-State,Regional Campus,2024-02-21
+ENR001028,WMU00297,Fall 2025,2025,Enrolled,9,In-State,Online,2025-08-11
+ENR001029,WMU00298,Fall 2023,2023,Withdrawn,6,International,Main Campus,2023-01-15
+ENR001030,WMU00298,Spring 2024,2024,Withdrawn,15,International,Regional Campus,2024-12-14
+ENR001031,WMU00298,Spring 2025,2025,Withdrawn,12,In-State,Online,2025-12-12
+ENR001032,WMU00298,Fall 2024,2024,Enrolled,15,Out-of-State,Regional Campus,2024-07-10
+ENR001033,WMU00299,Spring 2024,2024,Withdrawn,12,Out-of-State,Regional Campus,2024-07-19
+ENR001034,WMU00299,Fall 2023,2023,Enrolled,3,International,Main Campus,2023-05-20
+ENR001035,WMU00300,Fall 2025,2025,Enrolled,9,In-State,Online,2025-03-26
+ENR001036,WMU00300,Spring 2024,2024,Withdrawn,9,Out-of-State,Main Campus,2024-08-01
+ENR001037,WMU00300,Fall 2023,2023,Enrolled,6,In-State,Online,2023-05-03
+ENR001038,WMU00301,Spring 2024,2024,Enrolled,3,In-State,Regional Campus,2024-09-28
+ENR001039,WMU00301,Fall 2025,2025,Enrolled,9,Out-of-State,Main Campus,2025-06-04
+ENR001040,WMU00301,Spring 2025,2025,Completed,12,International,Online,2025-12-07
+ENR001041,WMU00302,Spring 2025,2025,Enrolled,12,Out-of-State,Main Campus,2025-07-25
+ENR001042,WMU00302,Fall 2025,2025,Enrolled,9,International,Regional Campus,2025-07-20
+ENR001043,WMU00302,Fall 2024,2024,Completed,12,In-State,Online,2024-08-22
+ENR001044,WMU00302,Fall 2023,2023,Enrolled,15,In-State,Regional Campus,2023-03-25
+ENR001045,WMU00302,Spring 2024,2024,Enrolled,6,Out-of-State,Online,2024-09-27
+ENR001046,WMU00303,Fall 2025,2025,Enrolled,3,In-State,Online,2025-04-02
+ENR001047,WMU00303,Spring 2025,2025,Enrolled,6,Out-of-State,Main Campus,2025-06-13
+ENR001048,WMU00304,Spring 2025,2025,Withdrawn,9,International,Online,2025-01-09
+ENR001049,WMU00304,Spring 2024,2024,Enrolled,12,In-State,Online,2024-11-17
+ENR001050,WMU00304,Fall 2025,2025,Withdrawn,3,In-State,Online,2025-11-24
+ENR001051,WMU00305,Spring 2025,2025,Enrolled,6,In-State,Regional Campus,2025-09-13
+ENR001052,WMU00305,Fall 2023,2023,Enrolled,12,Out-of-State,Regional Campus,2023-11-13
+ENR001053,WMU00306,Fall 2023,2023,Withdrawn,15,International,Online,2023-08-23
+ENR001054,WMU00306,Fall 2024,2024,Completed,9,Out-of-State,Main Campus,2024-03-14
+ENR001055,WMU00306,Spring 2024,2024,Withdrawn,15,International,Main Campus,2024-03-01
+ENR001056,WMU00306,Spring 2025,2025,Completed,9,Out-of-State,Main Campus,2025-09-27
+ENR001057,WMU00306,Fall 2025,2025,Withdrawn,15,Out-of-State,Main Campus,2025-08-10
+ENR001058,WMU00307,Fall 2023,2023,Enrolled,12,In-State,Regional Campus,2023-11-12
+ENR001059,WMU00307,Spring 2025,2025,Withdrawn,9,Out-of-State,Regional Campus,2025-05-25
+ENR001060,WMU00308,Fall 2025,2025,Enrolled,6,Out-of-State,Online,2025-01-15
+ENR001061,WMU00308,Fall 2024,2024,Enrolled,9,International,Main Campus,2024-10-04
+ENR001062,WMU00309,Fall 2023,2023,Completed,3,In-State,Main Campus,2023-12-05
+ENR001063,WMU00309,Spring 2025,2025,Withdrawn,12,Out-of-State,Online,2025-08-23
+ENR001064,WMU00309,Fall 2025,2025,Enrolled,15,International,Regional Campus,2025-10-15
+ENR001065,WMU00309,Fall 2024,2024,Enrolled,3,Out-of-State,Online,2024-01-05
+ENR001066,WMU00310,Spring 2025,2025,Enrolled,9,Out-of-State,Online,2025-01-06
+ENR001067,WMU00310,Fall 2023,2023,Enrolled,9,Out-of-State,Main Campus,2023-04-19
+ENR001068,WMU00311,Fall 2024,2024,Completed,9,Out-of-State,Main Campus,2024-07-09
+ENR001069,WMU00311,Spring 2024,2024,Enrolled,6,International,Regional Campus,2024-01-20
+ENR001070,WMU00311,Fall 2025,2025,Enrolled,12,International,Online,2025-05-01
+ENR001071,WMU00311,Fall 2023,2023,Enrolled,12,In-State,Online,2023-11-05
+ENR001072,WMU00312,Fall 2024,2024,Enrolled,3,In-State,Main Campus,2024-12-11
+ENR001073,WMU00312,Spring 2025,2025,Enrolled,6,International,Online,2025-12-23
+ENR001074,WMU00312,Fall 2025,2025,Withdrawn,15,International,Online,2025-11-20
+ENR001075,WMU00312,Spring 2024,2024,Completed,9,Out-of-State,Online,2024-09-01
+ENR001076,WMU00313,Fall 2024,2024,Withdrawn,6,International,Online,2024-04-18
+ENR001077,WMU00313,Fall 2025,2025,Withdrawn,6,Out-of-State,Online,2025-01-22
+ENR001078,WMU00313,Spring 2024,2024,Enrolled,15,International,Online,2024-09-12
+ENR001079,WMU00313,Spring 2025,2025,Enrolled,3,International,Regional Campus,2025-06-10
+ENR001080,WMU00314,Fall 2024,2024,Enrolled,3,International,Regional Campus,2024-03-20
+ENR001081,WMU00314,Spring 2025,2025,Completed,9,Out-of-State,Online,2025-01-25
+ENR001082,WMU00314,Fall 2025,2025,Completed,9,International,Online,2025-04-13
+ENR001083,WMU00314,Spring 2024,2024,Enrolled,15,Out-of-State,Regional Campus,2024-02-04
+ENR001084,WMU00315,Spring 2024,2024,Withdrawn,6,International,Online,2024-06-25
+ENR001085,WMU00315,Fall 2025,2025,Withdrawn,6,International,Online,2025-06-25
+ENR001086,WMU00315,Fall 2023,2023,Enrolled,9,International,Regional Campus,2023-11-25
+ENR001087,WMU00315,Spring 2025,2025,Completed,9,International,Regional Campus,2025-07-08
+ENR001088,WMU00315,Fall 2024,2024,Withdrawn,12,Out-of-State,Online,2024-08-06
+ENR001089,WMU00316,Spring 2025,2025,Enrolled,15,Out-of-State,Regional Campus,2025-03-22
+ENR001090,WMU00316,Fall 2024,2024,Withdrawn,3,International,Regional Campus,2024-07-14
+ENR001091,WMU00316,Fall 2023,2023,Enrolled,12,International,Main Campus,2023-10-08
+ENR001092,WMU00317,Fall 2025,2025,Withdrawn,15,In-State,Online,2025-10-08
+ENR001093,WMU00317,Fall 2023,2023,Completed,6,International,Online,2023-11-03
+ENR001094,WMU00317,Fall 2024,2024,Enrolled,9,International,Regional Campus,2024-11-13
+ENR001095,WMU00318,Spring 2024,2024,Enrolled,6,Out-of-State,Regional Campus,2024-04-11
+ENR001096,WMU00318,Spring 2025,2025,Enrolled,6,In-State,Main Campus,2025-04-19
+ENR001097,WMU00318,Fall 2025,2025,Withdrawn,12,In-State,Regional Campus,2025-10-15
+ENR001098,WMU00319,Spring 2024,2024,Completed,3,Out-of-State,Main Campus,2024-04-15
+ENR001099,WMU00319,Spring 2025,2025,Enrolled,3,International,Main Campus,2025-11-22
+ENR001100,WMU00319,Fall 2024,2024,Completed,12,Out-of-State,Online,2024-02-26
+ENR001101,WMU00320,Fall 2024,2024,Enrolled,12,Out-of-State,Online,2024-12-25
+ENR001102,WMU00320,Fall 2023,2023,Enrolled,3,Out-of-State,Regional Campus,2023-09-21
+ENR001103,WMU00320,Fall 2025,2025,Withdrawn,12,In-State,Main Campus,2025-03-28
+ENR001104,WMU00320,Spring 2025,2025,Completed,9,In-State,Regional Campus,2025-03-12
+ENR001105,WMU00320,Spring 2024,2024,Enrolled,12,In-State,Main Campus,2024-08-07
+ENR001106,WMU00321,Fall 2023,2023,Withdrawn,12,In-State,Online,2023-06-10
+ENR001107,WMU00321,Fall 2024,2024,Enrolled,12,Out-of-State,Regional Campus,2024-05-19
+ENR001108,WMU00321,Spring 2025,2025,Completed,9,In-State,Main Campus,2025-03-17
+ENR001109,WMU00321,Fall 2025,2025,Enrolled,9,In-State,Online,2025-10-12
+ENR001110,WMU00322,Fall 2024,2024,Withdrawn,12,International,Online,2024-03-24
+ENR001111,WMU00322,Spring 2024,2024,Enrolled,6,International,Online,2024-07-09
+ENR001112,WMU00322,Fall 2025,2025,Enrolled,6,In-State,Regional Campus,2025-05-05
+ENR001113,WMU00322,Spring 2025,2025,Enrolled,15,Out-of-State,Online,2025-12-17
+ENR001114,WMU00323,Spring 2025,2025,Enrolled,15,Out-of-State,Online,2025-11-06
+ENR001115,WMU00323,Spring 2024,2024,Withdrawn,15,In-State,Online,2024-07-01
+ENR001116,WMU00323,Fall 2025,2025,Enrolled,3,In-State,Online,2025-04-08
+ENR001117,WMU00323,Fall 2023,2023,Enrolled,6,International,Regional Campus,2023-02-21
+ENR001118,WMU00323,Fall 2024,2024,Enrolled,6,Out-of-State,Online,2024-10-21
+ENR001119,WMU00324,Fall 2025,2025,Enrolled,6,International,Main Campus,2025-07-21
+ENR001120,WMU00324,Spring 2024,2024,Enrolled,3,International,Main Campus,2024-05-18
+ENR001121,WMU00325,Fall 2023,2023,Completed,15,In-State,Main Campus,2023-05-26
+ENR001122,WMU00325,Spring 2025,2025,Enrolled,6,In-State,Regional Campus,2025-12-15
+ENR001123,WMU00326,Fall 2023,2023,Enrolled,9,International,Main Campus,2023-12-27
+ENR001124,WMU00326,Fall 2024,2024,Enrolled,3,International,Online,2024-01-07
+ENR001125,WMU00326,Spring 2025,2025,Enrolled,6,International,Regional Campus,2025-08-15
+ENR001126,WMU00327,Fall 2025,2025,Enrolled,9,In-State,Online,2025-02-15
+ENR001127,WMU00327,Fall 2023,2023,Withdrawn,3,In-State,Main Campus,2023-09-19
+ENR001128,WMU00328,Fall 2025,2025,Enrolled,15,International,Online,2025-02-24
+ENR001129,WMU00328,Spring 2025,2025,Enrolled,12,International,Regional Campus,2025-10-25
+ENR001130,WMU00328,Spring 2024,2024,Enrolled,12,Out-of-State,Online,2024-10-09
+ENR001131,WMU00329,Spring 2024,2024,Enrolled,9,International,Main Campus,2024-06-09
+ENR001132,WMU00329,Fall 2024,2024,Completed,15,Out-of-State,Regional Campus,2024-08-04
+ENR001133,WMU00329,Spring 2025,2025,Withdrawn,6,In-State,Online,2025-09-16
+ENR001134,WMU00329,Fall 2025,2025,Enrolled,12,In-State,Main Campus,2025-07-22
+ENR001135,WMU00329,Fall 2023,2023,Enrolled,9,Out-of-State,Online,2023-11-22
+ENR001136,WMU00330,Spring 2024,2024,Enrolled,6,International,Online,2024-06-25
+ENR001137,WMU00330,Fall 2023,2023,Withdrawn,15,In-State,Regional Campus,2023-05-20
+ENR001138,WMU00330,Spring 2025,2025,Completed,6,International,Main Campus,2025-06-06
+ENR001139,WMU00331,Spring 2025,2025,Enrolled,15,Out-of-State,Regional Campus,2025-08-21
+ENR001140,WMU00331,Spring 2024,2024,Withdrawn,15,International,Online,2024-04-09
+ENR001141,WMU00331,Fall 2023,2023,Enrolled,12,Out-of-State,Main Campus,2023-05-11
+ENR001142,WMU00332,Fall 2024,2024,Withdrawn,15,Out-of-State,Main Campus,2024-07-02
+ENR001143,WMU00332,Spring 2025,2025,Enrolled,12,International,Main Campus,2025-08-25
+ENR001144,WMU00332,Spring 2024,2024,Enrolled,9,International,Main Campus,2024-04-22
+ENR001145,WMU00332,Fall 2025,2025,Enrolled,9,Out-of-State,Main Campus,2025-06-14
+ENR001146,WMU00333,Fall 2024,2024,Enrolled,3,In-State,Main Campus,2024-06-24
+ENR001147,WMU00333,Spring 2024,2024,Completed,12,Out-of-State,Main Campus,2024-11-13
+ENR001148,WMU00333,Fall 2023,2023,Enrolled,12,Out-of-State,Regional Campus,2023-10-13
+ENR001149,WMU00333,Spring 2025,2025,Enrolled,3,In-State,Regional Campus,2025-06-09
+ENR001150,WMU00333,Fall 2025,2025,Enrolled,15,Out-of-State,Online,2025-02-16
+ENR001151,WMU00334,Fall 2023,2023,Enrolled,12,In-State,Regional Campus,2023-05-19
+ENR001152,WMU00334,Fall 2024,2024,Completed,6,In-State,Online,2024-04-11
+ENR001153,WMU00334,Spring 2025,2025,Completed,15,International,Online,2025-09-17
+ENR001154,WMU00335,Fall 2023,2023,Withdrawn,9,International,Main Campus,2023-03-11
+ENR001155,WMU00335,Spring 2024,2024,Enrolled,12,Out-of-State,Online,2024-06-07
+ENR001156,WMU00335,Fall 2025,2025,Enrolled,9,International,Regional Campus,2025-01-05
+ENR001157,WMU00335,Spring 2025,2025,Withdrawn,3,Out-of-State,Online,2025-08-26
+ENR001158,WMU00336,Fall 2025,2025,Enrolled,15,In-State,Regional Campus,2025-07-02
+ENR001159,WMU00336,Fall 2023,2023,Enrolled,15,International,Online,2023-05-19
+ENR001160,WMU00337,Fall 2023,2023,Enrolled,15,International,Main Campus,2023-09-28
+ENR001161,WMU00337,Fall 2025,2025,Completed,3,Out-of-State,Regional Campus,2025-11-07
+ENR001162,WMU00337,Fall 2024,2024,Withdrawn,3,Out-of-State,Online,2024-08-24
+ENR001163,WMU00337,Spring 2025,2025,Enrolled,6,In-State,Main Campus,2025-11-19
+ENR001164,WMU00338,Spring 2025,2025,Enrolled,15,In-State,Regional Campus,2025-07-01
+ENR001165,WMU00338,Fall 2025,2025,Enrolled,3,Out-of-State,Online,2025-03-09
+ENR001166,WMU00338,Fall 2023,2023,Completed,6,International,Online,2023-09-15
+ENR001167,WMU00338,Spring 2024,2024,Completed,6,Out-of-State,Regional Campus,2024-10-05
+ENR001168,WMU00339,Spring 2024,2024,Enrolled,6,In-State,Regional Campus,2024-10-28
+ENR001169,WMU00339,Fall 2025,2025,Enrolled,3,International,Online,2025-02-11
+ENR001170,WMU00339,Spring 2025,2025,Enrolled,9,International,Main Campus,2025-04-10
+ENR001171,WMU00340,Spring 2025,2025,Enrolled,6,In-State,Main Campus,2025-08-04
+ENR001172,WMU00340,Fall 2024,2024,Enrolled,12,Out-of-State,Regional Campus,2024-12-07
+ENR001173,WMU00340,Fall 2023,2023,Enrolled,12,Out-of-State,Online,2023-07-07
+ENR001174,WMU00341,Spring 2025,2025,Completed,6,International,Regional Campus,2025-09-04
+ENR001175,WMU00341,Fall 2023,2023,Enrolled,6,In-State,Online,2023-12-20
+ENR001176,WMU00341,Fall 2025,2025,Enrolled,9,Out-of-State,Main Campus,2025-04-03
+ENR001177,WMU00342,Spring 2025,2025,Enrolled,12,In-State,Online,2025-07-13
+ENR001178,WMU00342,Fall 2024,2024,Enrolled,3,Out-of-State,Online,2024-02-14
+ENR001179,WMU00342,Fall 2025,2025,Enrolled,9,International,Main Campus,2025-11-21
+ENR001180,WMU00342,Fall 2023,2023,Withdrawn,12,In-State,Online,2023-12-21
+ENR001181,WMU00343,Fall 2023,2023,Enrolled,15,In-State,Regional Campus,2023-03-05
+ENR001182,WMU00343,Spring 2024,2024,Enrolled,12,In-State,Regional Campus,2024-04-28
+ENR001183,WMU00343,Fall 2025,2025,Enrolled,9,International,Online,2025-03-14
+ENR001184,WMU00343,Fall 2024,2024,Enrolled,6,International,Main Campus,2024-12-26
+ENR001185,WMU00344,Fall 2024,2024,Withdrawn,3,In-State,Online,2024-07-21
+ENR001186,WMU00344,Fall 2023,2023,Enrolled,9,International,Online,2023-01-26
+ENR001187,WMU00344,Spring 2025,2025,Enrolled,3,In-State,Online,2025-01-24
+ENR001188,WMU00345,Spring 2025,2025,Completed,12,International,Regional Campus,2025-03-06
+ENR001189,WMU00345,Fall 2023,2023,Enrolled,3,Out-of-State,Main Campus,2023-02-14
+ENR001190,WMU00345,Fall 2024,2024,Enrolled,3,Out-of-State,Online,2024-07-28
+ENR001191,WMU00346,Spring 2024,2024,Enrolled,9,Out-of-State,Regional Campus,2024-09-12
+ENR001192,WMU00346,Fall 2023,2023,Enrolled,15,Out-of-State,Online,2023-12-27
+ENR001193,WMU00346,Fall 2025,2025,Enrolled,15,In-State,Main Campus,2025-09-05
+ENR001194,WMU00346,Fall 2024,2024,Enrolled,6,International,Main Campus,2024-12-04
+ENR001195,WMU00346,Spring 2025,2025,Enrolled,12,International,Main Campus,2025-04-08
+ENR001196,WMU00347,Spring 2024,2024,Completed,15,International,Regional Campus,2024-05-25
+ENR001197,WMU00347,Fall 2024,2024,Enrolled,6,Out-of-State,Online,2024-11-05
+ENR001198,WMU00347,Fall 2025,2025,Enrolled,15,International,Online,2025-11-02
+ENR001199,WMU00347,Spring 2025,2025,Enrolled,6,In-State,Main Campus,2025-11-02
+ENR001200,WMU00348,Spring 2024,2024,Completed,3,Out-of-State,Online,2024-06-07
+ENR001201,WMU00348,Spring 2025,2025,Withdrawn,15,Out-of-State,Main Campus,2025-08-20
+ENR001202,WMU00348,Fall 2025,2025,Completed,9,Out-of-State,Main Campus,2025-12-09
+ENR001203,WMU00349,Fall 2024,2024,Completed,12,Out-of-State,Regional Campus,2024-02-22
+ENR001204,WMU00349,Spring 2024,2024,Completed,9,Out-of-State,Main Campus,2024-06-14
+ENR001205,WMU00349,Spring 2025,2025,Completed,3,In-State,Main Campus,2025-04-15
+ENR001206,WMU00349,Fall 2025,2025,Enrolled,3,International,Regional Campus,2025-05-05
+ENR001207,WMU00350,Fall 2024,2024,Enrolled,15,Out-of-State,Regional Campus,2024-04-05
+ENR001208,WMU00350,Spring 2025,2025,Enrolled,6,In-State,Regional Campus,2025-12-12
+ENR001209,WMU00350,Spring 2024,2024,Completed,15,In-State,Regional Campus,2024-09-17
+ENR001210,WMU00350,Fall 2023,2023,Completed,3,Out-of-State,Regional Campus,2023-04-23
+ENR001211,WMU00351,Fall 2024,2024,Completed,6,In-State,Regional Campus,2024-03-18
+ENR001212,WMU00351,Spring 2024,2024,Withdrawn,15,In-State,Online,2024-01-13
+ENR001213,WMU00351,Fall 2023,2023,Withdrawn,9,International,Online,2023-08-15
+ENR001214,WMU00352,Spring 2024,2024,Completed,9,International,Online,2024-04-24
+ENR001215,WMU00352,Fall 2024,2024,Completed,15,In-State,Main Campus,2024-07-05
+ENR001216,WMU00352,Fall 2023,2023,Withdrawn,6,In-State,Main Campus,2023-07-26
+ENR001217,WMU00352,Spring 2025,2025,Withdrawn,6,Out-of-State,Regional Campus,2025-04-08
+ENR001218,WMU00353,Fall 2023,2023,Enrolled,12,International,Regional Campus,2023-10-22
+ENR001219,WMU00353,Spring 2024,2024,Enrolled,6,Out-of-State,Main Campus,2024-11-09
+ENR001220,WMU00353,Spring 2025,2025,Enrolled,9,International,Main Campus,2025-09-10
+ENR001221,WMU00353,Fall 2025,2025,Enrolled,15,International,Regional Campus,2025-08-08
+ENR001222,WMU00354,Fall 2024,2024,Enrolled,3,Out-of-State,Main Campus,2024-07-27
+ENR001223,WMU00354,Fall 2023,2023,Enrolled,9,International,Online,2023-07-19
+ENR001224,WMU00354,Fall 2025,2025,Withdrawn,6,Out-of-State,Main Campus,2025-09-04
+ENR001225,WMU00354,Spring 2024,2024,Completed,3,International,Online,2024-04-28
+ENR001226,WMU00354,Spring 2025,2025,Withdrawn,12,Out-of-State,Main Campus,2025-11-04
+ENR001227,WMU00355,Fall 2024,2024,Enrolled,12,Out-of-State,Main Campus,2024-01-04
+ENR001228,WMU00355,Fall 2025,2025,Enrolled,12,International,Online,2025-04-19
+ENR001229,WMU00355,Spring 2025,2025,Enrolled,12,In-State,Regional Campus,2025-08-18
+ENR001230,WMU00355,Spring 2024,2024,Completed,15,Out-of-State,Regional Campus,2024-09-28
+ENR001231,WMU00356,Fall 2023,2023,Enrolled,3,Out-of-State,Regional Campus,2023-11-23
+ENR001232,WMU00356,Fall 2025,2025,Withdrawn,15,Out-of-State,Regional Campus,2025-12-02
+ENR001233,WMU00356,Fall 2024,2024,Withdrawn,9,Out-of-State,Regional Campus,2024-09-02
+ENR001234,WMU00356,Spring 2025,2025,Withdrawn,12,International,Main Campus,2025-04-19
+ENR001235,WMU00356,Spring 2024,2024,Enrolled,6,International,Online,2024-02-10
+ENR001236,WMU00357,Fall 2023,2023,Enrolled,9,Out-of-State,Online,2023-01-11
+ENR001237,WMU00357,Spring 2025,2025,Enrolled,12,In-State,Main Campus,2025-09-25
+ENR001238,WMU00357,Spring 2024,2024,Enrolled,15,International,Online,2024-06-25
+ENR001239,WMU00357,Fall 2024,2024,Withdrawn,6,In-State,Online,2024-06-20
+ENR001240,WMU00357,Fall 2025,2025,Enrolled,15,Out-of-State,Online,2025-02-24
+ENR001241,WMU00358,Spring 2025,2025,Withdrawn,15,International,Main Campus,2025-07-07
+ENR001242,WMU00358,Fall 2024,2024,Withdrawn,9,Out-of-State,Online,2024-08-12
+ENR001243,WMU00359,Spring 2024,2024,Enrolled,3,International,Online,2024-09-23
+ENR001244,WMU00359,Fall 2024,2024,Enrolled,15,International,Regional Campus,2024-03-13
+ENR001245,WMU00359,Fall 2023,2023,Enrolled,15,In-State,Main Campus,2023-02-23
+ENR001246,WMU00360,Fall 2024,2024,Enrolled,12,Out-of-State,Main Campus,2024-12-27
+ENR001247,WMU00360,Spring 2024,2024,Completed,9,International,Main Campus,2024-06-08
+ENR001248,WMU00360,Fall 2025,2025,Enrolled,12,In-State,Regional Campus,2025-03-22
+ENR001249,WMU00360,Spring 2025,2025,Enrolled,9,Out-of-State,Main Campus,2025-12-08
+ENR001250,WMU00360,Fall 2023,2023,Enrolled,6,Out-of-State,Regional Campus,2023-04-05
+ENR001251,WMU00361,Fall 2024,2024,Completed,3,Out-of-State,Online,2024-07-18
+ENR001252,WMU00361,Spring 2024,2024,Completed,15,In-State,Online,2024-03-28
+ENR001253,WMU00362,Fall 2025,2025,Withdrawn,9,Out-of-State,Online,2025-04-11
+ENR001254,WMU00362,Spring 2025,2025,Enrolled,15,In-State,Regional Campus,2025-03-11
+ENR001255,WMU00362,Fall 2024,2024,Completed,6,International,Main Campus,2024-02-26
+ENR001256,WMU00362,Spring 2024,2024,Withdrawn,15,International,Online,2024-02-26
+ENR001257,WMU00362,Fall 2023,2023,Enrolled,15,International,Online,2023-12-23
+ENR001258,WMU00363,Spring 2025,2025,Withdrawn,3,International,Online,2025-08-19
+ENR001259,WMU00363,Fall 2024,2024,Enrolled,12,In-State,Main Campus,2024-09-15
+ENR001260,WMU00363,Fall 2025,2025,Enrolled,15,Out-of-State,Online,2025-12-05
+ENR001261,WMU00364,Fall 2024,2024,Completed,9,Out-of-State,Regional Campus,2024-01-23
+ENR001262,WMU00364,Fall 2023,2023,Withdrawn,15,Out-of-State,Regional Campus,2023-03-13
+ENR001263,WMU00365,Spring 2025,2025,Enrolled,9,In-State,Regional Campus,2025-09-14
+ENR001264,WMU00365,Fall 2024,2024,Completed,6,International,Regional Campus,2024-06-28
+ENR001265,WMU00365,Fall 2025,2025,Completed,3,In-State,Regional Campus,2025-06-19
+ENR001266,WMU00366,Fall 2023,2023,Withdrawn,15,International,Main Campus,2023-12-07
+ENR001267,WMU00366,Fall 2025,2025,Completed,6,In-State,Main Campus,2025-01-21
+ENR001268,WMU00367,Fall 2023,2023,Withdrawn,15,Out-of-State,Online,2023-12-16
+ENR001269,WMU00367,Fall 2024,2024,Enrolled,6,In-State,Main Campus,2024-05-12
+ENR001270,WMU00367,Fall 2025,2025,Withdrawn,6,Out-of-State,Online,2025-02-06
+ENR001271,WMU00367,Spring 2025,2025,Withdrawn,9,In-State,Main Campus,2025-06-21
+ENR001272,WMU00367,Spring 2024,2024,Enrolled,3,Out-of-State,Main Campus,2024-09-09
+ENR001273,WMU00368,Fall 2025,2025,Enrolled,15,International,Online,2025-02-06
+ENR001274,WMU00368,Fall 2023,2023,Completed,3,In-State,Main Campus,2023-06-13
+ENR001275,WMU00369,Fall 2023,2023,Completed,6,Out-of-State,Main Campus,2023-09-07
+ENR001276,WMU00369,Fall 2024,2024,Enrolled,9,International,Main Campus,2024-10-12
+ENR001277,WMU00369,Fall 2025,2025,Enrolled,15,Out-of-State,Regional Campus,2025-03-17
+ENR001278,WMU00369,Spring 2025,2025,Withdrawn,6,In-State,Regional Campus,2025-01-18
+ENR001279,WMU00370,Fall 2024,2024,Enrolled,3,International,Main Campus,2024-10-17
+ENR001280,WMU00370,Fall 2025,2025,Enrolled,6,Out-of-State,Main Campus,2025-10-05
+ENR001281,WMU00371,Spring 2025,2025,Enrolled,15,Out-of-State,Main Campus,2025-06-05
+ENR001282,WMU00371,Fall 2025,2025,Withdrawn,6,In-State,Online,2025-01-12
+ENR001283,WMU00371,Spring 2024,2024,Withdrawn,3,International,Regional Campus,2024-10-04
+ENR001284,WMU00371,Fall 2023,2023,Enrolled,15,International,Regional Campus,2023-06-17
+ENR001285,WMU00372,Fall 2025,2025,Enrolled,12,Out-of-State,Regional Campus,2025-07-13
+ENR001286,WMU00372,Spring 2024,2024,Withdrawn,12,In-State,Online,2024-01-16
+ENR001287,WMU00372,Spring 2025,2025,Enrolled,3,International,Online,2025-10-13
+ENR001288,WMU00372,Fall 2024,2024,Withdrawn,9,Out-of-State,Regional Campus,2024-12-02
+ENR001289,WMU00372,Fall 2023,2023,Enrolled,15,In-State,Main Campus,2023-05-19
+ENR001290,WMU00373,Fall 2024,2024,Enrolled,3,Out-of-State,Online,2024-04-12
+ENR001291,WMU00373,Fall 2023,2023,Enrolled,15,International,Online,2023-12-17
+ENR001292,WMU00373,Fall 2025,2025,Enrolled,15,International,Online,2025-11-23
+ENR001293,WMU00374,Spring 2024,2024,Enrolled,12,In-State,Regional Campus,2024-06-03
+ENR001294,WMU00374,Fall 2023,2023,Withdrawn,6,In-State,Regional Campus,2023-11-20
+ENR001295,WMU00375,Fall 2023,2023,Enrolled,6,Out-of-State,Main Campus,2023-04-22
+ENR001296,WMU00375,Spring 2025,2025,Enrolled,9,Out-of-State,Main Campus,2025-06-27
+ENR001297,WMU00376,Fall 2023,2023,Completed,12,International,Regional Campus,2023-05-07
+ENR001298,WMU00376,Spring 2024,2024,Withdrawn,9,International,Main Campus,2024-07-27
+ENR001299,WMU00376,Fall 2025,2025,Withdrawn,12,Out-of-State,Main Campus,2025-08-09
+ENR001300,WMU00376,Fall 2024,2024,Enrolled,15,International,Regional Campus,2024-07-02
+ENR001301,WMU00376,Spring 2025,2025,Enrolled,12,International,Regional Campus,2025-04-03
+ENR001302,WMU00377,Fall 2023,2023,Enrolled,12,In-State,Regional Campus,2023-06-06
+ENR001303,WMU00377,Spring 2024,2024,Withdrawn,9,Out-of-State,Regional Campus,2024-05-10
+ENR001304,WMU00378,Fall 2023,2023,Completed,3,Out-of-State,Main Campus,2023-03-17
+ENR001305,WMU00378,Fall 2025,2025,Withdrawn,3,Out-of-State,Main Campus,2025-02-08
+ENR001306,WMU00378,Spring 2024,2024,Withdrawn,3,In-State,Main Campus,2024-12-26
+ENR001307,WMU00378,Spring 2025,2025,Enrolled,3,Out-of-State,Regional Campus,2025-06-15
+ENR001308,WMU00379,Spring 2025,2025,Enrolled,15,In-State,Regional Campus,2025-06-02
+ENR001309,WMU00379,Fall 2023,2023,Enrolled,15,In-State,Online,2023-05-06
+ENR001310,WMU00379,Fall 2024,2024,Withdrawn,9,In-State,Regional Campus,2024-01-13
+ENR001311,WMU00380,Spring 2024,2024,Enrolled,6,Out-of-State,Regional Campus,2024-12-15
+ENR001312,WMU00380,Fall 2024,2024,Withdrawn,3,In-State,Main Campus,2024-10-17
+ENR001313,WMU00380,Spring 2025,2025,Completed,9,In-State,Main Campus,2025-09-11
+ENR001314,WMU00380,Fall 2023,2023,Enrolled,3,International,Main Campus,2023-07-17
+ENR001315,WMU00380,Fall 2025,2025,Enrolled,15,International,Regional Campus,2025-03-24
+ENR001316,WMU00381,Fall 2024,2024,Enrolled,6,Out-of-State,Main Campus,2024-10-02
+ENR001317,WMU00381,Fall 2023,2023,Completed,12,In-State,Main Campus,2023-11-02
+ENR001318,WMU00381,Spring 2025,2025,Completed,15,In-State,Main Campus,2025-11-27
+ENR001319,WMU00381,Fall 2025,2025,Completed,12,International,Online,2025-05-22
+ENR001320,WMU00382,Spring 2025,2025,Withdrawn,9,Out-of-State,Main Campus,2025-08-18
+ENR001321,WMU00382,Spring 2024,2024,Enrolled,9,In-State,Online,2024-11-24
+ENR001322,WMU00382,Fall 2024,2024,Withdrawn,6,Out-of-State,Main Campus,2024-06-24
+ENR001323,WMU00382,Fall 2025,2025,Withdrawn,3,Out-of-State,Main Campus,2025-01-15
+ENR001324,WMU00382,Fall 2023,2023,Completed,12,In-State,Online,2023-03-27
+ENR001325,WMU00383,Spring 2024,2024,Withdrawn,12,Out-of-State,Online,2024-08-12
+ENR001326,WMU00383,Spring 2025,2025,Enrolled,9,International,Online,2025-03-24
+ENR001327,WMU00383,Fall 2025,2025,Enrolled,15,In-State,Main Campus,2025-12-07
+ENR001328,WMU00383,Fall 2024,2024,Enrolled,15,International,Regional Campus,2024-10-12
+ENR001329,WMU00384,Fall 2025,2025,Enrolled,12,Out-of-State,Main Campus,2025-09-21
+ENR001330,WMU00384,Spring 2025,2025,Enrolled,12,International,Online,2025-01-07
+ENR001331,WMU00384,Spring 2024,2024,Enrolled,6,International,Main Campus,2024-11-13
+ENR001332,WMU00384,Fall 2024,2024,Withdrawn,15,In-State,Online,2024-01-23
+ENR001333,WMU00384,Fall 2023,2023,Withdrawn,6,International,Regional Campus,2023-03-09
+ENR001334,WMU00385,Spring 2025,2025,Enrolled,12,Out-of-State,Main Campus,2025-12-05
+ENR001335,WMU00385,Spring 2024,2024,Enrolled,12,International,Regional Campus,2024-09-24
+ENR001336,WMU00385,Fall 2023,2023,Enrolled,3,In-State,Main Campus,2023-01-01
+ENR001337,WMU00386,Fall 2024,2024,Enrolled,9,In-State,Regional Campus,2024-03-07
+ENR001338,WMU00386,Fall 2023,2023,Enrolled,9,Out-of-State,Regional Campus,2023-06-19
+ENR001339,WMU00387,Spring 2025,2025,Enrolled,9,International,Main Campus,2025-03-06
+ENR001340,WMU00387,Fall 2024,2024,Enrolled,12,International,Regional Campus,2024-07-06
+ENR001341,WMU00387,Fall 2025,2025,Completed,15,International,Online,2025-12-09
+ENR001342,WMU00387,Fall 2023,2023,Enrolled,6,International,Main Campus,2023-08-04
+ENR001343,WMU00387,Spring 2024,2024,Enrolled,3,Out-of-State,Online,2024-07-16
+ENR001344,WMU00388,Fall 2023,2023,Completed,15,In-State,Online,2023-01-16
+ENR001345,WMU00388,Fall 2024,2024,Enrolled,15,Out-of-State,Main Campus,2024-06-03
+ENR001346,WMU00388,Spring 2024,2024,Enrolled,6,International,Online,2024-11-13
+ENR001347,WMU00389,Fall 2023,2023,Enrolled,9,International,Main Campus,2023-06-20
+ENR001348,WMU00389,Spring 2024,2024,Enrolled,12,International,Regional Campus,2024-07-06
+ENR001349,WMU00389,Fall 2024,2024,Enrolled,9,In-State,Regional Campus,2024-05-17
+ENR001350,WMU00390,Spring 2025,2025,Enrolled,6,International,Main Campus,2025-12-10
+ENR001351,WMU00390,Fall 2024,2024,Withdrawn,9,Out-of-State,Online,2024-01-09
+ENR001352,WMU00391,Fall 2023,2023,Enrolled,15,International,Regional Campus,2023-01-10
+ENR001353,WMU00391,Fall 2024,2024,Enrolled,12,Out-of-State,Online,2024-07-02
+ENR001354,WMU00391,Spring 2025,2025,Withdrawn,9,Out-of-State,Online,2025-09-28
+ENR001355,WMU00391,Fall 2025,2025,Withdrawn,12,International,Online,2025-03-12
+ENR001356,WMU00391,Spring 2024,2024,Completed,9,In-State,Online,2024-05-09
+ENR001357,WMU00392,Spring 2025,2025,Completed,9,In-State,Main Campus,2025-03-26
+ENR001358,WMU00392,Fall 2023,2023,Enrolled,3,In-State,Main Campus,2023-06-03
+ENR001359,WMU00393,Fall 2025,2025,Enrolled,3,International,Main Campus,2025-12-26
+ENR001360,WMU00393,Spring 2024,2024,Completed,9,In-State,Main Campus,2024-10-21
+ENR001361,WMU00393,Fall 2023,2023,Enrolled,12,International,Main Campus,2023-10-04
+ENR001362,WMU00394,Spring 2024,2024,Enrolled,3,In-State,Regional Campus,2024-02-01
+ENR001363,WMU00394,Fall 2025,2025,Enrolled,12,In-State,Main Campus,2025-12-03
+ENR001364,WMU00395,Fall 2024,2024,Enrolled,15,Out-of-State,Online,2024-12-22
+ENR001365,WMU00395,Spring 2024,2024,Enrolled,15,Out-of-State,Main Campus,2024-09-01
+ENR001366,WMU00395,Spring 2025,2025,Enrolled,3,In-State,Online,2025-03-18
+ENR001367,WMU00395,Fall 2023,2023,Enrolled,15,International,Main Campus,2023-12-25
+ENR001368,WMU00395,Fall 2025,2025,Enrolled,3,In-State,Online,2025-04-06
+ENR001369,WMU00396,Fall 2025,2025,Withdrawn,6,Out-of-State,Online,2025-12-08
+ENR001370,WMU00396,Fall 2024,2024,Enrolled,15,International,Regional Campus,2024-05-10
+ENR001371,WMU00396,Spring 2025,2025,Enrolled,6,In-State,Main Campus,2025-08-12
+ENR001372,WMU00396,Spring 2024,2024,Completed,3,Out-of-State,Main Campus,2024-11-25
+ENR001373,WMU00396,Fall 2023,2023,Enrolled,12,International,Regional Campus,2023-02-11
+ENR001374,WMU00397,Fall 2025,2025,Withdrawn,9,Out-of-State,Regional Campus,2025-08-12
+ENR001375,WMU00397,Fall 2023,2023,Enrolled,12,Out-of-State,Online,2023-09-24
+ENR001376,WMU00397,Fall 2024,2024,Enrolled,6,International,Main Campus,2024-01-23
+ENR001377,WMU00397,Spring 2024,2024,Withdrawn,9,Out-of-State,Online,2024-06-26
+ENR001378,WMU00398,Spring 2025,2025,Withdrawn,12,In-State,Main Campus,2025-06-13
+ENR001379,WMU00398,Fall 2025,2025,Withdrawn,6,Out-of-State,Main Campus,2025-07-26
+ENR001380,WMU00398,Spring 2024,2024,Enrolled,6,International,Main Campus,2024-04-04
+ENR001381,WMU00398,Fall 2023,2023,Withdrawn,3,Out-of-State,Main Campus,2023-05-11
+ENR001382,WMU00398,Fall 2024,2024,Enrolled,6,Out-of-State,Online,2024-03-10
+ENR001383,WMU00399,Spring 2024,2024,Withdrawn,12,In-State,Online,2024-11-02
+ENR001384,WMU00399,Fall 2025,2025,Enrolled,9,In-State,Online,2025-12-16
+ENR001385,WMU00399,Spring 2025,2025,Enrolled,15,In-State,Main Campus,2025-09-16
+ENR001386,WMU00399,Fall 2024,2024,Withdrawn,6,Out-of-State,Main Campus,2024-05-21
+ENR001387,WMU00400,Fall 2024,2024,Withdrawn,15,International,Main Campus,2024-10-05
+ENR001388,WMU00400,Fall 2025,2025,Enrolled,15,Out-of-State,Regional Campus,2025-06-26
+ENR001389,WMU00400,Spring 2025,2025,Enrolled,6,International,Online,2025-02-01
+ENR001390,WMU00401,Fall 2024,2024,Enrolled,6,International,Online,2024-05-18
+ENR001391,WMU00401,Spring 2025,2025,Completed,9,Out-of-State,Regional Campus,2025-04-05
+ENR001392,WMU00401,Fall 2023,2023,Completed,9,In-State,Regional Campus,2023-10-20
+ENR001393,WMU00401,Fall 2025,2025,Enrolled,6,Out-of-State,Regional Campus,2025-08-01
+ENR001394,WMU00401,Spring 2024,2024,Completed,9,In-State,Online,2024-03-20
+ENR001395,WMU00402,Fall 2023,2023,Withdrawn,3,Out-of-State,Main Campus,2023-05-23
+ENR001396,WMU00402,Spring 2025,2025,Enrolled,6,In-State,Online,2025-04-08
+ENR001397,WMU00402,Spring 2024,2024,Enrolled,3,Out-of-State,Regional Campus,2024-08-18
+ENR001398,WMU00402,Fall 2024,2024,Enrolled,6,Out-of-State,Online,2024-06-20
+ENR001399,WMU00403,Spring 2024,2024,Enrolled,3,International,Regional Campus,2024-05-08
+ENR001400,WMU00403,Fall 2023,2023,Withdrawn,12,International,Main Campus,2023-05-09
+ENR001401,WMU00403,Fall 2025,2025,Enrolled,6,Out-of-State,Main Campus,2025-01-21
+ENR001402,WMU00404,Fall 2023,2023,Completed,12,In-State,Regional Campus,2023-08-25
+ENR001403,WMU00404,Fall 2024,2024,Enrolled,9,Out-of-State,Online,2024-05-07
+ENR001404,WMU00404,Spring 2024,2024,Withdrawn,15,Out-of-State,Main Campus,2024-10-05
+ENR001405,WMU00404,Fall 2025,2025,Enrolled,9,In-State,Main Campus,2025-06-18
+ENR001406,WMU00404,Spring 2025,2025,Enrolled,12,In-State,Online,2025-12-13
+ENR001407,WMU00405,Spring 2025,2025,Enrolled,12,Out-of-State,Regional Campus,2025-01-21
+ENR001408,WMU00405,Fall 2024,2024,Enrolled,9,International,Regional Campus,2024-01-17
+ENR001409,WMU00406,Spring 2024,2024,Enrolled,3,In-State,Main Campus,2024-02-17
+ENR001410,WMU00406,Spring 2025,2025,Enrolled,6,In-State,Online,2025-06-11
+ENR001411,WMU00407,Spring 2025,2025,Withdrawn,3,Out-of-State,Regional Campus,2025-01-17
+ENR001412,WMU00407,Fall 2024,2024,Withdrawn,12,International,Main Campus,2024-09-27
+ENR001413,WMU00408,Spring 2024,2024,Enrolled,6,Out-of-State,Main Campus,2024-04-02
+ENR001414,WMU00408,Spring 2025,2025,Enrolled,15,In-State,Regional Campus,2025-12-08
+ENR001415,WMU00409,Fall 2023,2023,Completed,6,Out-of-State,Online,2023-07-25
+ENR001416,WMU00409,Fall 2025,2025,Enrolled,12,International,Online,2025-08-01
+ENR001417,WMU00409,Spring 2025,2025,Completed,12,In-State,Main Campus,2025-04-19
+ENR001418,WMU00409,Fall 2024,2024,Enrolled,3,In-State,Regional Campus,2024-08-01
+ENR001419,WMU00409,Spring 2024,2024,Enrolled,9,International,Online,2024-09-27
+ENR001420,WMU00410,Spring 2025,2025,Enrolled,15,International,Regional Campus,2025-10-10
+ENR001421,WMU00410,Spring 2024,2024,Completed,9,Out-of-State,Regional Campus,2024-07-06
+ENR001422,WMU00410,Fall 2023,2023,Completed,6,Out-of-State,Online,2023-04-11
+ENR001423,WMU00411,Spring 2025,2025,Enrolled,12,Out-of-State,Regional Campus,2025-11-22
+ENR001424,WMU00411,Fall 2023,2023,Withdrawn,15,In-State,Main Campus,2023-02-02
+ENR001425,WMU00411,Fall 2024,2024,Enrolled,12,International,Main Campus,2024-04-25
+ENR001426,WMU00411,Spring 2024,2024,Enrolled,15,International,Regional Campus,2024-04-19
+ENR001427,WMU00412,Fall 2024,2024,Enrolled,15,In-State,Regional Campus,2024-01-10
+ENR001428,WMU00412,Spring 2025,2025,Enrolled,3,In-State,Online,2025-04-16
+ENR001429,WMU00412,Fall 2023,2023,Enrolled,12,Out-of-State,Online,2023-10-25
+ENR001430,WMU00412,Fall 2025,2025,Withdrawn,6,Out-of-State,Regional Campus,2025-10-10
+ENR001431,WMU00413,Fall 2023,2023,Completed,3,In-State,Main Campus,2023-05-01
+ENR001432,WMU00413,Fall 2025,2025,Withdrawn,9,Out-of-State,Regional Campus,2025-10-06
+ENR001433,WMU00413,Spring 2025,2025,Enrolled,3,Out-of-State,Main Campus,2025-11-07
+ENR001434,WMU00414,Fall 2024,2024,Enrolled,9,In-State,Online,2024-03-09
+ENR001435,WMU00414,Fall 2023,2023,Enrolled,12,In-State,Regional Campus,2023-12-22
+ENR001436,WMU00414,Spring 2024,2024,Withdrawn,3,In-State,Main Campus,2024-02-03
+ENR001437,WMU00414,Fall 2025,2025,Withdrawn,6,International,Regional Campus,2025-09-09
+ENR001438,WMU00414,Spring 2025,2025,Enrolled,9,International,Regional Campus,2025-08-03
+ENR001439,WMU00415,Spring 2024,2024,Enrolled,12,In-State,Online,2024-07-27
+ENR001440,WMU00415,Fall 2023,2023,Withdrawn,12,In-State,Main Campus,2023-10-02
+ENR001441,WMU00415,Fall 2025,2025,Enrolled,3,International,Online,2025-12-16
+ENR001442,WMU00416,Fall 2024,2024,Enrolled,9,In-State,Regional Campus,2024-08-26
+ENR001443,WMU00416,Fall 2023,2023,Enrolled,3,International,Online,2023-09-23
+ENR001444,WMU00416,Fall 2025,2025,Enrolled,12,International,Regional Campus,2025-01-10
+ENR001445,WMU00417,Fall 2023,2023,Enrolled,15,Out-of-State,Regional Campus,2023-06-24
+ENR001446,WMU00417,Fall 2024,2024,Completed,15,In-State,Online,2024-12-21
+ENR001447,WMU00417,Spring 2024,2024,Withdrawn,9,In-State,Regional Campus,2024-07-12
+ENR001448,WMU00417,Spring 2025,2025,Enrolled,12,Out-of-State,Main Campus,2025-11-25
+ENR001449,WMU00418,Fall 2025,2025,Enrolled,15,In-State,Online,2025-06-21
+ENR001450,WMU00418,Spring 2025,2025,Withdrawn,12,International,Regional Campus,2025-03-02
+ENR001451,WMU00418,Spring 2024,2024,Completed,9,International,Main Campus,2024-10-11
+ENR001452,WMU00418,Fall 2024,2024,Enrolled,15,International,Main Campus,2024-04-27
+ENR001453,WMU00418,Fall 2023,2023,Enrolled,12,Out-of-State,Main Campus,2023-09-18
+ENR001454,WMU00419,Fall 2025,2025,Enrolled,15,Out-of-State,Regional Campus,2025-11-06
+ENR001455,WMU00419,Fall 2023,2023,Enrolled,6,Out-of-State,Main Campus,2023-06-24
+ENR001456,WMU00420,Fall 2025,2025,Completed,6,Out-of-State,Regional Campus,2025-07-23
+ENR001457,WMU00420,Spring 2025,2025,Enrolled,3,International,Regional Campus,2025-08-05
+ENR001458,WMU00420,Fall 2024,2024,Enrolled,6,International,Main Campus,2024-08-05
+ENR001459,WMU00420,Spring 2024,2024,Enrolled,3,In-State,Online,2024-05-27
+ENR001460,WMU00421,Fall 2025,2025,Enrolled,3,In-State,Online,2025-02-07
+ENR001461,WMU00421,Fall 2023,2023,Enrolled,6,In-State,Online,2023-08-04
+ENR001462,WMU00421,Spring 2025,2025,Enrolled,12,International,Online,2025-01-23
+ENR001463,WMU00422,Fall 2024,2024,Withdrawn,9,International,Regional Campus,2024-08-21
+ENR001464,WMU00422,Spring 2025,2025,Completed,15,In-State,Regional Campus,2025-08-02
+ENR001465,WMU00422,Spring 2024,2024,Enrolled,12,Out-of-State,Main Campus,2024-05-23
+ENR001466,WMU00422,Fall 2023,2023,Withdrawn,12,International,Main Campus,2023-07-23
+ENR001467,WMU00423,Spring 2025,2025,Enrolled,12,Out-of-State,Online,2025-09-03
+ENR001468,WMU00423,Fall 2023,2023,Enrolled,3,International,Regional Campus,2023-11-04
+ENR001469,WMU00423,Spring 2024,2024,Withdrawn,12,International,Online,2024-04-20
+ENR001470,WMU00423,Fall 2025,2025,Enrolled,12,Out-of-State,Online,2025-09-25
+ENR001471,WMU00424,Spring 2024,2024,Enrolled,15,International,Online,2024-02-17
+ENR001472,WMU00424,Spring 2025,2025,Withdrawn,6,Out-of-State,Regional Campus,2025-10-13
+ENR001473,WMU00424,Fall 2023,2023,Enrolled,15,Out-of-State,Regional Campus,2023-02-23
+ENR001474,WMU00424,Fall 2024,2024,Withdrawn,15,In-State,Online,2024-05-28
+ENR001475,WMU00424,Fall 2025,2025,Enrolled,6,Out-of-State,Regional Campus,2025-06-14
+ENR001476,WMU00425,Spring 2024,2024,Withdrawn,6,Out-of-State,Main Campus,2024-01-13
+ENR001477,WMU00425,Fall 2023,2023,Withdrawn,6,In-State,Online,2023-03-08
+ENR001478,WMU00426,Fall 2025,2025,Enrolled,3,In-State,Main Campus,2025-03-24
+ENR001479,WMU00426,Spring 2025,2025,Completed,15,In-State,Online,2025-08-12
+ENR001480,WMU00426,Fall 2023,2023,Enrolled,12,International,Regional Campus,2023-12-12
+ENR001481,WMU00426,Spring 2024,2024,Enrolled,15,Out-of-State,Online,2024-01-09
+ENR001482,WMU00427,Fall 2025,2025,Enrolled,9,Out-of-State,Online,2025-09-08
+ENR001483,WMU00427,Spring 2025,2025,Enrolled,6,In-State,Main Campus,2025-02-19
+ENR001484,WMU00427,Fall 2023,2023,Enrolled,6,Out-of-State,Regional Campus,2023-09-12
+ENR001485,WMU00427,Fall 2024,2024,Enrolled,15,Out-of-State,Main Campus,2024-11-06
+ENR001486,WMU00427,Spring 2024,2024,Withdrawn,15,In-State,Regional Campus,2024-01-08
+ENR001487,WMU00428,Spring 2024,2024,Enrolled,12,Out-of-State,Main Campus,2024-09-26
+ENR001488,WMU00428,Fall 2024,2024,Enrolled,3,International,Regional Campus,2024-05-19
+ENR001489,WMU00428,Fall 2023,2023,Enrolled,15,Out-of-State,Main Campus,2023-06-08
+ENR001490,WMU00429,Spring 2024,2024,Enrolled,12,In-State,Main Campus,2024-07-18
+ENR001491,WMU00429,Fall 2025,2025,Enrolled,15,In-State,Regional Campus,2025-03-28
+ENR001492,WMU00429,Fall 2024,2024,Enrolled,15,In-State,Online,2024-09-03
+ENR001493,WMU00429,Spring 2025,2025,Enrolled,15,In-State,Regional Campus,2025-07-27
+ENR001494,WMU00429,Fall 2023,2023,Enrolled,9,Out-of-State,Online,2023-01-25
+ENR001495,WMU00430,Fall 2023,2023,Withdrawn,9,Out-of-State,Regional Campus,2023-04-24
+ENR001496,WMU00430,Fall 2024,2024,Withdrawn,6,International,Regional Campus,2024-07-21
+ENR001497,WMU00430,Spring 2024,2024,Enrolled,6,International,Regional Campus,2024-05-16
+ENR001498,WMU00430,Fall 2025,2025,Withdrawn,3,International,Main Campus,2025-07-03
+ENR001499,WMU00430,Spring 2025,2025,Enrolled,15,International,Main Campus,2025-11-02
+ENR001500,WMU00431,Fall 2024,2024,Enrolled,9,International,Regional Campus,2024-06-10
+ENR001501,WMU00431,Spring 2025,2025,Completed,12,Out-of-State,Online,2025-12-19
+ENR001502,WMU00431,Spring 2024,2024,Completed,15,International,Regional Campus,2024-10-05
+ENR001503,WMU00431,Fall 2025,2025,Enrolled,12,In-State,Regional Campus,2025-08-11
+ENR001504,WMU00432,Fall 2024,2024,Enrolled,9,International,Regional Campus,2024-04-11
+ENR001505,WMU00432,Fall 2025,2025,Enrolled,9,International,Main Campus,2025-06-10
+ENR001506,WMU00433,Fall 2024,2024,Completed,9,Out-of-State,Regional Campus,2024-11-07
+ENR001507,WMU00433,Spring 2025,2025,Enrolled,15,International,Online,2025-04-22
+ENR001508,WMU00433,Spring 2024,2024,Completed,9,International,Online,2024-04-26
+ENR001509,WMU00434,Fall 2025,2025,Completed,6,International,Online,2025-03-21
+ENR001510,WMU00434,Spring 2024,2024,Enrolled,12,In-State,Online,2024-08-23
+ENR001511,WMU00434,Fall 2023,2023,Completed,9,Out-of-State,Regional Campus,2023-06-05
+ENR001512,WMU00434,Spring 2025,2025,Completed,9,In-State,Online,2025-02-13
+ENR001513,WMU00434,Fall 2024,2024,Withdrawn,15,In-State,Main Campus,2024-04-26
+ENR001514,WMU00435,Spring 2025,2025,Completed,15,Out-of-State,Main Campus,2025-05-02
+ENR001515,WMU00435,Fall 2025,2025,Withdrawn,12,International,Main Campus,2025-08-14
+ENR001516,WMU00435,Fall 2024,2024,Enrolled,12,In-State,Main Campus,2024-03-04
+ENR001517,WMU00435,Spring 2024,2024,Enrolled,9,In-State,Main Campus,2024-05-04
+ENR001518,WMU00436,Spring 2024,2024,Enrolled,6,International,Regional Campus,2024-01-01
+ENR001519,WMU00436,Fall 2023,2023,Enrolled,3,International,Regional Campus,2023-05-10
+ENR001520,WMU00436,Fall 2024,2024,Enrolled,12,In-State,Main Campus,2024-10-20
+ENR001521,WMU00436,Fall 2025,2025,Enrolled,15,International,Online,2025-04-05
+ENR001522,WMU00437,Fall 2025,2025,Enrolled,6,Out-of-State,Main Campus,2025-09-20
+ENR001523,WMU00437,Fall 2024,2024,Enrolled,3,In-State,Regional Campus,2024-12-20
+ENR001524,WMU00438,Spring 2025,2025,Enrolled,12,In-State,Online,2025-10-06
+ENR001525,WMU00438,Fall 2023,2023,Enrolled,6,Out-of-State,Main Campus,2023-01-08
+ENR001526,WMU00438,Fall 2025,2025,Withdrawn,9,International,Regional Campus,2025-07-15
+ENR001527,WMU00438,Fall 2024,2024,Enrolled,6,In-State,Main Campus,2024-07-23
+ENR001528,WMU00439,Spring 2025,2025,Completed,3,Out-of-State,Main Campus,2025-11-16
+ENR001529,WMU00439,Spring 2024,2024,Completed,12,Out-of-State,Online,2024-01-16
+ENR001530,WMU00439,Fall 2024,2024,Completed,15,Out-of-State,Online,2024-10-07
+ENR001531,WMU00439,Fall 2025,2025,Enrolled,9,International,Main Campus,2025-10-27
+ENR001532,WMU00439,Fall 2023,2023,Enrolled,12,Out-of-State,Main Campus,2023-04-11
+ENR001533,WMU00440,Spring 2025,2025,Withdrawn,6,International,Online,2025-01-22
+ENR001534,WMU00440,Fall 2024,2024,Enrolled,15,International,Regional Campus,2024-02-15
+ENR001535,WMU00440,Fall 2023,2023,Withdrawn,3,International,Online,2023-06-13
+ENR001536,WMU00440,Spring 2024,2024,Withdrawn,3,Out-of-State,Regional Campus,2024-08-14
+ENR001537,WMU00441,Spring 2025,2025,Enrolled,9,Out-of-State,Online,2025-05-16
+ENR001538,WMU00441,Fall 2024,2024,Enrolled,6,In-State,Regional Campus,2024-11-17
+ENR001539,WMU00442,Fall 2023,2023,Enrolled,3,In-State,Regional Campus,2023-03-03
+ENR001540,WMU00442,Spring 2025,2025,Completed,15,In-State,Online,2025-02-17
+ENR001541,WMU00442,Spring 2024,2024,Withdrawn,9,In-State,Online,2024-03-28
+ENR001542,WMU00443,Fall 2024,2024,Completed,6,In-State,Main Campus,2024-02-20
+ENR001543,WMU00443,Spring 2024,2024,Completed,3,International,Regional Campus,2024-03-10
+ENR001544,WMU00443,Fall 2023,2023,Withdrawn,15,Out-of-State,Main Campus,2023-04-01
+ENR001545,WMU00443,Spring 2025,2025,Completed,6,International,Main Campus,2025-02-25
+ENR001546,WMU00443,Fall 2025,2025,Enrolled,3,In-State,Regional Campus,2025-02-25
+ENR001547,WMU00444,Fall 2025,2025,Enrolled,15,In-State,Main Campus,2025-06-28
+ENR001548,WMU00444,Fall 2024,2024,Enrolled,6,International,Main Campus,2024-09-17
+ENR001549,WMU00444,Spring 2025,2025,Withdrawn,3,In-State,Main Campus,2025-01-16
+ENR001550,WMU00444,Fall 2023,2023,Enrolled,6,In-State,Regional Campus,2023-06-19
+ENR001551,WMU00444,Spring 2024,2024,Withdrawn,9,In-State,Online,2024-03-23
+ENR001552,WMU00445,Spring 2024,2024,Enrolled,15,In-State,Online,2024-03-01
+ENR001553,WMU00445,Fall 2025,2025,Withdrawn,9,International,Online,2025-11-25
+ENR001554,WMU00446,Fall 2025,2025,Completed,15,International,Regional Campus,2025-07-25
+ENR001555,WMU00446,Spring 2025,2025,Completed,9,Out-of-State,Main Campus,2025-09-28
+ENR001556,WMU00446,Fall 2024,2024,Enrolled,12,In-State,Main Campus,2024-02-20
+ENR001557,WMU00446,Spring 2024,2024,Enrolled,9,In-State,Regional Campus,2024-07-13
+ENR001558,WMU00446,Fall 2023,2023,Enrolled,12,Out-of-State,Main Campus,2023-06-16
+ENR001559,WMU00447,Fall 2023,2023,Withdrawn,6,International,Regional Campus,2023-03-21
+ENR001560,WMU00447,Spring 2024,2024,Withdrawn,9,In-State,Main Campus,2024-01-08
+ENR001561,WMU00447,Spring 2025,2025,Enrolled,12,Out-of-State,Online,2025-08-23
+ENR001562,WMU00448,Fall 2024,2024,Enrolled,3,In-State,Regional Campus,2024-02-10
+ENR001563,WMU00448,Spring 2024,2024,Enrolled,9,Out-of-State,Online,2024-07-21
+ENR001564,WMU00448,Spring 2025,2025,Enrolled,12,International,Online,2025-06-27
+ENR001565,WMU00448,Fall 2023,2023,Completed,15,Out-of-State,Main Campus,2023-08-03
+ENR001566,WMU00448,Fall 2025,2025,Enrolled,9,In-State,Online,2025-09-06
+ENR001567,WMU00449,Fall 2023,2023,Enrolled,15,In-State,Main Campus,2023-09-07
+ENR001568,WMU00449,Spring 2024,2024,Enrolled,15,In-State,Online,2024-07-11
+ENR001569,WMU00450,Fall 2024,2024,Completed,15,In-State,Online,2024-08-14
+ENR001570,WMU00450,Fall 2025,2025,Enrolled,15,International,Regional Campus,2025-12-24
+ENR001571,WMU00450,Spring 2024,2024,Completed,15,In-State,Main Campus,2024-07-11
+ENR001572,WMU00450,Spring 2025,2025,Enrolled,12,In-State,Main Campus,2025-04-03
+ENR001573,WMU00450,Fall 2023,2023,Withdrawn,15,Out-of-State,Online,2023-04-02
+ENR001574,WMU00451,Fall 2024,2024,Enrolled,6,Out-of-State,Regional Campus,2024-04-14
+ENR001575,WMU00451,Fall 2023,2023,Withdrawn,6,International,Regional Campus,2023-05-07
+ENR001576,WMU00452,Fall 2023,2023,Enrolled,3,International,Online,2023-02-08
+ENR001577,WMU00452,Spring 2024,2024,Enrolled,12,International,Online,2024-02-03
+ENR001578,WMU00453,Fall 2024,2024,Completed,9,In-State,Regional Campus,2024-11-27
+ENR001579,WMU00453,Fall 2025,2025,Completed,15,International,Online,2025-10-25
+ENR001580,WMU00453,Spring 2024,2024,Enrolled,6,In-State,Online,2024-08-09
+ENR001581,WMU00453,Spring 2025,2025,Completed,9,Out-of-State,Online,2025-12-13
+ENR001582,WMU00453,Fall 2023,2023,Completed,3,Out-of-State,Online,2023-02-27
+ENR001583,WMU00454,Fall 2025,2025,Withdrawn,6,In-State,Main Campus,2025-12-18
+ENR001584,WMU00454,Spring 2024,2024,Enrolled,15,Out-of-State,Regional Campus,2024-07-14
+ENR001585,WMU00454,Fall 2023,2023,Enrolled,15,Out-of-State,Main Campus,2023-04-06
+ENR001586,WMU00455,Fall 2023,2023,Enrolled,12,Out-of-State,Online,2023-01-11
+ENR001587,WMU00455,Fall 2024,2024,Enrolled,9,Out-of-State,Main Campus,2024-08-16
+ENR001588,WMU00455,Fall 2025,2025,Completed,12,In-State,Online,2025-07-28
+ENR001589,WMU00455,Spring 2024,2024,Enrolled,6,In-State,Regional Campus,2024-03-11
+ENR001590,WMU00455,Spring 2025,2025,Completed,6,Out-of-State,Regional Campus,2025-07-28
+ENR001591,WMU00456,Fall 2023,2023,Enrolled,3,In-State,Regional Campus,2023-07-16
+ENR001592,WMU00456,Fall 2025,2025,Enrolled,3,In-State,Main Campus,2025-08-06
+ENR001593,WMU00457,Spring 2024,2024,Enrolled,9,International,Regional Campus,2024-02-02
+ENR001594,WMU00457,Fall 2024,2024,Enrolled,6,Out-of-State,Main Campus,2024-01-19
+ENR001595,WMU00458,Fall 2023,2023,Enrolled,6,Out-of-State,Online,2023-02-09
+ENR001596,WMU00458,Fall 2025,2025,Enrolled,15,International,Regional Campus,2025-02-27
+ENR001597,WMU00459,Spring 2024,2024,Completed,6,In-State,Online,2024-10-08
+ENR001598,WMU00459,Fall 2023,2023,Enrolled,9,Out-of-State,Online,2023-11-06
+ENR001599,WMU00459,Fall 2025,2025,Withdrawn,12,Out-of-State,Regional Campus,2025-05-10
+ENR001600,WMU00459,Fall 2024,2024,Withdrawn,12,In-State,Online,2024-11-11
+ENR001601,WMU00460,Spring 2024,2024,Enrolled,6,In-State,Main Campus,2024-10-04
+ENR001602,WMU00460,Spring 2025,2025,Enrolled,6,Out-of-State,Main Campus,2025-03-24
+ENR001603,WMU00460,Fall 2023,2023,Enrolled,3,Out-of-State,Regional Campus,2023-06-19
+ENR001604,WMU00461,Spring 2025,2025,Completed,3,International,Regional Campus,2025-05-23
+ENR001605,WMU00461,Fall 2025,2025,Withdrawn,6,International,Main Campus,2025-06-06
+ENR001606,WMU00461,Spring 2024,2024,Enrolled,12,Out-of-State,Main Campus,2024-01-02
+ENR001607,WMU00462,Spring 2025,2025,Enrolled,12,Out-of-State,Main Campus,2025-06-24
+ENR001608,WMU00462,Spring 2024,2024,Enrolled,12,International,Regional Campus,2024-03-01
+ENR001609,WMU00462,Fall 2025,2025,Enrolled,6,Out-of-State,Main Campus,2025-08-11
+ENR001610,WMU00462,Fall 2024,2024,Enrolled,6,In-State,Main Campus,2024-09-20
+ENR001611,WMU00463,Fall 2024,2024,Enrolled,3,International,Online,2024-12-11
+ENR001612,WMU00463,Spring 2024,2024,Enrolled,15,Out-of-State,Main Campus,2024-02-16
+ENR001613,WMU00463,Fall 2025,2025,Enrolled,15,In-State,Main Campus,2025-06-22
+ENR001614,WMU00463,Fall 2023,2023,Enrolled,15,International,Online,2023-09-19
+ENR001615,WMU00463,Spring 2025,2025,Completed,15,In-State,Online,2025-12-26
+ENR001616,WMU00464,Spring 2025,2025,Withdrawn,15,In-State,Online,2025-06-01
+ENR001617,WMU00464,Fall 2024,2024,Completed,12,International,Main Campus,2024-08-27
+ENR001618,WMU00465,Spring 2025,2025,Enrolled,9,International,Main Campus,2025-04-22
+ENR001619,WMU00465,Spring 2024,2024,Enrolled,15,Out-of-State,Online,2024-01-17
+ENR001620,WMU00465,Fall 2025,2025,Enrolled,6,In-State,Online,2025-04-13
+ENR001621,WMU00465,Fall 2023,2023,Withdrawn,3,In-State,Main Campus,2023-05-18
+ENR001622,WMU00465,Fall 2024,2024,Withdrawn,15,In-State,Regional Campus,2024-12-26
+ENR001623,WMU00466,Fall 2025,2025,Completed,15,Out-of-State,Main Campus,2025-04-13
+ENR001624,WMU00466,Fall 2023,2023,Enrolled,15,In-State,Regional Campus,2023-11-07
+ENR001625,WMU00466,Spring 2024,2024,Withdrawn,3,In-State,Online,2024-11-08
+ENR001626,WMU00466,Spring 2025,2025,Enrolled,12,In-State,Main Campus,2025-12-24
+ENR001627,WMU00467,Spring 2024,2024,Enrolled,12,Out-of-State,Main Campus,2024-12-06
+ENR001628,WMU00467,Fall 2024,2024,Enrolled,9,Out-of-State,Online,2024-09-23
+ENR001629,WMU00467,Spring 2025,2025,Enrolled,15,In-State,Main Campus,2025-02-28
+ENR001630,WMU00467,Fall 2025,2025,Enrolled,3,In-State,Online,2025-03-04
+ENR001631,WMU00468,Fall 2024,2024,Completed,12,Out-of-State,Main Campus,2024-06-26
+ENR001632,WMU00468,Fall 2023,2023,Enrolled,3,In-State,Online,2023-04-18
+ENR001633,WMU00468,Fall 2025,2025,Enrolled,9,International,Main Campus,2025-02-06
+ENR001634,WMU00468,Spring 2024,2024,Enrolled,6,In-State,Regional Campus,2024-12-18
+ENR001635,WMU00468,Spring 2025,2025,Withdrawn,6,International,Online,2025-01-11
+ENR001636,WMU00469,Spring 2025,2025,Enrolled,6,International,Regional Campus,2025-08-25
+ENR001637,WMU00469,Fall 2023,2023,Enrolled,15,International,Main Campus,2023-11-25
+ENR001638,WMU00469,Fall 2024,2024,Completed,12,Out-of-State,Online,2024-06-21
+ENR001639,WMU00469,Spring 2024,2024,Enrolled,9,In-State,Main Campus,2024-08-07
+ENR001640,WMU00469,Fall 2025,2025,Completed,3,Out-of-State,Main Campus,2025-11-12
+ENR001641,WMU00470,Spring 2025,2025,Enrolled,3,In-State,Regional Campus,2025-09-18
+ENR001642,WMU00470,Fall 2023,2023,Completed,3,In-State,Online,2023-08-18
+ENR001643,WMU00470,Spring 2024,2024,Enrolled,15,In-State,Regional Campus,2024-01-26
+ENR001644,WMU00470,Fall 2024,2024,Enrolled,9,Out-of-State,Regional Campus,2024-07-10
+ENR001645,WMU00471,Fall 2023,2023,Enrolled,9,International,Online,2023-07-05
+ENR001646,WMU00471,Fall 2025,2025,Enrolled,9,Out-of-State,Main Campus,2025-09-12
+ENR001647,WMU00472,Spring 2025,2025,Withdrawn,9,In-State,Main Campus,2025-05-11
+ENR001648,WMU00472,Fall 2024,2024,Enrolled,6,In-State,Regional Campus,2024-10-20
+ENR001649,WMU00473,Fall 2024,2024,Enrolled,3,Out-of-State,Online,2024-02-06
+ENR001650,WMU00473,Fall 2023,2023,Enrolled,15,International,Main Campus,2023-04-02
+ENR001651,WMU00474,Fall 2024,2024,Enrolled,15,In-State,Online,2024-01-10
+ENR001652,WMU00474,Fall 2023,2023,Enrolled,12,International,Online,2023-05-24
+ENR001653,WMU00474,Fall 2025,2025,Enrolled,3,In-State,Main Campus,2025-10-01
+ENR001654,WMU00474,Spring 2024,2024,Withdrawn,3,In-State,Online,2024-06-13
+ENR001655,WMU00475,Fall 2024,2024,Completed,15,In-State,Main Campus,2024-06-06
+ENR001656,WMU00475,Spring 2024,2024,Completed,6,International,Main Campus,2024-11-26
+ENR001657,WMU00476,Spring 2025,2025,Enrolled,6,International,Regional Campus,2025-09-08
+ENR001658,WMU00476,Spring 2024,2024,Enrolled,12,International,Regional Campus,2024-05-19
+ENR001659,WMU00477,Spring 2025,2025,Enrolled,12,International,Regional Campus,2025-07-07
+ENR001660,WMU00477,Spring 2024,2024,Enrolled,15,Out-of-State,Main Campus,2024-07-19
+ENR001661,WMU00477,Fall 2023,2023,Completed,12,Out-of-State,Online,2023-04-20
+ENR001662,WMU00478,Spring 2025,2025,Withdrawn,15,In-State,Main Campus,2025-07-19
+ENR001663,WMU00478,Fall 2024,2024,Enrolled,6,International,Main Campus,2024-10-06
+ENR001664,WMU00479,Spring 2024,2024,Enrolled,3,In-State,Regional Campus,2024-01-24
+ENR001665,WMU00479,Fall 2025,2025,Withdrawn,3,In-State,Main Campus,2025-05-04
+ENR001666,WMU00480,Spring 2024,2024,Withdrawn,3,In-State,Online,2024-04-15
+ENR001667,WMU00480,Fall 2023,2023,Enrolled,6,International,Regional Campus,2023-02-28
+ENR001668,WMU00481,Fall 2024,2024,Enrolled,12,International,Main Campus,2024-04-13
+ENR001669,WMU00481,Spring 2025,2025,Enrolled,9,International,Regional Campus,2025-04-16
+ENR001670,WMU00481,Spring 2024,2024,Enrolled,12,Out-of-State,Main Campus,2024-05-01
+ENR001671,WMU00481,Fall 2025,2025,Withdrawn,12,In-State,Main Campus,2025-01-24
+ENR001672,WMU00482,Fall 2025,2025,Enrolled,9,Out-of-State,Online,2025-03-14
+ENR001673,WMU00482,Fall 2024,2024,Withdrawn,3,International,Main Campus,2024-10-15
+ENR001674,WMU00482,Fall 2023,2023,Enrolled,9,International,Main Campus,2023-08-07
+ENR001675,WMU00482,Spring 2024,2024,Withdrawn,9,Out-of-State,Online,2024-03-16
+ENR001676,WMU00482,Spring 2025,2025,Withdrawn,6,In-State,Main Campus,2025-04-21
+ENR001677,WMU00483,Spring 2025,2025,Enrolled,9,International,Online,2025-12-04
+ENR001678,WMU00483,Spring 2024,2024,Completed,9,Out-of-State,Regional Campus,2024-07-01
+ENR001679,WMU00483,Fall 2024,2024,Completed,3,In-State,Main Campus,2024-05-09
+ENR001680,WMU00483,Fall 2023,2023,Completed,6,International,Regional Campus,2023-09-06
+ENR001681,WMU00483,Fall 2025,2025,Completed,12,In-State,Main Campus,2025-01-11
+ENR001682,WMU00484,Fall 2025,2025,Enrolled,6,International,Online,2025-12-25
+ENR001683,WMU00484,Fall 2024,2024,Enrolled,12,International,Online,2024-10-07
+ENR001684,WMU00484,Fall 2023,2023,Completed,12,International,Regional Campus,2023-06-04
+ENR001685,WMU00484,Spring 2024,2024,Withdrawn,12,International,Main Campus,2024-04-11
+ENR001686,WMU00484,Spring 2025,2025,Enrolled,3,Out-of-State,Online,2025-04-18
+ENR001687,WMU00485,Spring 2025,2025,Enrolled,3,International,Main Campus,2025-04-14
+ENR001688,WMU00485,Spring 2024,2024,Enrolled,3,Out-of-State,Online,2024-09-24
+ENR001689,WMU00485,Fall 2025,2025,Enrolled,3,International,Regional Campus,2025-08-23
+ENR001690,WMU00485,Fall 2023,2023,Enrolled,6,International,Main Campus,2023-04-12
+ENR001691,WMU00486,Fall 2023,2023,Completed,3,Out-of-State,Main Campus,2023-05-21
+ENR001692,WMU00486,Fall 2024,2024,Withdrawn,15,In-State,Main Campus,2024-06-08
+ENR001693,WMU00487,Fall 2023,2023,Completed,15,International,Regional Campus,2023-04-02
+ENR001694,WMU00487,Fall 2024,2024,Enrolled,12,International,Main Campus,2024-11-25
+ENR001695,WMU00488,Spring 2025,2025,Enrolled,12,In-State,Main Campus,2025-09-19
+ENR001696,WMU00488,Spring 2024,2024,Completed,6,Out-of-State,Main Campus,2024-07-23
+ENR001697,WMU00489,Fall 2024,2024,Enrolled,3,International,Regional Campus,2024-01-22
+ENR001698,WMU00489,Spring 2025,2025,Enrolled,9,In-State,Main Campus,2025-04-24
+ENR001699,WMU00489,Fall 2025,2025,Enrolled,3,In-State,Main Campus,2025-04-05
+ENR001700,WMU00489,Fall 2023,2023,Withdrawn,9,In-State,Regional Campus,2023-08-08
+ENR001701,WMU00490,Fall 2023,2023,Enrolled,6,International,Online,2023-11-14
+ENR001702,WMU00490,Fall 2025,2025,Enrolled,6,In-State,Online,2025-07-01
+ENR001703,WMU00490,Fall 2024,2024,Enrolled,6,In-State,Regional Campus,2024-03-22
+ENR001704,WMU00491,Fall 2023,2023,Withdrawn,6,In-State,Online,2023-04-23
+ENR001705,WMU00491,Fall 2025,2025,Enrolled,6,International,Regional Campus,2025-12-18
+ENR001706,WMU00491,Spring 2025,2025,Completed,15,International,Online,2025-08-06
+ENR001707,WMU00491,Fall 2024,2024,Completed,15,International,Regional Campus,2024-04-15
+ENR001708,WMU00491,Spring 2024,2024,Enrolled,12,International,Online,2024-05-11
+ENR001709,WMU00492,Fall 2025,2025,Withdrawn,6,Out-of-State,Online,2025-09-15
+ENR001710,WMU00492,Spring 2024,2024,Completed,3,In-State,Regional Campus,2024-03-02
+ENR001711,WMU00492,Fall 2024,2024,Completed,6,In-State,Regional Campus,2024-08-13
+ENR001712,WMU00492,Fall 2023,2023,Enrolled,15,In-State,Regional Campus,2023-03-18
+ENR001713,WMU00493,Spring 2024,2024,Completed,15,International,Main Campus,2024-04-18
+ENR001714,WMU00493,Fall 2025,2025,Enrolled,15,Out-of-State,Regional Campus,2025-09-03
+ENR001715,WMU00493,Fall 2023,2023,Enrolled,9,Out-of-State,Regional Campus,2023-03-27
+ENR001716,WMU00494,Fall 2023,2023,Enrolled,6,In-State,Regional Campus,2023-11-03
+ENR001717,WMU00494,Spring 2025,2025,Enrolled,15,International,Online,2025-02-14
+ENR001718,WMU00494,Spring 2024,2024,Enrolled,15,International,Online,2024-08-06
+ENR001719,WMU00495,Fall 2024,2024,Enrolled,3,International,Main Campus,2024-02-11
+ENR001720,WMU00495,Fall 2023,2023,Completed,6,In-State,Main Campus,2023-12-07
+ENR001721,WMU00495,Spring 2025,2025,Enrolled,12,Out-of-State,Regional Campus,2025-11-12
+ENR001722,WMU00495,Fall 2025,2025,Completed,3,In-State,Regional Campus,2025-03-12
+ENR001723,WMU00496,Spring 2025,2025,Enrolled,9,In-State,Main Campus,2025-09-27
+ENR001724,WMU00496,Fall 2023,2023,Completed,6,International,Regional Campus,2023-09-16
+ENR001725,WMU00496,Fall 2024,2024,Withdrawn,9,International,Main Campus,2024-03-06
+ENR001726,WMU00496,Spring 2024,2024,Completed,9,International,Main Campus,2024-06-13
+ENR001727,WMU00497,Fall 2023,2023,Enrolled,15,In-State,Regional Campus,2023-05-08
+ENR001728,WMU00497,Spring 2025,2025,Enrolled,12,International,Online,2025-02-12
+ENR001729,WMU00497,Spring 2024,2024,Enrolled,15,International,Main Campus,2024-07-13
+ENR001730,WMU00497,Fall 2025,2025,Enrolled,15,In-State,Online,2025-03-26
+ENR001731,WMU00497,Fall 2024,2024,Completed,9,In-State,Online,2024-06-22
+ENR001732,WMU00498,Fall 2024,2024,Completed,6,Out-of-State,Regional Campus,2024-01-18
+ENR001733,WMU00498,Fall 2025,2025,Withdrawn,3,In-State,Online,2025-04-08
+ENR001734,WMU00499,Fall 2025,2025,Completed,15,In-State,Main Campus,2025-02-02
+ENR001735,WMU00499,Spring 2025,2025,Enrolled,9,In-State,Online,2025-05-27
+ENR001736,WMU00499,Fall 2024,2024,Enrolled,15,International,Regional Campus,2024-12-01
+ENR001737,WMU00499,Spring 2024,2024,Enrolled,9,International,Main Campus,2024-09-16
+ENR001738,WMU00499,Fall 2023,2023,Enrolled,12,International,Main Campus,2023-07-23
+ENR001739,WMU00500,Fall 2025,2025,Enrolled,9,In-State,Regional Campus,2025-02-05
+ENR001740,WMU00500,Fall 2023,2023,Completed,12,International,Online,2023-12-06
+ENR001741,WMU00500,Spring 2024,2024,Completed,15,International,Regional Campus,2024-11-24
+ENR000026,WMU00008,Spring 2025,2025,Completed,12,In-State,Regional Campus,2025-05-12

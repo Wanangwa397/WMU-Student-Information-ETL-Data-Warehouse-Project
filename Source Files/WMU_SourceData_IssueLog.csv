@@ -1,0 +1,16 @@
+File,IssueType,Description
+StudentMaster,Duplicate StudentID,Two duplicate StudentID records added
+StudentMaster,Invalid Gender,"Values such as M, female, Unknown need standardisation/validation"
+StudentMaster,Invalid/Future Dates,Future DateOfBirth and AdmissionDate included
+StudentMaster,Invalid Categorical Values,"Actve, Ohio, Data Analytics create validation issues"
+StudentEnrollment,Orphan FK,StudentID values not found in StudentMaster
+StudentEnrollment,Invalid Credit Hours,0 and 24 credit hours included
+StudentEnrollment,Duplicate EnrollmentID,Duplicate enrollment record included
+StudentEnrollment,Invalid Term/Category,"Autumn 2024, enrolled, International Student included"
+AcademicPerformance,Invalid GPA,TermGPA above 4.0 and CumulativeGPA below 0 included
+AcademicPerformance,Invalid Grade,"A+ included though allowed grades are A, B, C, D, F, W"
+AcademicPerformance,Logic Error,CreditHoursEarned greater than CreditHoursAttempted
+FinancialAid,Invalid Amounts,Negative aid and excessive aid amount included
+FinancialAid,Invalid Categories,"scholarships, Paid, Y included"
+StudentAttendance,Logic Error,ClassesAttended greater than ClassesScheduled
+StudentAttendance,Invalid Values,"Severe risk, negative LMSLogins, excessive AdvisorMeetings included"

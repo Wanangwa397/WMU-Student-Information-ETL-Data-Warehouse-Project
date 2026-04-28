@@ -1,0 +1,503 @@
+StudentID,FirstName,LastName,Gender,DateOfBirth,Nationality,State,Program,Department,StudentLevel,AdmissionDate,StudentStatus
+WMU00001,Joseph,Rodriguez,Other,2006-05-08,Malawi,FL,Computer Science,College of Technology,Undergraduate,2021-07-02,Active
+WMU00002,Mary,Scott,Male,1998-09-20,Kenya,PA,Computer Science,College of Technology,Graduate,2022-05-26,Active
+WMU00003,Susan,Perez,Male,2000-05-05,Malawi,TX,Public Health,College of Health Sciences,Undergraduate,2024-06-28,Active
+WMU00004,Linda,Harris,Male,2006-08-18,India,GA,Education,College of Education,Graduate,2021-04-23,Active
+WMU00005,Joseph,Miller,Female,1999-02-28,India,CA,Business Analytics,College of Business,Graduate,2022-03-12,Active
+WMU00006,Robert,Hill,Other,2006-11-21,Nigeria,FL,Economics,College of Arts and Sciences,Undergraduate,2023-03-15,Active
+WMU00007,Stephanie,Brown,Male,1998-11-11,United States,IL,Education,College of Education,Graduate,2025-05-03,Active
+WMU00008,Carol,Robinson,Male,2005-08-13,India,IN,Data Science,College of Technology,Undergraduate,2022-05-24,Inactive
+WMU00009,William,Allen,Female,2001-06-08,Malawi,OH,Accounting,College of Business,Undergraduate,2025-03-21,Active
+WMU00010,Kenneth,Robinson,Other,1996-07-13,India,FL,Accounting,College of Business,Undergraduate,2025-02-22,Inactive
+WMU00011,David,Robinson,M,1996-05-14,India,FL,Education,College of Education,Undergraduate,2023-02-28,Graduated
+WMU00012,Lisa,Hernandez,Other,2004-04-05,United States,GA,Education,College of Education,Graduate,2025-08-01,Active
+WMU00013,Joshua,Garcia,Male,1998-01-08,Canada,MI,Data Science,College of Technology,Undergraduate,2023-03-22,Active
+WMU00014,Susan,Wright,Other,2003-10-14,Ghana,NY,Public Health,College of Health Sciences,Graduate,2023-06-15,Inactive
+WMU00015,Nancy,Johnson,Other,1998-04-03,Ghana,GA,Psychology,College of Arts and Sciences,Undergraduate,2021-01-03,Graduated
+WMU00016,Nancy,Jones,Other,1996-01-28,Ghana,NY,Business Analytics,College of Business,Graduate,2022-04-18,Active
+WMU00017,Michael,Miller,Other,2002-07-07,Kenya,IL,Psychology,College of Arts and Sciences,Graduate,2022-07-15,Graduated
+WMU00018,Nancy,Miller,Male,1995-07-24,Ghana,PA,Business Analytics,College of Business,Graduate,2021-03-14,Active
+WMU00019,Emily,Miller,Male,1998-02-15,United States,MI,Education,College of Education,Undergraduate,2024-03-14,Active
+WMU00020,Anthony,Smith,Female,2001-01-06,India,CA,Psychology,College of Arts and Sciences,Graduate,2022-07-23,Graduated
+WMU00021,Patricia,Nguyen,Other,1998-05-07,United States,IL,Psychology,College of Arts and Sciences,Undergraduate,2022-01-19,Active
+WMU00022,Barbara,Jones,Other,2003-02-28,Malawi,PA,Public Health,College of Health Sciences,Graduate,2021-02-19,Active
+WMU00023,Donna,Torres,female,1996-07-22,Nepal,NY,Business Analytics,College of Business,Undergraduate,2025-06-08,Active
+WMU00024,Sandra,Lee,Male,2005-11-10,United States,CA,Accounting,College of Business,Undergraduate,2022-02-18,Active
+WMU00025,Lisa,Jackson,Male,2000-02-08,Canada,FL,Education,College of Education,Graduate,2022-01-22,Inactive
+WMU00026,Michael,Scott,Male,1997-05-04,India,NY,Education,College of Education,Undergraduate,2021-06-07,Graduated
+WMU00027,Patricia,Garcia,Other,2002-05-28,Kenya,NY,Education,College of Education,Undergraduate,2025-01-11,Active
+WMU00028,Melissa,Ramirez,Other,2006-08-18,United States,MI,Education,College of Education,Undergraduate,2022-03-18,Active
+WMU00029,William,Williams,Female,2003-03-14,Nepal,OH,Data Science,College of Technology,Graduate,2025-04-22,Active
+WMU00030,Deborah,Martinez,Male,2003-07-20,Nigeria,IN,Computer Science,College of Technology,Graduate,2023-01-06,Graduated
+WMU00031,Jessica,Moore,Male,2005-12-26,Malawi,TX,Data Science,College of Technology,Undergraduate,2024-08-08,Active
+WMU00032,Mary,Gonzalez,Female,1999-04-08,Nepal,NY,Psychology,College of Arts and Sciences,Undergraduate,2023-05-12,Graduated
+WMU00033,Thomas,Lopez,Other,2000-01-04,India,OH,Accounting,College of Business,Undergraduate,2025-07-12,Graduated
+WMU00034,Anthony,Torres,Male,2004-09-04,India,OH,Data Science,College of Technology,Graduate,2024-01-17,Inactive
+WMU00035,Nancy,Flores,Female,2001-02-22,Malawi,NY,Economics,College of Arts and Sciences,Graduate,2023-07-11,Active
+WMU00036,Brian,Harris,Unknown,1997-04-14,Nigeria,GA,Education,College of Education,Graduate,2025-07-18,Active
+WMU00037,Donna,Hill,Other,1998-07-26,Nepal,CA,Education,College of Education,Graduate,2023-08-22,Active
+WMU00038,Paul,Flores,Female,2005-02-10,Malawi,PA,Psychology,College of Arts and Sciences,Graduate,2022-04-26,Active
+WMU00039,Michelle,Jones,Female,1995-04-16,Kenya,GA,Public Health,College of Health Sciences,Undergraduate,2021-07-16,Active
+WMU00040,Ronald,Miller,Female,2005-12-01,Ghana,IN,Economics,College of Arts and Sciences,Graduate,2022-01-18,Active
+WMU00041,Kimberly,Scott,Other,1997-08-22,Nepal,CA,Computer Science,College of Technology,Graduate,2024-08-06,Graduated
+WMU00042,Kevin,Moore,Other,1999-04-27,Canada,PA,Psychology,College of Arts and Sciences,Graduate,2024-08-03,Graduated
+WMU00043,Andrew,Garcia,Male,1999-06-11,Nigeria,PA,Education,College of Education,Graduate,2022-03-23,Active
+WMU00044,Sandra,Clark,Male,2001-06-18,Ghana,TX,Computer Science,College of Technology,Graduate,2024-01-28,Inactive
+WMU00045,Ronald,Harris,Female,1995-06-10,Ghana,CA,Accounting,College of Business,Undergraduate,2024-05-14,Active
+WMU00046,Betty,Hernandez,Female,2000-11-22,Nigeria,GA,Business Analytics,College of Business,Undergraduate,2024-07-19,Inactive
+WMU00047,Sandra,Lopez,Male,2005-07-05,India,TX,Business Analytics,College of Business,Graduate,2021-04-15,Active
+WMU00048,Jennifer,Walker,Male,1999-07-09,United States,IL,Data Science,College of Technology,Undergraduate,2024-02-25,Graduated
+WMU00049,Mary,Flores,Male,1998-04-27,usa,IN,Business Analytics,College of Business,Graduate,2021-02-19,Active
+WMU00050,Kenneth,Davis,Male,2000-03-20,India,MI,Psychology,College of Arts and Sciences,Undergraduate,2023-05-19,Graduated
+WMU00051,Donna,Thomas,Male,2006-04-03,India,GA,Accounting,College of Business,Undergraduate,2024-01-12,Inactive
+WMU00052,Nancy,Smith,Female,1996-09-21,Canada,MI,Accounting,College of Business,Graduate,2023-06-21,Active
+WMU00053,Carol,Moore,Other,1997-12-17,Canada,CA,Public Health,College of Health Sciences,Graduate,2024-05-11,Active
+WMU00054,Sandra,Torres,Other,2002-04-25,Kenya,IL,Computer Science,College of Technology,Undergraduate,2023-08-28,Active
+WMU00055,Thomas,Perez,Female,1998-06-26,India,FL,Public Health,College of Health Sciences,Undergraduate,2024-04-03,Active
+WMU00056,Steven,Young,Female,2003-04-23,United States,MI,Accounting,College of Business,Graduate,2024-04-13,Graduated
+WMU00057,Steven,Scott,Other,2005-10-12,Nepal,TX,Economics,College of Arts and Sciences,Graduate,2023-06-23,Active
+WMU00058,Edward,Gonzalez,Female,1999-04-04,Malawi,FL,Education,College of Education,Undergraduate,2023-04-07,Graduated
+WMU00059,Kimberly,Hill,Female,2006-10-25,Malawi,PA,Psychology,College of Arts and Sciences,Graduate,2023-04-12,Active
+WMU00060,Sarah,Williams,Male,2006-09-05,India,IN,Education,College of Education,Graduate,2021-02-28,Active
+WMU00061,Barbara,Brown,Female,2002-08-11,Canada,MI,Education,College of Education,Undergraduate,2024-07-16,Active
+WMU00062,Jennifer,Thomas,Male,1997-10-10,Kenya,GA,Business Analytics,College of Business,Undergraduate,2022-07-15,Active
+WMU00063,Michelle,Brown,Other,2001-05-19,Malawi,PA,Education,College of Education,Undergraduate,2025-05-22,Active
+WMU00064,David,Smith,Female,1997-09-03,Canada,GA,Public Health,College of Health Sciences,Graduate,2022-05-02,Active
+WMU00065,Amanda,Anderson,Female,2006-08-03,Ghana,TX,Education,College of Education,Undergraduate,2023-04-21,Active
+WMU00066,Karen,Hill,Other,1996-01-06,India,CA,Education,College of Education,Undergraduate,2022-08-23,Active
+WMU00067,Donald,Garcia,Other,2003-09-16,United States,TX,Accounting,College of Business,Graduate,2023-05-01,Active
+WMU00068,Amanda,Moore,Other,2004-01-25,United States,IN,Economics,College of Arts and Sciences,Graduate,2025-08-09,Active
+WMU00069,Mark,Perez,Female,1996-08-12,Malawi,IN,Accounting,College of Business,Graduate,2024-07-23,Active
+WMU00070,Jennifer,Lee,Female,2029-04-15,Nepal,MI,Education,College of Education,Graduate,2024-01-22,Inactive
+WMU00071,Lisa,Flores,Female,1995-04-17,Canada,OH,Psychology,College of Arts and Sciences,Undergraduate,2024-05-18,Active
+WMU00072,Mary,Hill,Male,2006-08-04,Nigeria,NY,Education,College of Education,Undergraduate,2024-07-03,Active
+WMU00073,Elizabeth,Young,Other,1996-11-27,India,FL,Computer Science,College of Technology,Graduate,2024-07-27,Active
+WMU00074,Anthony,Gonzalez,Other,2002-09-05,Nigeria,MI,Psychology,College of Arts and Sciences,Graduate,2022-07-11,Inactive
+WMU00075,Donna,Nguyen,Other,1999-12-10,Canada,IN,Education,College of Education,Graduate,2021-08-12,Active
+WMU00076,Jessica,Torres,Female,2000-04-23,Ghana,TX,Accounting,College of Business,Undergraduate,2024-06-24,Active
+WMU00077,Ashley,Williams,Male,2005-11-05,Nepal,MI,Accounting,College of Business,Graduate,2024-02-17,Active
+WMU00078,Robert,Walker,Female,2001-11-05,Nepal,GA,Business Analytics,College of Business,Graduate,2022-02-28,Active
+WMU00079,Ashley,Wright,Male,2005-12-25,Malawi,PA,Accounting,College of Business,Graduate,2023-04-24,Active
+WMU00080,Michael,Lewis,Male,2005-12-28,India,OH,Accounting,College of Business,Undergraduate,2021-06-26,Active
+WMU00081,Jessica,King,Female,2000-07-05,Nigeria,IN,Education,College of Education,Undergraduate,2023-02-20,Active
+WMU00082,Sandra,Taylor,Female,2004-03-08,India,OH,Economics,College of Arts and Sciences,Graduate,2024-05-22,Inactive
+WMU00083,Karen,Ramirez,Other,2002-06-19,India,CA,Public Health,College of Health Sciences,Graduate,2021-04-13,Active
+WMU00084,Joshua,Jackson,Other,2001-10-12,India,OH,Computer Science,College of Technology,Graduate,2022-05-01,Inactive
+WMU00085,Charles,Anderson,Other,2006-08-27,Nepal,PA,Business Analytics,College of Business,Undergraduate,2031-01-10,Graduated
+WMU00086,Karen,Lewis,Male,2005-11-02,Nepal,IN,Public Health,College of Health Sciences,Undergraduate,2021-05-11,Graduated
+WMU00087,Andrew,White,Other,1998-03-26,India,IN,Accounting,College of Business,Graduate,2022-08-26,Active
+WMU00088,Ronald,Anderson,Other,2002-02-05,Kenya,FL,Data Science,College of Technology,Graduate,2021-02-26,Active
+WMU00089,Lisa,Taylor,Other,2003-02-15,Kenya,IL,Business Analytics,College of Business,Undergraduate,2023-04-16,Active
+WMU00090,Kevin,Robinson,Other,1998-11-03,India,TX,Data Science,College of Technology,Undergraduate,2025-03-02,Active
+WMU00091,Andrew,Rodriguez,Female,1996-02-08,Canada,IL,Education,College of Education,Graduate,2024-03-14,Graduated
+WMU00092,John,White,Male,2004-07-09,Canada,CA,Computer Science,College of Technology,Undergraduate,2024-06-04,Graduated
+WMU00093,Betty,Moore,Male,2005-06-02,Malawi,CA,Data Science,College of Technology,Undergraduate,2025-04-21,Graduated
+WMU00094,Joshua,Wilson,Male,2000-04-05,Ghana,GA,Business Analytics,College of Business,Undergraduate,2021-04-11,Active
+WMU00095,Thomas,Lopez,Male,1997-03-18,United States,IN,Business Analytics,College of Business,Undergraduate,2023-06-26,Active
+WMU00096,William,Clark,Other,1997-05-02,Malawi,MI,Data Science,College of Technology,Graduate,2021-08-25,Active
+WMU00097,John,King,Female,2003-04-20,Canada,OH,Computer Science,College of Technology,Undergraduate,2024-08-28,Active
+WMU00098,Robert,Garcia,Female,2002-12-15,Nigeria,MI,Accounting,College of Business,Undergraduate,2021-05-20,Graduated
+WMU00099,Sandra,Allen,Other,2004-09-10,Kenya,MI,Data Science,College of Technology,Undergraduate,2024-04-14,Active
+WMU00100,Mark,Miller,Female,2000-08-13,Kenya,IL,Economics,College of Arts and Sciences,Graduate,2024-06-05,Graduated
+WMU00101,Margaret,Miller,Other,1996-02-03,Nepal,IN,Psychology,College of Arts and Sciences,Undergraduate,2021-06-22,Actve
+WMU00102,Edward,Brown,Female,2005-07-28,India,IL,Accounting,College of Business,Undergraduate,2023-04-05,Graduated
+WMU00103,Emily,White,Male,1996-06-28,India,GA,Psychology,College of Arts and Sciences,Undergraduate,2022-07-28,Inactive
+WMU00104,Mary,Lopez,Female,2005-12-09,India,IL,Business Analytics,College of Business,Graduate,2025-01-06,Active
+WMU00105,Mary,Garcia,Other,1997-12-21,Ghana,TX,Accounting,College of Business,Graduate,2021-08-11,Active
+WMU00106,Joshua,Hill,Male,2006-06-25,United States,IN,Data Science,College of Technology,Undergraduate,2023-01-22,Active
+WMU00107,Kenneth,Lewis,Female,2005-07-16,India,PA,Education,College of Education,Undergraduate,2024-06-14,Active
+WMU00108,Karen,Williams,Male,2002-09-22,Kenya,GA,Education,College of Education,Undergraduate,2025-01-07,Active
+WMU00109,Linda,Smith,Female,1999-05-11,Kenya,IN,Economics,College of Arts and Sciences,Undergraduate,2022-07-18,Graduated
+WMU00110,Matthew,Jones,Female,2003-11-26,United States,TX,Economics,College of Arts and Sciences,Undergraduate,2025-08-03,Active
+WMU00111,Mark,Jackson,Male,2001-12-21,Kenya,OH,Accounting,College of Business,Graduate,2025-03-26,Inactive
+WMU00112,Michael,Thomas,Female,1996-07-28,Kenya,FL,Psychology,College of Arts and Sciences,Undergraduate,2023-07-28,Active
+WMU00113,Paul,Davis,Other,2000-03-03,Ghana,IL,Data Science,College of Technology,Graduate,2022-03-08,Active
+WMU00114,Elizabeth,Jones,Male,1998-03-20,Canada,CA,Public Health,College of Health Sciences,Graduate,2023-06-28,Graduated
+WMU00115,Donald,Martin,Female,2002-02-16,United States,IL,Data Science,College of Technology,Undergraduate,2022-05-15,Active
+WMU00116,Carol,Garcia,Other,2000-05-03,Kenya,CA,Business Analytics,College of Business,Undergraduate,2021-08-26,Inactive
+WMU00117,Elizabeth,Brown,Female,2004-08-17,Malawi,IL,Economics,College of Arts and Sciences,Undergraduate,2023-03-02,Active
+WMU00118,David,White,Female,2003-09-20,India,TX,Psychology,College of Arts and Sciences,Graduate,2024-06-22,Inactive
+WMU00119,Emily,Harris,Female,1996-06-04,India,GA,Business Analytics,College of Business,Undergraduate,2023-06-03,Inactive
+WMU00120,Brian,Sanchez,Male,1999-11-23,Malawi,NY,Public Health,College of Health Sciences,Graduate,2023-06-27,Active
+WMU00121,Lisa,Martin,Male,2003-06-01,Ghana,IL,Computer Science,College of Technology,Graduate,2024-04-08,Active
+WMU00122,Stephanie,Wright,Other,1999-02-17,United States,IL,Public Health,College of Health Sciences,Undergraduate,2021-07-05,Active
+WMU00123,John,Clark,Female,1997-12-15,Ghana,CA,Public Health,College of Health Sciences,Graduate,2025-08-08,Inactive
+WMU00124,Amanda,Torres,Female,2002-04-12,Canada,NY,Economics,College of Arts and Sciences,Graduate,2023-07-06,Active
+WMU00125,Lisa,Scott,Male,1995-11-16,Malawi,NY,Public Health,College of Health Sciences,Undergraduate,2023-03-09,Active
+WMU00126,Donald,Thompson,Male,1996-04-27,Kenya,OH,Public Health,College of Health Sciences,Graduate,2024-06-08,Active
+WMU00127,Michael,Perez,Male,1998-01-11,Nigeria,OH,Computer Science,College of Technology,Graduate,2023-08-23,Active
+WMU00128,Mary,Taylor,Male,2004-01-03,Nigeria,FL,Psychology,College of Arts and Sciences,Graduate,2024-02-25,Active
+WMU00129,Mark,Flores,Female,1996-01-08,Malawi,MI,Economics,College of Arts and Sciences,Graduate,2023-01-21,Inactive
+WMU00130,Michelle,Thompson,Male,1999-07-01,Kenya,IN,Economics,College of Arts and Sciences,Undergraduate,2022-06-03,Inactive
+WMU00131,Anthony,White,Female,2002-01-21,United States,IL,Business Analytics,College of Business,Undergraduate,2024-06-08,Graduated
+WMU00132,John,Thompson,Other,2006-06-05,Nepal,IN,Computer Science,College of Technology,Graduate,2025-08-21,Active
+WMU00133,Charles,Gonzalez,Male,2006-08-02,Ghana,OH,Public Health,College of Health Sciences,Graduate,2021-05-17,Active
+WMU00134,Charles,Thompson,Male,1995-11-07,Nepal,NY,Psychology,College of Arts and Sciences,Undergraduate,2023-06-14,Active
+WMU00135,George,Young,Female,2000-03-16,India,MI,Psychology,College of Arts and Sciences,Graduate,2024-02-14,Inactive
+WMU00136,Jennifer,Lee,Other,1999-06-04,India,Ohio,Public Health,College of Health Sciences,Graduate,2025-07-06,Graduated
+WMU00137,Matthew,Flores,Female,2002-01-24,India,OH,Psychology,College of Arts and Sciences,Undergraduate,2023-07-12,Inactive
+WMU00138,Donald,Williams,Male,1997-10-22,Malawi,PA,Public Health,College of Health Sciences,Graduate,2021-06-13,Inactive
+WMU00139,Lisa,White,Female,1997-11-15,Malawi,GA,Business Analytics,College of Business,Undergraduate,2025-06-13,Active
+WMU00140,Barbara,Young,Other,1996-01-24,Kenya,FL,Education,College of Education,Undergraduate,2022-05-25,Active
+WMU00141,Ashley,Gonzalez,Male,2004-05-23,Nigeria,MI,Psychology,College of Arts and Sciences,Graduate,2022-03-23,Active
+WMU00142,Robert,Scott,Other,2005-06-23,India,NY,Computer Science,College of Technology,Undergraduate,2023-03-26,Active
+WMU00143,Ashley,Johnson,Female,1998-03-08,Nepal,CA,Economics,College of Arts and Sciences,Undergraduate,2021-02-03,Active
+WMU00144,Mark,Torres,Male,2003-07-25,Nigeria,IL,Accounting,College of Business,Undergraduate,2024-08-15,Graduated
+WMU00145,Barbara,Rodriguez,Female,2003-11-19,United States,MI,Data Science,College of Technology,Undergraduate,2022-05-06,Active
+WMU00146,Jennifer,Taylor,Male,2000-09-10,India,IN,Data Science,College of Technology,Graduate,2022-02-17,Graduated
+WMU00147,Brian,Flores,Other,2004-03-06,Nepal,GA,Public Health,College of Health Sciences,Undergraduate,2025-01-03,Active
+WMU00148,Kevin,Johnson,Female,2004-07-20,India,NY,Education,College of Education,Graduate,2022-04-26,Graduated
+WMU00149,Patricia,Hernandez,Female,2002-02-23,Kenya,CA,Accounting,College of Business,Graduate,2023-04-11,Inactive
+WMU00150,Matthew,Sanchez,Male,2006-06-24,Nepal,FL,Public Health,College of Health Sciences,Undergraduate,2023-06-08,Active
+WMU00151,Michael,Brown,Female,2002-04-05,Kenya,GA,Computer Science,College of Technology,Graduate,2023-04-28,Active
+WMU00152,Ronald,Hernandez,Female,2006-06-07,Canada,CA,Data Science,College of Technology,Graduate,2025-08-01,Active
+WMU00153,Donna,Thompson,Male,2002-04-07,United States,NY,Accounting,College of Business,Graduate,2025-08-10,Inactive
+WMU00154,Edward,White,Female,2001-03-09,Nepal,OH,Business Analytics,College of Business,Graduate,2021-01-19,Inactive
+WMU00155,Anthony,Allen,Female,2003-05-03,India,GA,Economics,College of Arts and Sciences,Undergraduate,2023-03-04,Active
+WMU00156,Elizabeth,Gonzalez,Other,2003-06-25,Kenya,FL,Data Analytics,College of Technology,Undergraduate,2023-01-02,Active
+WMU00157,Kenneth,Allen,Male,2003-08-05,Nepal,GA,Data Science,College of Technology,Graduate,2024-03-13,Inactive
+WMU00158,Paul,Wright,Female,2000-09-27,India,CA,Education,College of Education,Undergraduate,2025-06-11,Graduated
+WMU00159,Edward,Johnson,Other,2004-05-26,Canada,NY,Computer Science,College of Technology,Undergraduate,2024-01-19,Active
+WMU00160,Stephanie,Harris,Male,2005-12-20,Ghana,OH,Public Health,College of Health Sciences,Undergraduate,2025-04-01,Active
+WMU00161,Susan,Clark,Other,1997-07-23,Canada,OH,Data Science,College of Technology,Undergraduate,2024-04-18,Active
+WMU00162,Sandra,Wright,Female,2001-06-06,Nepal,NY,Psychology,College of Arts and Sciences,Graduate,2025-04-08,Active
+WMU00163,Susan,Young,Female,1999-05-23,Canada,IL,Education,College of Education,Graduate,2022-05-04,Inactive
+WMU00164,John,Jackson,Other,2000-03-10,Malawi,IL,Accounting,College of Business,Graduate,2024-05-24,Active
+WMU00165,George,Moore,Male,2003-05-18,Malawi,GA,Economics,College of Arts and Sciences,Undergraduate,2022-04-02,Graduated
+WMU00166,Nancy,Walker,Male,1995-02-14,Nigeria,OH,Economics,College of Arts and Sciences,Undergraduate,2022-07-21,Active
+WMU00167,Carol,Brown,Male,1999-06-10,Ghana,FL,Psychology,College of Arts and Sciences,Undergraduate,2022-03-14,Active
+WMU00168,Charles,Williams,Male,2002-03-24,India,GA,Business Analytics,College of Business,Undergraduate,2024-06-10,Active
+WMU00169,Richard,Davis,Female,2003-08-09,Nigeria,CA,Psychology,College of Arts and Sciences,Graduate,2022-03-01,Graduated
+WMU00170,Richard,Lopez,Other,2004-11-25,Kenya,TX,Data Science,College of Technology,Graduate,2023-02-13,Graduated
+WMU00171,Jessica,Smith,Female,1997-08-11,Kenya,PA,Computer Science,College of Technology,Graduate,2022-05-11,Active
+WMU00172,Jessica,Brown,Other,2005-06-23,Malawi,CA,Business Analytics,College of Business,Graduate,2023-03-13,Graduated
+WMU00173,Michelle,Anderson,Male,2005-05-12,Nigeria,CA,Education,College of Education,Undergraduate,2021-08-24,Inactive
+WMU00174,Ronald,Wright,Other,2006-09-16,Ghana,PA,Data Science,College of Technology,Undergraduate,2024-08-17,Graduated
+WMU00175,Emily,Allen,Male,2004-02-02,Nigeria,IN,Data Science,College of Technology,Graduate,2021-08-04,Graduated
+WMU00176,Donald,Brown,Female,2002-02-17,Nigeria,FL,Economics,College of Arts and Sciences,Graduate,2025-08-19,Active
+WMU00177,Thomas,Smith,Other,2006-01-13,Ghana,GA,Psychology,College of Arts and Sciences,Undergraduate,2023-01-14,Active
+WMU00178,John,Jackson,Female,1995-02-16,Nigeria,IN,Computer Science,College of Technology,Graduate,2025-06-13,Active
+WMU00179,Andrew,Rodriguez,Other,1996-11-22,Nepal,MI,Accounting,College of Business,Undergraduate,2024-07-17,Active
+WMU00180,Amanda,Wright,Female,1995-05-15,Kenya,PA,Economics,College of Arts and Sciences,Undergraduate,2021-08-12,Active
+WMU00181,Brian,Clark,Other,2006-02-02,United States,PA,Education,College of Education,Undergraduate,2022-02-04,Inactive
+WMU00182,Patricia,Thomas,Other,2004-11-23,United States,TX,Business Analytics,College of Business,Graduate,2024-04-18,Active
+WMU00183,Edward,Torres,Female,2003-05-08,Nepal,PA,Business Analytics,College of Business,Graduate,2022-03-22,Inactive
+WMU00184,Emily,Nguyen,Other,1999-05-02,Nigeria,TX,Economics,College of Arts and Sciences,Graduate,2024-01-12,Graduated
+WMU00185,Mark,Martinez,Female,2000-12-14,Kenya,IN,Accounting,College of Business,Graduate,2025-04-28,Active
+WMU00186,Mark,Clark,Other,2002-01-18,Nigeria,TX,Education,College of Education,Undergraduate,2022-05-07,Active
+WMU00187,Edward,Gonzalez,Male,2000-02-18,India,TX,Computer Science,College of Technology,Undergraduate,2024-02-07,Inactive
+WMU00188,James,Wilson,Male,1998-06-10,Malawi,CA,Economics,College of Arts and Sciences,Undergraduate,2024-04-13,Active
+WMU00189,Carol,Thompson,Female,2001-08-18,India,IL,Data Science,College of Technology,Graduate,2023-08-04,Graduated
+WMU00190,Mark,Williams,Other,1998-06-11,Ghana,IN,Psychology,College of Arts and Sciences,Undergraduate,2023-05-18,Inactive
+WMU00191,Joseph,Harris,Other,1997-04-11,Ghana,CA,Accounting,College of Business,Graduate,2023-05-25,Active
+WMU00192,Matthew,Hernandez,Male,1997-12-26,Canada,IN,Psychology,College of Arts and Sciences,Undergraduate,2024-01-27,Active
+WMU00193,Kevin,Anderson,Male,2001-03-27,Nigeria,OH,Business Analytics,College of Business,Undergraduate,2021-08-12,Active
+WMU00194,Emily,Clark,Male,1995-01-18,United States,FL,Psychology,College of Arts and Sciences,Graduate,2024-05-01,Inactive
+WMU00195,Elizabeth,Thomas,Male,1996-02-17,India,IL,Accounting,College of Business,Graduate,2022-07-03,Active
+WMU00196,Joseph,Martin,Other,2004-04-23,Malawi,OH,Accounting,College of Business,Undergraduate,2024-07-13,Active
+WMU00197,David,Garcia,Female,2005-01-23,Kenya,IL,Psychology,College of Arts and Sciences,Undergraduate,2021-01-08,Active
+WMU00198,Sarah,Wright,Other,1995-02-22,United States,IN,Psychology,College of Arts and Sciences,Graduate,2023-01-07,Inactive
+WMU00199,Joshua,Thomas,Other,1996-05-06,Kenya,FL,Public Health,College of Health Sciences,Graduate,2024-07-25,Graduated
+WMU00200,Patricia,Miller,Female,2003-12-12,Ghana,MI,Public Health,College of Health Sciences,Graduate,2021-07-25,Active
+WMU00201,Matthew,Scott,Female,2002-08-08,Kenya,IN,Business Analytics,College of Business,Graduate,2023-02-25,Inactive
+WMU00202,Sarah,Martinez,Female,2006-02-03,Nigeria,TX,Education,College of Education,Graduate,2022-06-04,Active
+WMU00203,Sarah,Miller,Male,2002-06-25,Malawi,IN,Business Analytics,College of Business,Graduate,2023-08-18,Inactive
+WMU00204,Emily,Garcia,Other,1995-02-12,Nepal,TX,Accounting,College of Business,Undergraduate,2021-05-14,Active
+WMU00205,David,Harris,Male,1998-10-17,Nigeria,NY,Computer Science,College of Technology,Graduate,2025-05-16,Active
+WMU00206,Karen,Walker,Male,2001-05-14,Nepal,NY,Computer Science,College of Technology,Undergraduate,2022-08-20,Inactive
+WMU00207,James,Sanchez,Female,1996-03-10,Kenya,IL,Economics,College of Arts and Sciences,Graduate,2024-06-14,Graduated
+WMU00208,Richard,Walker,Female,2000-10-23,Nigeria,TX,Public Health,College of Health Sciences,Graduate,2023-05-24,Graduated
+WMU00209,Sarah,Sanchez,Female,1998-06-13,Malawi,GA,Psychology,College of Arts and Sciences,Undergraduate,2025-03-22,Inactive
+WMU00210,Charles,Jones,Female,2006-04-15,Canada,IN,Business Analytics,College of Business,Graduate,2024-04-09,Graduated
+WMU00211,Kenneth,Walker,Other,2001-02-15,Kenya,FL,Public Health,College of Health Sciences,Graduate,2024-01-26,Active
+WMU00212,Matthew,Hernandez,Other,1998-11-22,United States,GA,Computer Science,College of Technology,Graduate,2021-06-26,Active
+WMU00213,Paul,King,Other,1996-05-08,Ghana,CA,Computer Science,College of Technology,Graduate,2021-07-15,Graduated
+WMU00214,Charles,Clark,Male,1995-08-04,Malawi,IN,Public Health,College of Health Sciences,Graduate,2023-05-11,Active
+WMU00215,Michael,Lewis,Other,2002-06-16,Canada,IL,Economics,College of Arts and Sciences,Undergraduate,2025-05-02,Graduated
+WMU00216,Amanda,Hernandez,Other,2000-11-04,Ghana,FL,Computer Science,College of Technology,Undergraduate,2021-03-11,Inactive
+WMU00217,Barbara,Lopez,Other,1998-07-21,Kenya,TX,Accounting,College of Business,Undergraduate,2024-04-15,Inactive
+WMU00218,Susan,Moore,Other,1995-12-07,Malawi,GA,Accounting,College of Business,Undergraduate,2024-03-12,Active
+WMU00219,Ashley,King,Other,1996-05-22,Nepal,GA,Economics,College of Arts and Sciences,Graduate,2024-07-19,Active
+WMU00220,Amanda,Martin,Other,2002-10-06,Malawi,IN,Data Science,College of Technology,Graduate,2023-02-08,Active
+WMU00221,Paul,Harris,Female,2000-12-05,Nigeria,GA,Computer Science,College of Technology,Graduate,2022-07-06,Active
+WMU00222,William,Lopez,Female,1997-08-10,Canada,GA,Public Health,College of Health Sciences,Undergraduate,2025-06-01,Active
+WMU00223,Carol,Young,Female,2001-09-17,Canada,TX,Public Health,College of Health Sciences,Graduate,2022-08-06,Active
+WMU00224,Joseph,Wright,Female,1999-01-09,Nigeria,CA,Business Analytics,College of Business,Graduate,2022-02-19,Active
+WMU00225,Ronald,Williams,Other,2000-09-27,Canada,FL,Education,College of Education,Undergraduate,2025-07-04,Graduated
+WMU00226,Matthew,Garcia,Female,1995-08-09,Malawi,PA,Economics,College of Arts and Sciences,Undergraduate,2023-06-28,Graduated
+WMU00227,Susan,Wilson,Male,2004-03-26,Nepal,FL,Accounting,College of Business,Graduate,2022-03-11,Graduated
+WMU00228,Paul,Miller,Male,2004-05-28,Kenya,OH,Education,College of Education,Graduate,2023-03-23,Active
+WMU00229,Jessica,Sanchez,Female,2006-06-27,Nigeria,GA,Economics,College of Arts and Sciences,Graduate,2022-07-13,Active
+WMU00230,Sarah,White,Female,2001-09-24,Canada,IL,Computer Science,College of Technology,Undergraduate,2021-02-24,Active
+WMU00231,Margaret,Wilson,Female,2003-07-07,India,IL,Data Science,College of Technology,Graduate,2021-06-18,Inactive
+WMU00232,Ronald,Brown,Male,2002-06-22,Malawi,CA,Public Health,College of Health Sciences,Undergraduate,2025-02-28,Active
+WMU00233,George,Rodriguez,Other,1995-07-07,India,IN,Psychology,College of Arts and Sciences,Graduate,2024-02-21,Active
+WMU00234,David,Brown,Female,2000-11-21,India,PA,Education,College of Education,Graduate,2021-02-23,Active
+WMU00235,Donna,Anderson,Other,2002-02-05,Canada,OH,Business Analytics,College of Business,Undergraduate,2022-06-27,Active
+WMU00236,Anthony,Garcia,Other,2002-02-08,Malawi,MI,Accounting,College of Business,Graduate,2022-06-10,Active
+WMU00237,Robert,King,Other,2005-11-05,United States,GA,Accounting,College of Business,Undergraduate,2022-08-12,Graduated
+WMU00238,Donald,Wilson,Male,2001-10-22,Malawi,IN,Economics,College of Arts and Sciences,Undergraduate,2022-07-12,Active
+WMU00239,Jennifer,Thomas,Other,1998-05-21,India,OH,Data Science,College of Technology,Graduate,2022-04-17,Inactive
+WMU00240,Jessica,Young,Female,1999-11-02,Malawi,PA,Economics,College of Arts and Sciences,Graduate,2024-02-17,Active
+WMU00241,Joshua,Clark,Female,1997-07-28,Nigeria,CA,Data Science,College of Technology,Undergraduate,2023-01-19,Active
+WMU00242,Betty,Allen,Female,1998-01-02,Kenya,TX,Business Analytics,College of Business,Graduate,2023-02-21,Inactive
+WMU00243,Paul,Wilson,Male,1996-05-03,Nepal,TX,Public Health,College of Health Sciences,Undergraduate,2023-05-23,Active
+WMU00244,Linda,Robinson,Other,1998-02-14,United States,NY,Economics,College of Arts and Sciences,Undergraduate,2021-02-01,Graduated
+WMU00245,Kimberly,King,Other,1997-08-12,India,IN,Public Health,College of Health Sciences,Graduate,2021-03-24,Active
+WMU00246,Kimberly,Jones,Female,2000-07-09,Malawi,CA,Computer Science,College of Technology,Graduate,2021-06-02,Active
+WMU00247,Michael,Torres,Other,1997-05-25,Malawi,PA,Public Health,College of Health Sciences,Undergraduate,2023-01-28,Active
+WMU00248,Elizabeth,Lopez,Male,2002-06-13,Kenya,PA,Economics,College of Arts and Sciences,Graduate,2021-04-14,Graduated
+WMU00249,Linda,Allen,Other,1996-10-12,United States,IN,Data Science,College of Technology,Undergraduate,2023-01-13,Active
+WMU00250,Emily,Robinson,Male,1999-06-03,Nepal,PA,Psychology,College of Arts and Sciences,Graduate,2023-05-24,Inactive
+WMU00251,Stephanie,Gonzalez,Other,2000-10-16,Ghana,IN,Economics,College of Arts and Sciences,Undergraduate,2024-07-01,Active
+WMU00252,Brian,Harris,Other,2000-01-25,India,MI,Data Science,College of Technology,Undergraduate,2021-04-14,Active
+WMU00253,John,Anderson,Other,2006-05-03,Kenya,IL,Business Analytics,College of Business,Graduate,2022-02-19,Active
+WMU00254,Patricia,Ramirez,Other,1996-10-19,Nigeria,PA,Public Health,College of Health Sciences,Graduate,2024-05-28,Active
+WMU00255,Joseph,Jones,Male,2000-08-09,Nigeria,GA,Accounting,College of Business,Undergraduate,2023-03-04,Active
+WMU00256,Andrew,Thompson,Male,2000-07-04,Canada,NY,Psychology,College of Arts and Sciences,Graduate,2024-05-28,Active
+WMU00257,Melissa,Hill,Male,2005-05-27,Ghana,IL,Computer Science,College of Technology,Undergraduate,2022-02-23,Active
+WMU00258,Karen,Taylor,Male,2003-01-22,United States,TX,Data Science,College of Technology,Graduate,2024-04-04,Active
+WMU00259,Stephanie,Anderson,Male,1996-01-02,Ghana,TX,Computer Science,College of Technology,Graduate,2022-02-19,Inactive
+WMU00260,Carol,Lewis,Male,1995-02-07,Malawi,IL,Education,College of Education,Undergraduate,2021-01-15,Active
+WMU00261,Ashley,Johnson,Female,2001-12-13,Kenya,IN,Public Health,College of Health Sciences,Graduate,2025-04-06,Active
+WMU00262,Michelle,Flores,Male,1997-01-20,India,CA,Education,College of Education,Graduate,2024-08-02,Active
+WMU00263,Carol,King,Male,1997-07-07,United States,TX,Education,College of Education,Graduate,2024-08-18,Active
+WMU00264,Sarah,Lopez,Male,2003-06-13,Nepal,GA,Data Science,College of Technology,Undergraduate,2025-01-26,Active
+WMU00265,Donna,Anderson,Male,2003-06-25,Malawi,PA,Business Analytics,College of Business,Undergraduate,2024-05-18,Graduated
+WMU00266,Barbara,Lopez,Male,2004-07-12,Nepal,IL,Business Analytics,College of Business,Undergraduate,2022-06-19,Inactive
+WMU00267,Karen,Lopez,Female,1998-08-18,United States,MI,Public Health,College of Health Sciences,Undergraduate,2025-04-20,Active
+WMU00268,Michelle,Gonzalez,Male,2002-01-11,Nepal,IN,Business Analytics,College of Business,Graduate,2025-01-01,Active
+WMU00269,Lisa,Sanchez,Other,2003-06-03,Malawi,IL,Public Health,College of Health Sciences,Graduate,2021-06-05,Active
+WMU00270,Melissa,Scott,Other,2005-06-06,Nepal,PA,Accounting,College of Business,Undergraduate,2024-07-10,Graduated
+WMU00271,George,Torres,Female,1997-12-01,United States,IN,Education,College of Education,Graduate,2022-04-21,Inactive
+WMU00272,Robert,Thomas,Female,1997-06-24,Nepal,IN,Computer Science,College of Technology,Undergraduate,2024-06-15,Active
+WMU00273,Matthew,Taylor,Male,1998-12-03,United States,OH,Education,College of Education,Graduate,2022-08-24,Active
+WMU00274,Andrew,Harris,Male,2002-07-12,Canada,GA,Public Health,College of Health Sciences,Undergraduate,2024-03-15,Active
+WMU00275,Michael,Jones,Female,1995-06-09,Nigeria,TX,Business Analytics,College of Business,Undergraduate,2023-02-18,Active
+WMU00276,Mary,Ramirez,Other,2004-08-23,Nigeria,GA,Data Science,College of Technology,Graduate,2025-03-02,Active
+WMU00277,Emily,Wright,Female,1998-07-23,India,NY,Data Science,College of Technology,Undergraduate,2022-02-02,Active
+WMU00278,Margaret,Garcia,Female,1995-06-01,Canada,PA,Psychology,College of Arts and Sciences,Undergraduate,2022-01-07,Active
+WMU00279,Betty,Walker,Female,2002-02-10,India,MI,Education,College of Education,Graduate,2021-03-12,Active
+WMU00280,Donald,Robinson,Female,2002-01-09,Ghana,NY,Data Science,College of Technology,Undergraduate,2022-03-25,Graduated
+WMU00281,Andrew,Clark,Other,2005-06-26,Ghana,FL,Computer Science,College of Technology,Undergraduate,2021-07-27,Inactive
+WMU00282,Jessica,Walker,Female,2005-08-19,Malawi,TX,Accounting,College of Business,Undergraduate,2025-03-04,Active
+WMU00283,John,Ramirez,Male,1998-04-05,Kenya,PA,Public Health,College of Health Sciences,Undergraduate,2022-05-11,Graduated
+WMU00284,Emily,Lee,Female,2001-09-13,Canada,OH,Computer Science,College of Technology,Graduate,2021-02-14,Active
+WMU00285,Michael,Miller,Other,2004-10-25,Malawi,NY,Public Health,College of Health Sciences,Graduate,2025-07-09,Active
+WMU00286,Barbara,Moore,Female,2004-08-02,Nigeria,GA,Psychology,College of Arts and Sciences,Graduate,2025-01-13,Active
+WMU00287,Lisa,Johnson,Female,2006-08-09,India,NY,Economics,College of Arts and Sciences,Graduate,2021-08-28,Graduated
+WMU00288,Donald,Lee,Female,1997-05-24,Kenya,GA,Computer Science,College of Technology,Undergraduate,2022-04-15,Active
+WMU00289,Patricia,Allen,Male,2003-06-27,Malawi,NY,Accounting,College of Business,Graduate,2024-03-25,Inactive
+WMU00290,Patricia,Thomas,Male,1998-04-27,Canada,OH,Business Analytics,College of Business,Graduate,2022-04-09,Active
+WMU00291,Amanda,Johnson,Male,2001-11-04,Nepal,CA,Psychology,College of Arts and Sciences,Graduate,2025-03-28,Active
+WMU00292,George,Garcia,Female,1997-05-24,United States,TX,Data Science,College of Technology,Undergraduate,2023-03-28,Inactive
+WMU00293,Susan,Moore,Other,2005-04-22,Kenya,FL,Economics,College of Arts and Sciences,Undergraduate,2022-01-16,Active
+WMU00294,Kenneth,Martin,Other,1995-04-09,India,TX,Public Health,College of Health Sciences,Graduate,2025-06-15,Active
+WMU00295,Michelle,Sanchez,Other,1999-11-17,Malawi,OH,Economics,College of Arts and Sciences,Graduate,2024-05-10,Graduated
+WMU00296,Kevin,Lee,Female,1996-06-09,India,NY,Computer Science,College of Technology,Undergraduate,2024-03-17,Active
+WMU00297,Amanda,Rodriguez,Other,2001-11-11,United States,CA,Business Analytics,College of Business,Graduate,2025-05-14,Active
+WMU00298,Richard,Perez,Other,2004-12-19,Ghana,FL,Accounting,College of Business,Graduate,2021-06-17,Active
+WMU00299,Steven,Rodriguez,Other,1997-05-04,India,FL,Public Health,College of Health Sciences,Undergraduate,2025-06-21,Active
+WMU00300,Karen,Clark,Female,1998-12-28,Nepal,NY,Economics,College of Arts and Sciences,Graduate,2023-08-28,Active
+WMU00301,Michelle,Jones,Female,2005-10-19,Ghana,FL,Psychology,College of Arts and Sciences,Undergraduate,2021-07-17,Active
+WMU00302,Nancy,Clark,Other,1997-03-07,Canada,IN,Accounting,College of Business,Graduate,2021-03-25,Active
+WMU00303,Kevin,Brown,Male,2005-03-11,Canada,NY,Psychology,College of Arts and Sciences,Undergraduate,2023-03-19,Active
+WMU00304,Kevin,Ramirez,Female,1997-10-14,Kenya,CA,Psychology,College of Arts and Sciences,Graduate,2021-01-02,Inactive
+WMU00305,Kimberly,Gonzalez,Male,1995-06-25,United States,PA,Economics,College of Arts and Sciences,Undergraduate,2023-06-10,Active
+WMU00306,David,Jones,Male,2003-10-10,India,NY,Computer Science,College of Technology,Graduate,2024-06-14,Graduated
+WMU00307,Richard,Hernandez,Female,2002-06-25,United States,PA,Public Health,College of Health Sciences,Undergraduate,2023-03-07,Graduated
+WMU00308,Lisa,Williams,Female,2003-03-04,India,FL,Business Analytics,College of Business,Undergraduate,2025-01-22,Active
+WMU00309,Donald,Harris,Male,2006-02-14,India,CA,Business Analytics,College of Business,Undergraduate,2021-04-23,Graduated
+WMU00310,Brian,King,Female,2001-11-04,Nigeria,TX,Business Analytics,College of Business,Undergraduate,2023-02-10,Active
+WMU00311,Stephanie,Taylor,Other,1998-10-07,Ghana,IL,Computer Science,College of Technology,Graduate,2024-05-06,Active
+WMU00312,Jessica,Smith,Male,2006-08-11,Malawi,MI,Psychology,College of Arts and Sciences,Graduate,2022-03-03,Inactive
+WMU00313,Sandra,Jackson,Female,1999-11-08,Canada,OH,Computer Science,College of Technology,Undergraduate,2021-03-28,Active
+WMU00314,Deborah,Davis,Male,2005-06-14,United States,OH,Education,College of Education,Undergraduate,2023-03-11,Active
+WMU00315,Lisa,Perez,Male,1999-12-03,Malawi,TX,Psychology,College of Arts and Sciences,Graduate,2025-08-09,Active
+WMU00316,William,Brown,Male,2005-03-04,Malawi,TX,Psychology,College of Arts and Sciences,Graduate,2024-08-06,Inactive
+WMU00317,Amanda,Rodriguez,Female,2004-01-28,Canada,MI,Accounting,College of Business,Graduate,2023-08-02,Active
+WMU00318,Amanda,King,Other,1995-12-28,Ghana,IL,Education,College of Education,Undergraduate,2023-07-22,Graduated
+WMU00319,Carol,Harris,Male,2000-11-22,United States,OH,Economics,College of Arts and Sciences,Undergraduate,2024-08-28,Active
+WMU00320,Nancy,Moore,Male,2002-06-08,Ghana,FL,Public Health,College of Health Sciences,Graduate,2021-07-27,Active
+WMU00321,Jennifer,Young,Female,2002-10-15,Nepal,MI,Computer Science,College of Technology,Graduate,2024-01-04,Active
+WMU00322,Jennifer,Hill,Other,2003-09-01,India,FL,Accounting,College of Business,Undergraduate,2021-08-11,Active
+WMU00323,Stephanie,Flores,Other,2002-06-18,Canada,IL,Business Analytics,College of Business,Graduate,2022-02-04,Graduated
+WMU00324,Kevin,Jackson,Other,2000-06-27,Nepal,MI,Economics,College of Arts and Sciences,Undergraduate,2021-03-16,Active
+WMU00325,Richard,Davis,Female,1999-10-07,Ghana,CA,Accounting,College of Business,Undergraduate,2021-06-04,Active
+WMU00326,Brian,Nguyen,Other,1996-08-15,Nigeria,CA,Business Analytics,College of Business,Undergraduate,2025-01-18,Active
+WMU00327,Barbara,Rodriguez,Male,1997-12-19,Kenya,GA,Psychology,College of Arts and Sciences,Graduate,2025-07-14,Inactive
+WMU00328,Donald,Rodriguez,Male,2001-06-10,Kenya,GA,Economics,College of Arts and Sciences,Graduate,2023-06-23,Graduated
+WMU00329,Charles,Thompson,Other,1998-10-23,Nigeria,IN,Economics,College of Arts and Sciences,Graduate,2022-02-25,Active
+WMU00330,Mark,Wright,Female,2004-11-23,Kenya,OH,Psychology,College of Arts and Sciences,Undergraduate,2025-01-13,Active
+WMU00331,David,Jackson,Other,1998-05-25,India,IN,Business Analytics,College of Business,Undergraduate,2021-05-07,Inactive
+WMU00332,Amanda,Scott,Male,2002-02-20,Kenya,PA,Business Analytics,College of Business,Graduate,2023-01-13,Active
+WMU00333,Deborah,Taylor,Male,2003-01-01,Canada,PA,Accounting,College of Business,Graduate,2023-04-25,Graduated
+WMU00334,Robert,Lopez,Male,2002-03-22,Malawi,TX,Economics,College of Arts and Sciences,Undergraduate,2023-07-09,Inactive
+WMU00335,Thomas,Smith,Female,1997-10-28,Canada,IN,Education,College of Education,Undergraduate,2022-03-11,Inactive
+WMU00336,Joshua,Scott,Female,2005-05-16,Malawi,IL,Business Analytics,College of Business,Undergraduate,2025-03-17,Active
+WMU00337,Jennifer,Thompson,Male,2003-09-13,Ghana,IL,Public Health,College of Health Sciences,Graduate,2024-06-10,Active
+WMU00338,Brian,Thompson,Female,2005-01-04,Ghana,GA,Psychology,College of Arts and Sciences,Undergraduate,2025-01-22,Active
+WMU00339,Edward,Jackson,Male,2001-05-18,Nepal,FL,Accounting,College of Business,Graduate,2021-08-02,Active
+WMU00340,David,Wright,Other,2003-02-04,United States,MI,Economics,College of Arts and Sciences,Undergraduate,2023-04-28,Graduated
+WMU00341,George,Ramirez,Other,1998-09-27,Malawi,IN,Accounting,College of Business,Undergraduate,2021-08-23,Active
+WMU00342,Thomas,Scott,Male,1996-01-06,Ghana,NY,Business Analytics,College of Business,Graduate,2021-07-15,Graduated
+WMU00343,Amanda,Davis,Other,2000-01-13,United States,GA,Accounting,College of Business,Undergraduate,2024-01-23,Active
+WMU00344,Amanda,Martin,Other,1996-05-26,Malawi,NY,Data Science,College of Technology,Graduate,2025-07-13,Graduated
+WMU00345,William,Sanchez,Other,1997-09-08,India,IN,Business Analytics,College of Business,Graduate,2024-06-01,Inactive
+WMU00346,Kenneth,Sanchez,Other,1995-01-19,Malawi,NY,Public Health,College of Health Sciences,Undergraduate,2021-06-07,Active
+WMU00347,Thomas,Gonzalez,Male,1997-04-20,Nigeria,GA,Public Health,College of Health Sciences,Undergraduate,2022-08-21,Inactive
+WMU00348,Michael,Gonzalez,Other,2005-02-09,Canada,IL,Computer Science,College of Technology,Graduate,2023-03-22,Graduated
+WMU00349,Richard,Lee,Female,1999-10-03,Canada,IL,Economics,College of Arts and Sciences,Graduate,2021-03-19,Inactive
+WMU00350,Daniel,Thomas,Male,2001-03-01,Kenya,NY,Data Science,College of Technology,Graduate,2023-03-22,Graduated
+WMU00351,Stephanie,Martin,Female,2002-08-12,Malawi,IN,Data Science,College of Technology,Undergraduate,2024-05-28,Active
+WMU00352,Edward,Jones,Male,2006-11-03,United States,GA,Economics,College of Arts and Sciences,Graduate,2023-04-02,Inactive
+WMU00353,Stephanie,Martinez,Female,2003-08-21,Kenya,PA,Education,College of Education,Graduate,2025-03-15,Inactive
+WMU00354,Brian,Thomas,Other,2000-09-01,Nigeria,FL,Computer Science,College of Technology,Undergraduate,2024-08-06,Active
+WMU00355,Ronald,Young,Male,2000-01-08,Malawi,NY,Public Health,College of Health Sciences,Graduate,2024-04-02,Graduated
+WMU00356,Sandra,Williams,Male,2000-07-16,Nepal,MI,Economics,College of Arts and Sciences,Graduate,2025-05-19,Inactive
+WMU00357,Donna,Jones,Other,2005-07-12,India,TX,Public Health,College of Health Sciences,Undergraduate,2024-07-12,Active
+WMU00358,William,Lewis,Male,2004-01-17,Ghana,MI,Psychology,College of Arts and Sciences,Graduate,2024-04-05,Active
+WMU00359,Linda,Anderson,Female,2004-12-27,Nepal,MI,Public Health,College of Health Sciences,Graduate,2023-08-16,Active
+WMU00360,William,Torres,Other,1995-04-02,Nigeria,IN,Public Health,College of Health Sciences,Undergraduate,2024-03-02,Active
+WMU00361,Joshua,Johnson,Other,2003-07-20,India,MI,Education,College of Education,Undergraduate,2022-08-20,Active
+WMU00362,Elizabeth,Nguyen,Male,1998-07-20,India,IN,Psychology,College of Arts and Sciences,Graduate,2022-08-20,Inactive
+WMU00363,Michael,Johnson,Male,2001-07-05,Kenya,IN,Computer Science,College of Technology,Undergraduate,2022-03-16,Inactive
+WMU00364,Steven,Rodriguez,Other,2003-02-03,United States,TX,Business Analytics,College of Business,Graduate,2025-06-28,Active
+WMU00365,Donna,Torres,Male,2002-07-12,Kenya,IN,Accounting,College of Business,Graduate,2022-08-25,Active
+WMU00366,Thomas,Gonzalez,Male,2004-09-14,United States,GA,Computer Science,College of Technology,Undergraduate,2023-01-13,Graduated
+WMU00367,Elizabeth,Ramirez,Other,2001-06-04,India,NY,Economics,College of Arts and Sciences,Graduate,2023-06-20,Active
+WMU00368,Emily,Walker,Male,2001-09-26,Nepal,FL,Accounting,College of Business,Graduate,2022-05-10,Inactive
+WMU00369,Brian,Davis,Other,2006-03-28,Ghana,CA,Data Science,College of Technology,Undergraduate,2024-02-07,Inactive
+WMU00370,Amanda,Brown,Male,2003-10-23,Kenya,OH,Accounting,College of Business,Undergraduate,2023-03-16,Inactive
+WMU00371,Lisa,Garcia,Other,1996-05-08,United States,TX,Accounting,College of Business,Graduate,2021-05-23,Inactive
+WMU00372,James,Gonzalez,Other,2005-08-15,India,PA,Business Analytics,College of Business,Undergraduate,2022-04-20,Active
+WMU00373,David,Garcia,Female,1998-11-01,Kenya,IL,Business Analytics,College of Business,Graduate,2023-07-19,Active
+WMU00374,Edward,Scott,Other,1996-09-10,Nepal,IL,Business Analytics,College of Business,Graduate,2021-04-20,Active
+WMU00375,Barbara,Clark,Other,2004-01-09,Malawi,FL,Psychology,College of Arts and Sciences,Undergraduate,2024-05-11,Active
+WMU00376,Donald,Harris,Other,2004-05-23,Canada,PA,Education,College of Education,Graduate,2025-08-22,Active
+WMU00377,Anthony,Anderson,Other,1996-05-03,Ghana,IL,Business Analytics,College of Business,Graduate,2024-06-17,Inactive
+WMU00378,Betty,Perez,Male,1998-05-03,Nigeria,CA,Business Analytics,College of Business,Graduate,2023-06-07,Inactive
+WMU00379,Ashley,Gonzalez,Male,2006-11-07,Ghana,NY,Education,College of Education,Undergraduate,2022-04-07,Active
+WMU00380,Amanda,Young,Other,1996-02-03,United States,FL,Data Science,College of Technology,Undergraduate,2022-08-12,Inactive
+WMU00381,Barbara,Allen,Female,2004-05-16,Kenya,PA,Data Science,College of Technology,Undergraduate,2024-01-17,Active
+WMU00382,Betty,Lopez,Female,1995-09-12,Malawi,FL,Psychology,College of Arts and Sciences,Graduate,2025-06-23,Active
+WMU00383,Daniel,White,Other,2001-10-04,India,IN,Business Analytics,College of Business,Graduate,2022-04-09,Active
+WMU00384,Susan,Clark,Other,1997-08-14,Nepal,IL,Data Science,College of Technology,Graduate,2023-05-15,Active
+WMU00385,Michael,Moore,Male,2005-04-27,Kenya,TX,Public Health,College of Health Sciences,Undergraduate,2025-03-26,Graduated
+WMU00386,Ashley,Rodriguez,Other,1995-03-14,Nepal,CA,Public Health,College of Health Sciences,Graduate,2024-05-18,Inactive
+WMU00387,Patricia,Wilson,Female,1996-12-06,Canada,MI,Business Analytics,College of Business,Graduate,2024-06-09,Active
+WMU00388,Mary,Clark,Male,2003-05-12,Nepal,GA,Data Science,College of Technology,Undergraduate,2025-03-25,Active
+WMU00389,Stephanie,Lewis,Male,2005-09-16,Kenya,GA,Data Science,College of Technology,Graduate,2023-08-21,Active
+WMU00390,Joshua,Sanchez,Male,2001-11-20,Malawi,IN,Public Health,College of Health Sciences,Graduate,2023-04-11,Active
+WMU00391,Sarah,Lewis,Female,2004-11-13,Canada,TX,Education,College of Education,Undergraduate,2023-03-28,Active
+WMU00392,George,Garcia,Male,2005-05-24,Nigeria,TX,Public Health,College of Health Sciences,Undergraduate,2022-02-03,Active
+WMU00393,Jennifer,Miller,Female,2001-09-25,Nigeria,MI,Business Analytics,College of Business,Graduate,2021-05-08,Active
+WMU00394,Kimberly,Hernandez,Male,2005-03-05,United States,IL,Education,College of Education,Graduate,2024-08-15,Inactive
+WMU00395,Andrew,Lopez,Other,2002-03-23,Canada,GA,Education,College of Education,Graduate,2025-05-12,Active
+WMU00396,Mark,Taylor,Male,2002-05-12,India,OH,Economics,College of Arts and Sciences,Undergraduate,2021-03-12,Active
+WMU00397,Ronald,Walker,Female,1995-12-16,United States,TX,Psychology,College of Arts and Sciences,Graduate,2025-04-26,Active
+WMU00398,Betty,Thomas,Male,2001-09-14,Kenya,TX,Data Science,College of Technology,Undergraduate,2022-05-03,Active
+WMU00399,Sarah,Jackson,Other,2004-12-22,India,TX,Economics,College of Arts and Sciences,Undergraduate,2025-02-06,Active
+WMU00400,Donald,Moore,Other,2005-08-20,Canada,PA,Education,College of Education,Graduate,2021-01-05,Active
+WMU00401,William,Lewis,Other,1996-05-09,United States,PA,Business Analytics,College of Business,Undergraduate,2022-03-01,Active
+WMU00402,Ashley,White,Female,2001-05-26,United States,IL,Economics,College of Arts and Sciences,Undergraduate,2023-03-02,Active
+WMU00403,Richard,Taylor,Female,2003-08-06,United States,MI,Accounting,College of Business,Undergraduate,2021-07-25,Active
+WMU00404,Stephanie,Miller,Other,1998-08-24,Ghana,CA,Economics,College of Arts and Sciences,Graduate,2021-05-11,Active
+WMU00405,Steven,Martin,Male,2003-02-09,Nepal,OH,Business Analytics,College of Business,Undergraduate,2025-02-08,Graduated
+WMU00406,Sarah,Nguyen,Male,1995-03-26,Kenya,PA,Accounting,College of Business,Undergraduate,2023-01-19,Graduated
+WMU00407,Jennifer,Thomas,Male,1997-06-25,Canada,MI,Psychology,College of Arts and Sciences,Graduate,2025-01-02,Active
+WMU00408,Joseph,Lee,Other,1996-03-16,Nepal,CA,Public Health,College of Health Sciences,Undergraduate,2025-01-23,Active
+WMU00409,Melissa,Lewis,Other,1999-01-16,India,FL,Data Science,College of Technology,Graduate,2022-04-19,Active
+WMU00410,Kenneth,Scott,Male,2006-08-09,Malawi,FL,Data Science,College of Technology,Undergraduate,2023-08-10,Active
+WMU00411,Anthony,Lopez,Male,1995-11-17,Nepal,GA,Data Science,College of Technology,Undergraduate,2024-06-24,Active
+WMU00412,Stephanie,Scott,Male,2003-11-16,India,IL,Accounting,College of Business,Graduate,2022-06-04,Active
+WMU00413,John,Gonzalez,Male,1997-03-28,Canada,PA,Computer Science,College of Technology,Undergraduate,2021-01-19,Graduated
+WMU00414,Donna,Taylor,Male,2003-10-23,Nepal,PA,Accounting,College of Business,Undergraduate,2024-01-07,Graduated
+WMU00415,Lisa,Scott,Other,2002-11-02,Kenya,IL,Psychology,College of Arts and Sciences,Undergraduate,2021-05-17,Active
+WMU00416,Michael,Miller,Other,1996-04-17,Ghana,FL,Computer Science,College of Technology,Graduate,2023-04-07,Inactive
+WMU00417,Deborah,Scott,Female,2005-03-18,Malawi,GA,Economics,College of Arts and Sciences,Graduate,2025-08-23,Graduated
+WMU00418,Betty,Allen,Female,1997-03-18,Nigeria,FL,Accounting,College of Business,Graduate,2021-06-11,Inactive
+WMU00419,Edward,Lee,Other,2001-11-14,Ghana,GA,Data Science,College of Technology,Undergraduate,2023-07-25,Inactive
+WMU00420,James,Williams,Female,2002-08-13,United States,FL,Education,College of Education,Undergraduate,2023-05-01,Active
+WMU00421,George,Moore,Other,2000-01-25,Nigeria,MI,Economics,College of Arts and Sciences,Undergraduate,2022-08-12,Active
+WMU00422,Joseph,Taylor,Female,2000-10-08,Malawi,GA,Public Health,College of Health Sciences,Graduate,2023-04-24,Active
+WMU00423,George,Torres,Male,1997-08-27,India,OH,Data Science,College of Technology,Graduate,2024-02-25,Active
+WMU00424,Linda,Anderson,Other,2001-07-28,United States,TX,Data Science,College of Technology,Undergraduate,2023-05-17,Active
+WMU00425,Paul,Anderson,Male,2004-03-11,United States,TX,Data Science,College of Technology,Graduate,2025-02-08,Active
+WMU00426,Jennifer,Walker,Other,1997-03-11,United States,FL,Education,College of Education,Graduate,2024-05-03,Active
+WMU00427,Richard,Young,Female,1997-08-18,Ghana,FL,Accounting,College of Business,Undergraduate,2022-04-03,Active
+WMU00428,Linda,Clark,Female,2005-10-03,Nepal,IL,Accounting,College of Business,Undergraduate,2023-06-12,Inactive
+WMU00429,Donald,Flores,Male,1997-06-20,Canada,OH,Business Analytics,College of Business,Undergraduate,2023-04-22,Active
+WMU00430,Jessica,Flores,Male,1996-12-02,India,OH,Public Health,College of Health Sciences,Graduate,2021-02-10,Active
+WMU00431,Andrew,Wilson,Male,2000-04-24,India,FL,Psychology,College of Arts and Sciences,Graduate,2021-03-23,Graduated
+WMU00432,John,Taylor,Male,2004-11-17,United States,NY,Business Analytics,College of Business,Undergraduate,2024-05-02,Active
+WMU00433,Brian,White,Male,2001-11-09,United States,NY,Business Analytics,College of Business,Graduate,2021-04-13,Inactive
+WMU00434,Jennifer,Lopez,Male,2002-10-18,Canada,FL,Computer Science,College of Technology,Undergraduate,2023-01-08,Inactive
+WMU00435,David,Johnson,Female,2002-07-24,Nepal,IL,Education,College of Education,Graduate,2023-04-17,Active
+WMU00436,Sarah,Anderson,Male,2001-01-18,Nepal,TX,Business Analytics,College of Business,Undergraduate,2023-02-24,Active
+WMU00437,Margaret,Martin,Other,1998-10-05,Nepal,CA,Economics,College of Arts and Sciences,Undergraduate,2024-04-21,Active
+WMU00438,Kimberly,Rodriguez,Female,1999-12-23,Nigeria,GA,Economics,College of Arts and Sciences,Undergraduate,2022-06-03,Inactive
+WMU00439,Mary,Lee,Female,2000-03-24,Kenya,NY,Computer Science,College of Technology,Graduate,2022-05-05,Active
+WMU00440,Michelle,Flores,Female,1997-01-25,Ghana,GA,Computer Science,College of Technology,Undergraduate,2022-04-22,Active
+WMU00441,Paul,Hill,Female,2006-08-05,Nepal,IN,Data Science,College of Technology,Graduate,2021-08-16,Active
+WMU00442,Ronald,Smith,Female,1998-01-14,Kenya,PA,Public Health,College of Health Sciences,Undergraduate,2022-04-03,Active
+WMU00443,Sandra,Thomas,Female,2002-12-11,Kenya,OH,Psychology,College of Arts and Sciences,Graduate,2025-06-13,Inactive
+WMU00444,John,Thomas,Other,1996-08-15,Kenya,OH,Business Analytics,College of Business,Graduate,2025-01-07,Active
+WMU00445,David,Ramirez,Female,1999-05-15,United States,FL,Psychology,College of Arts and Sciences,Undergraduate,2024-08-27,Graduated
+WMU00446,Barbara,Nguyen,Other,2006-09-04,Nigeria,TX,Psychology,College of Arts and Sciences,Graduate,2021-06-15,Active
+WMU00447,Sandra,Garcia,Female,2004-12-07,Nepal,IN,Public Health,College of Health Sciences,Undergraduate,2024-02-04,Graduated
+WMU00448,Anthony,Allen,Other,1996-09-23,Nigeria,TX,Psychology,College of Arts and Sciences,Graduate,2023-01-25,Active
+WMU00449,Elizabeth,Lopez,Other,2005-03-06,United States,TX,Data Science,College of Technology,Graduate,2025-05-24,Active
+WMU00450,James,Flores,Female,1996-03-07,United States,CA,Education,College of Education,Graduate,2022-08-18,Active
+WMU00451,Steven,Robinson,Female,1998-10-22,Canada,MI,Psychology,College of Arts and Sciences,Undergraduate,2022-04-18,Active
+WMU00452,Carol,Thompson,Male,1997-03-02,Nigeria,OH,Economics,College of Arts and Sciences,Graduate,2021-06-03,Active
+WMU00453,Charles,Flores,Other,1997-03-22,Nigeria,CA,Computer Science,College of Technology,Graduate,2024-01-03,Active
+WMU00454,Margaret,Scott,Male,2001-02-25,India,CA,Data Science,College of Technology,Undergraduate,2023-02-23,Active
+WMU00455,George,Wilson,Other,2001-09-07,United States,MI,Data Science,College of Technology,Undergraduate,2025-08-24,Graduated
+WMU00456,Kimberly,Torres,Other,2004-06-09,Nepal,IN,Education,College of Education,Graduate,2024-08-16,Active
+WMU00457,Mary,Robinson,Other,1998-01-04,Malawi,PA,Economics,College of Arts and Sciences,Graduate,2023-07-02,Active
+WMU00458,Kevin,Gonzalez,Other,2005-04-01,India,NY,Data Science,College of Technology,Undergraduate,2025-05-10,Inactive
+WMU00459,Nancy,Sanchez,Other,1996-11-11,United States,IN,Data Science,College of Technology,Undergraduate,2021-06-27,Active
+WMU00460,Steven,Martinez,Other,1995-11-05,Canada,FL,Psychology,College of Arts and Sciences,Graduate,2024-08-26,Active
+WMU00461,Amanda,Lee,Other,1999-10-24,United States,PA,Business Analytics,College of Business,Graduate,2025-06-03,Active
+WMU00462,Andrew,Hernandez,Other,2000-07-21,Kenya,IN,Education,College of Education,Undergraduate,2021-05-23,Active
+WMU00463,Jessica,White,Female,2001-02-16,India,PA,Business Analytics,College of Business,Graduate,2023-03-04,Active
+WMU00464,Mary,Walker,Other,1996-08-17,Nigeria,PA,Business Analytics,College of Business,Graduate,2022-08-24,Inactive
+WMU00465,Kimberly,Rodriguez,Male,1997-02-27,United States,CA,Education,College of Education,Graduate,2023-02-01,Active
+WMU00466,John,Miller,Other,1996-06-15,India,OH,Business Analytics,College of Business,Graduate,2025-04-11,Active
+WMU00467,Stephanie,Lewis,Other,1999-09-11,Malawi,NY,Economics,College of Arts and Sciences,Undergraduate,2023-03-09,Active
+WMU00468,Susan,Wright,Female,2003-09-04,Nepal,NY,Business Analytics,College of Business,Undergraduate,2025-05-19,Active
+WMU00469,Andrew,Lewis,Male,1999-10-11,Nigeria,OH,Public Health,College of Health Sciences,Graduate,2021-01-04,Active
+WMU00470,Melissa,Hill,Other,2001-07-06,Canada,GA,Business Analytics,College of Business,Graduate,2021-05-11,Active
+WMU00471,George,Robinson,Male,2004-03-03,Canada,NY,Computer Science,College of Technology,Graduate,2024-08-08,Active
+WMU00472,Barbara,Perez,Female,1999-06-13,Canada,CA,Public Health,College of Health Sciences,Undergraduate,2025-02-16,Active
+WMU00473,Stephanie,Thompson,Other,2002-03-10,Nigeria,FL,Data Science,College of Technology,Undergraduate,2024-07-27,Graduated
+WMU00474,Karen,Wright,Female,2003-11-03,Kenya,GA,Computer Science,College of Technology,Graduate,2023-04-20,Active
+WMU00475,Susan,Nguyen,Female,2001-02-11,Kenya,GA,Public Health,College of Health Sciences,Graduate,2024-04-06,Graduated
+WMU00476,Kenneth,Robinson,Female,2002-02-19,Malawi,CA,Computer Science,College of Technology,Undergraduate,2025-05-13,Active
+WMU00477,Carol,Brown,Male,2001-06-16,Ghana,IN,Computer Science,College of Technology,Undergraduate,2025-03-22,Active
+WMU00478,Joshua,Lewis,Male,1999-07-20,Ghana,IL,Psychology,College of Arts and Sciences,Graduate,2025-05-14,Graduated
+WMU00479,Paul,Sanchez,Male,2004-01-20,India,OH,Data Science,College of Technology,Graduate,2021-01-01,Graduated
+WMU00480,Margaret,Nguyen,Female,1999-01-08,Nepal,TX,Data Science,College of Technology,Graduate,2021-07-14,Inactive
+WMU00481,Emily,Harris,Female,2002-03-07,Kenya,IN,Economics,College of Arts and Sciences,Graduate,2022-03-05,Active
+WMU00482,Brian,Ramirez,Male,1997-12-16,Malawi,IN,Computer Science,College of Technology,Graduate,2021-08-26,Graduated
+WMU00483,Margaret,Scott,Female,1997-08-17,Kenya,IL,Accounting,College of Business,Undergraduate,2025-03-14,Inactive
+WMU00484,Melissa,Allen,Female,2002-12-08,Kenya,FL,Business Analytics,College of Business,Graduate,2025-01-02,Inactive
+WMU00485,George,Garcia,Male,1996-10-16,India,CA,Psychology,College of Arts and Sciences,Undergraduate,2023-02-08,Active
+WMU00486,Patricia,Perez,Other,2004-05-20,United States,CA,Computer Science,College of Technology,Graduate,2025-08-19,Graduated
+WMU00487,David,Williams,Other,2000-05-10,India,GA,Data Science,College of Technology,Graduate,2024-01-21,Active
+WMU00488,Deborah,Flores,Male,1995-11-10,India,CA,Public Health,College of Health Sciences,Undergraduate,2025-03-17,Active
+WMU00489,Sarah,Taylor,Male,1997-10-09,Malawi,GA,Education,College of Education,Undergraduate,2023-03-22,Active
+WMU00490,Ashley,Lopez,Other,1999-12-08,United States,IL,Data Science,College of Technology,Undergraduate,2022-03-20,Active
+WMU00491,Donald,Hernandez,Male,2001-04-22,Nepal,OH,Psychology,College of Arts and Sciences,Graduate,2024-02-02,Active
+WMU00492,Deborah,Wright,Male,2002-05-16,Kenya,TX,Psychology,College of Arts and Sciences,Graduate,2024-05-05,Inactive
+WMU00493,Amanda,Lee,Other,1999-08-13,United States,MI,Accounting,College of Business,Graduate,2021-07-20,Graduated
+WMU00494,Michael,Taylor,Other,1999-05-26,Kenya,CA,Education,College of Education,Undergraduate,2023-04-17,Active
+WMU00495,James,Jones,Male,2003-01-22,Kenya,MI,Public Health,College of Health Sciences,Undergraduate,2023-08-12,Active
+WMU00496,Michelle,Garcia,Male,1998-01-01,Ghana,GA,Education,College of Education,Undergraduate,2023-02-03,Inactive
+WMU00497,Barbara,Davis,Other,2005-11-19,Nigeria,NY,Public Health,College of Health Sciences,Graduate,2024-08-22,Active
+WMU00498,Stephanie,Lee,Female,2001-12-22,Nigeria,MI,Psychology,College of Arts and Sciences,Graduate,2023-01-13,Active
+WMU00499,Donald,Jones,Female,1999-05-06,Ghana,GA,Data Science,College of Technology,Graduate,2021-03-21,Active
+WMU00500,Michelle,Miller,Female,2003-07-07,India,MI,Computer Science,College of Technology,Undergraduate,2022-02-03,Inactive
+WMU00006,Duplicate,Hill,Other,2006-11-21,Nigeria,FL,Economics,College of Arts and Sciences,Undergraduate,2023-03-15,Active
+WMU00018,Nancy,Miller,Male,1995-07-24,Ghana,PA,Business Analytics,College of Business,Graduate,2021-03-14,Active
