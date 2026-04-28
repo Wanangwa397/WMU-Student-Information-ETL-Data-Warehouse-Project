@@ -83,6 +83,9 @@ Power BI Reporting
 
 ### ETL Process Flow
 
+### SSIS Control Flow
+
+![Final SSIS Control Flow](Screenshots/Final_Control_Flow.jpg)
 
 1. Truncate SQL staging tables before loading data from CSV source
 2. Load csv fikes to SQL staging tables
@@ -151,6 +154,7 @@ Data quality validation was implemented using SQL business rules supported by re
 
 ## 7. Exception Handling
 
+
 Invalid records were never loaded into the warehouse.
 
 Instead, failed records were redirected into dedicated exception tables:
@@ -160,6 +164,37 @@ Instead, failed records were redirected into dedicated exception tables:
 - exceptions.AcademicPerformance
 - exceptions.FinancialAid
 - exceptions.StudentAttendance
+
+### AcademicPerformance Exceptions
+
+### exceptions.StudentMaster
+
+![exceptions.StudentMaster](Screenshots/exceptions_StudentMaster.png)
+
+---
+
+### exceptions.StudentEnrollment
+
+![exceptions.StudentEnrollment](Screenshots/exceptions_StudentEnrollment.png)
+
+---
+
+### exceptions.AcademicPerformance
+
+
+![exceptions.AcademicPerformance](Screenshots/exceptions_AcademicPerformance..png)
+
+---
+
+### exceptions.FinancialAid
+
+![exceptions.FinancialAid](Screenshots/exceptions_FinancialAid.png)
+
+---
+
+### exceptions.StudentAttendance
+
+![exceptions.StudentAttendance](Screenshots/exceptions_StudentAttendance.png)
 
 Each exception record stored:
 
@@ -287,6 +322,7 @@ Example issues include:
 This supports management reporting and data governance review.
 
 ### audit.ETLRun
+![ETL Run Audit](Screenshots/audit_ETLRun.png)
 
 This table stores ETL execution history and final ETL performance metrics.
 
@@ -317,6 +353,10 @@ Status      = Success
 ### Validation Consistency Proof
 
 The project ensured consistency between validation reporting and ETL execution logging:
+
+### Validation Summary Table
+
+![Validation Summary](Screenshots/Validation_Summary.jpg)
 
 ```text
 audit.ValidationSummary total issues = 723
